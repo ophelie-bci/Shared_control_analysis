@@ -5,6 +5,7 @@ import numpy as np
 from pathlib import Path
 import yaml
 import pathlib
+import pandas as pd
 
 # -------------------------------------------------------------------------
 # User-defined analysis settings
@@ -76,7 +77,7 @@ def compute_session_success_rate(trials):
     return success_rate, n_success, n_total
 
 
-def main():
+def main(base_dir=None):
     """
     Load reset-prior PKL files for one monkey × experiment condition and
     summarize session-level success rates.
@@ -93,7 +94,8 @@ def main():
          - print session summary
     5. Print the average success rate across sessions.
     """
-    base_dir = load_base_dir_from_config("config.yaml")
+    if base_dir is None:
+        base_dir = load_base_dir_from_config("config.yaml")
     input_dir = os.path.join(base_dir, MONKEY, EXPERIMENT, SUBFOLDER)
 
     # Check that the expected data directory exists
@@ -106,6 +108,7 @@ def main():
         raise SystemExit(f"No reset_prior_analyzes_*.pkl files found in: {input_dir}")
 
     session_rates = []
+    rows = []
 
     for pkl_path in pkl_files:
         print(f"\n--- Loading: {pkl_path}")
@@ -121,6 +124,15 @@ def main():
         # Compute per-session success rate
         session_rate, n_success, n_total = compute_session_success_rate(trials)
         session_rates.append(session_rate)
+        rows.append(
+            {
+                "session": session_name,
+                "file": os.path.basename(pkl_path),
+                "n_success": n_success,
+                "n_total": n_total,
+                "success_rate": session_rate,
+            }
+        )
 
         print(f"{session_name}: {n_success}/{n_total} = {100 * session_rate:.2f}%")
 

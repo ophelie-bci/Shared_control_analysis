@@ -2981,8 +2981,9 @@ def plot_individual_trials(
     data_dir = os.path.join(base_dir, monkey, experiment, "aiLog")
     pkl_files = glob.glob(os.path.join(data_dir, "*.pkl"))
 
-    # If you want to force a single file, set it here; otherwise iterate all
-    file_path = r'X:\Method paper data\Monkey 1\AI Obstacle\aiLog\navdecodingsphereaiobstacle_Loki_20241223_1106_E_aitrials.pkl'
+    if not pkl_files:
+        raise FileNotFoundError(f"No aiLog PKL files found under {data_dir}")
+    file_path = pkl_files[0]
     # for file_path in pkl_files:
     with open(file_path, "rb") as f:
         trials = pickle.load(f)[1]
@@ -3437,8 +3438,9 @@ def plot_individual_trials(
     data_dir = os.path.join(base_dir, monkey, experiment, "aiLog")
     pkl_files = glob.glob(os.path.join(data_dir, "*.pkl"))
 
-    # For now: force a specific file; change if needed
-    file_path = r"X:\Method paper data\Monkey 3\AI Respawn\Reset_prior_analyze\navdecodingsphereairespawn_Maui_20250617_1151_A_prior_reset.pkl"
+    if not pkl_files:
+        raise FileNotFoundError(f"No aiLog PKL files found under {data_dir}")
+    file_path = pkl_files[0]
 
     with open(file_path, "rb") as f:
         new_trials = pickle.load(f)

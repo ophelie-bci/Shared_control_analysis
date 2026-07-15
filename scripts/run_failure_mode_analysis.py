@@ -32,6 +32,7 @@ Typical workflow
 import os
 import sys
 import argparse
+import inspect
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -89,6 +90,42 @@ from src.AI_metrics import (
     metrics_summary,
     event_aligned_profiles,
 )
+
+
+def _function_has_placeholder_body(func):
+    """
+    Return True when a function still contains the generated placeholder markers
+    that were left during script cleanup.
+    """
+    try:
+        source = inspect.getsource(func)
+    except OSError:
+        return True
+    return "keep your current body unchanged" in source or "keep your current session-loop body unchanged" in source
+
+
+def assert_recompute_is_implemented():
+    """
+    Guard against accidentally overwriting the cached manuscript summary with an
+    empty placeholder recomputation.
+    """
+    placeholder_functions = [
+        analyze_trajectories,
+        classify_no_ai_failure_obstacle_contact,
+        classify_no_ai_failure_reason,
+        compute_intention_from_model_velocity_full_trial,
+        plot_failure_modes,
+        table_avatar_entropy_switch_on_ambiguous_trials,
+        failure_mode_pvalues,
+    ]
+    missing = [func.__name__ for func in placeholder_functions if _function_has_placeholder_body(func)]
+    if missing:
+        names = ", ".join(missing)
+        raise RuntimeError(
+            "Failure-mode recomputation is not implemented in this checkout. "
+            f"Placeholder bodies remain in: {names}. "
+            "Run without --recompute to regenerate manuscript plots from Variables/grand_summary.pkl."
+        )
 
 
 def trial_id(tr):
@@ -1226,6 +1263,11 @@ def main():
         default=None,
         help="Path to the root data directory",
     )
+    parser.add_argument(
+        "--recompute",
+        action="store_true",
+        help="Recompute Variables/grand_summary.pkl from raw trials before plotting.",
+    )
     args = parser.parse_args()
 
     # Load base_dir from config.yaml if not provided on the command line.
@@ -1241,12 +1283,12 @@ def main():
         if args.base_dir is None:
             raise ValueError("base_dir must be specified via CLI or in config.yaml")
 
-    # Recompute grand summary from raw data if needed.
-    grand_summary = analyze_trajectories(args.monkeys, args.experiments, args.base_dir)
-    save_grand_summary(grand_summary, args.experiments)
-
-    # Default behavior: load an existing grand summary and plot from it.
-    grand_summary = load_grand_summary()
+    if args.recompute:
+        assert_recompute_is_implemented()
+        grand_summary = analyze_trajectories(args.monkeys, args.experiments, args.base_dir)
+        save_grand_summary(grand_summary, args.experiments)
+    else:
+        grand_summary = load_grand_summary()
 
     plot_success_by_choice_state_global_final(grand_summary, behavioral_only=False)
     plot_failure_modes_all(grand_summary, save_prefix="failure_modes_rebinned")

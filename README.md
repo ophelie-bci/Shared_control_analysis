@@ -456,7 +456,7 @@ Data processing and analysis were performed using Python. Custom scripts used fo
 
 ## Access and sharing information
 
-- License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+- License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 - Restrictions: None. Data are released under CC0 1.0.
 - Dataset URL: The dataset is available at: https://doi.org/10.48804/7KGSQS. The dataset will be publicly accessible at this location upon publication of the associated article.
 - Related materials:

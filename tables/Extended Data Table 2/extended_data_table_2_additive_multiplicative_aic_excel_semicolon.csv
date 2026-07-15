@@ -1,0 +1,6 @@
+Monkey;Task;AIC (Additive);AIC (Multiplicative);Delta AIC (Mult - Add);Preferred Model
+Monkey 1;AI Obstacle;-26.02;-10.68;15.34;Additive
+Monkey 1;AI Appearing Obstacle;-10.72;-4.24;6.48;Additive
+Monkey 1;AI Appearing Obstacle (6 months later);-15.04;-7.79;7.25;Additive
+Monkey 2;AI Obstacle;-21.85;-13.49;8.36;Additive
+Monkey 2;AI Appearing Obstacle;-17.16;-2.9;14.26;Additive

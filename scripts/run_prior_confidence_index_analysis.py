@@ -71,8 +71,17 @@ def run_prior_confidence_analysis(monkeys, experiments, base_dir):
             # Example single-trial plots
             # -----------------------------------------------------------------
             # This is mainly for qualitative visualization of shared-control
-            # behavior on individual trials.
-            plot_individual_trials(monkey, experiment, base_dir)
+            # behavior on individual trials. Some released files load trials as
+            # plain dictionaries while this helper still expects object-style
+            # attributes, so keep this optional visualization from stopping the
+            # manuscript-level population figures.
+            try:
+                plot_individual_trials(monkey, experiment, base_dir)
+            except Exception as exc:
+                print(
+                    "[WARN] Skipping individual-trial plots for "
+                    f"{monkey} / {experiment}: {exc}"
+                )
 
             print("[INFO] Done.")
 

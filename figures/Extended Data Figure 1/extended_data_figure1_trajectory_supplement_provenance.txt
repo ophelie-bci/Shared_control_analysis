@@ -1,0 +1,10 @@
+Data-driven Extended Data Figure 1.
+Base data directory: config.yaml base_dir
+Experiment: AI Obstacle
+Monkeys: Monkey 1, Monkey 2
+Metric table is embedded in the figure; no standalone Extended Data Figure 1 table files are written.
+Metric pairing unit: session x target.
+Collision-rate definition: previous-script obstacle proximity proxy; min distance to obstacle <= 0.94 m
+Time-to-target definition: final trajectory time minus first nonzero modelVelocity vz bin.
+Smoothness definition: log10(mean squared jerk normalized by number of time points)
+P-value definition: two-sided paired Wilcoxon signed-rank test, zero_method='wilcox', mode='auto'.
