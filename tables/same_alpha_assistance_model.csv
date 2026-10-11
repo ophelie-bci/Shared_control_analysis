@@ -1,0 +1,2 @@
+model,n_samples,n_sessions,beta_implied_bci_prior_disagreement,ci_low,ci_high,p_value,r_squared
+assistance_magnitude ~ implied_bci_prior_disagreement + alpha + C(alpha_bin),275382,60,0.25944560264282396,0.25385664261964946,0.26503456266599845,0.0,0.8203158018775487

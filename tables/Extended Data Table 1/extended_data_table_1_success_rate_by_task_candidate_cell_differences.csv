@@ -1,0 +1,145 @@
+row,column,comparison_source,candidate_value,reference_value,difference_type,note
+Monkey 1 | Fixed Obstacle,Monkey,previous_csv,Monkey 1,Monkey 1,none,
+Monkey 1 | Fixed Obstacle,Monkey,latest_manuscript_embedded_table,Monkey 1,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,Monkey,figure3_annotations,Monkey 1,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Fixed Obstacle,Task,previous_csv,Fixed Obstacle,Fixed Obstacle,none,
+Monkey 1 | Fixed Obstacle,Task,latest_manuscript_embedded_table,Fixed Obstacle,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,Task,figure3_annotations,Fixed Obstacle,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Fixed Obstacle,Number of sessions,previous_csv,12,12,none,
+Monkey 1 | Fixed Obstacle,Number of sessions,latest_manuscript_embedded_table,12,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,Number of sessions,figure3_annotations,12,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Fixed Obstacle,BCI-only (mean +/- SD),previous_csv,49 +/- 10,49 +/- 10,none,
+Monkey 1 | Fixed Obstacle,BCI-only (mean +/- SD),latest_manuscript_embedded_table,49 +/- 10,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,BCI-only (mean +/- SD),figure3_annotations,49 +/- 10,49 +/- 10,none,
+Monkey 1 | Fixed Obstacle,Shared-control (mean +/- SD),previous_csv,81 +/- 8,81 +/- 8,none,
+Monkey 1 | Fixed Obstacle,Shared-control (mean +/- SD),latest_manuscript_embedded_table,81 +/- 8,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,Shared-control (mean +/- SD),figure3_annotations,81 +/- 8,81 +/- 8,none,
+Monkey 1 | Fixed Obstacle,Legacy chance level,previous_csv,14,14,none,
+Monkey 1 | Fixed Obstacle,Legacy chance level,latest_manuscript_embedded_table,14,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,Legacy chance level,figure3_annotations,14,14,none,
+Monkey 1 | Fixed Obstacle,Shared-control Gain (pp),previous_csv,31.6,31.6,none,
+Monkey 1 | Fixed Obstacle,Shared-control Gain (pp),latest_manuscript_embedded_table,31.6,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,Shared-control Gain (pp),figure3_annotations,31.6,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Fixed Obstacle,p-value (paired Wilcoxon),previous_csv,4.88 x 10^-4,4.88 x 10^-4,none,
+Monkey 1 | Fixed Obstacle,p-value (paired Wilcoxon),latest_manuscript_embedded_table,4.88 x 10^-4,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Fixed Obstacle,p-value (paired Wilcoxon),figure3_annotations,4.88 x 10^-4,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle,Monkey,previous_csv,Monkey 1,Monkey 1,none,
+Monkey 1 | Appearing Obstacle,Monkey,latest_manuscript_embedded_table,Monkey 1,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,Monkey,figure3_annotations,Monkey 1,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle,Task,previous_csv,Appearing Obstacle,Appearing Obstacle,none,
+Monkey 1 | Appearing Obstacle,Task,latest_manuscript_embedded_table,Appearing Obstacle,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,Task,figure3_annotations,Appearing Obstacle,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle,Number of sessions,previous_csv,10,10,none,
+Monkey 1 | Appearing Obstacle,Number of sessions,latest_manuscript_embedded_table,10,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,Number of sessions,figure3_annotations,10,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle,BCI-only (mean +/- SD),previous_csv,39 +/- 15,39 +/- 15,none,
+Monkey 1 | Appearing Obstacle,BCI-only (mean +/- SD),latest_manuscript_embedded_table,39 +/- 15,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,BCI-only (mean +/- SD),figure3_annotations,39 +/- 15,39 +/- 15,none,
+Monkey 1 | Appearing Obstacle,Shared-control (mean +/- SD),previous_csv,67 +/- 16,67 +/- 16,none,
+Monkey 1 | Appearing Obstacle,Shared-control (mean +/- SD),latest_manuscript_embedded_table,67 +/- 16,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,Shared-control (mean +/- SD),figure3_annotations,67 +/- 16,67 +/- 16,none,
+Monkey 1 | Appearing Obstacle,Legacy chance level,previous_csv,18,18,none,
+Monkey 1 | Appearing Obstacle,Legacy chance level,latest_manuscript_embedded_table,18,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,Legacy chance level,figure3_annotations,18,18,none,
+Monkey 1 | Appearing Obstacle,Shared-control Gain (pp),previous_csv,27.4,27.4,none,
+Monkey 1 | Appearing Obstacle,Shared-control Gain (pp),latest_manuscript_embedded_table,27.4,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,Shared-control Gain (pp),figure3_annotations,27.4,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle,p-value (paired Wilcoxon),previous_csv,1.95 x 10^-3,1.95 x 10^-3,none,
+Monkey 1 | Appearing Obstacle,p-value (paired Wilcoxon),latest_manuscript_embedded_table,1.95 x 10^-3,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle,p-value (paired Wilcoxon),figure3_annotations,1.95 x 10^-3,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle (6 months later),Monkey,previous_csv,Monkey 1,Monkey 1,none,
+Monkey 1 | Appearing Obstacle (6 months later),Monkey,latest_manuscript_embedded_table,Monkey 1,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),Monkey,figure3_annotations,Monkey 1,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle (6 months later),Task,previous_csv,Appearing Obstacle (6 months later),Appearing Obstacle (6 months later),none,
+Monkey 1 | Appearing Obstacle (6 months later),Task,latest_manuscript_embedded_table,Appearing Obstacle (6 months later),,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),Task,figure3_annotations,Appearing Obstacle (6 months later),,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle (6 months later),Number of sessions,previous_csv,9,9,none,
+Monkey 1 | Appearing Obstacle (6 months later),Number of sessions,latest_manuscript_embedded_table,9,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),Number of sessions,figure3_annotations,9,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle (6 months later),BCI-only (mean +/- SD),previous_csv,57 +/- 12,57 +/- 12,none,
+Monkey 1 | Appearing Obstacle (6 months later),BCI-only (mean +/- SD),latest_manuscript_embedded_table,57 +/- 12,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),BCI-only (mean +/- SD),figure3_annotations,57 +/- 12,57 +/- 12,none,
+Monkey 1 | Appearing Obstacle (6 months later),Shared-control (mean +/- SD),previous_csv,80 +/- 10,80 +/- 10,none,
+Monkey 1 | Appearing Obstacle (6 months later),Shared-control (mean +/- SD),latest_manuscript_embedded_table,80 +/- 10,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),Shared-control (mean +/- SD),figure3_annotations,80 +/- 10,80 +/- 10,none,
+Monkey 1 | Appearing Obstacle (6 months later),Legacy chance level,previous_csv,16,16,none,
+Monkey 1 | Appearing Obstacle (6 months later),Legacy chance level,latest_manuscript_embedded_table,16,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),Legacy chance level,figure3_annotations,16,17,manuscript_annotation_difference,Candidate table cell differs from copied Figure 3 annotation.
+Monkey 1 | Appearing Obstacle (6 months later),Shared-control Gain (pp),previous_csv,23.0,23.0,none,
+Monkey 1 | Appearing Obstacle (6 months later),Shared-control Gain (pp),latest_manuscript_embedded_table,23.0,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),Shared-control Gain (pp),figure3_annotations,23.0,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Appearing Obstacle (6 months later),p-value (paired Wilcoxon),previous_csv,3.91 x 10^-3,3.91 x 10^-3,none,
+Monkey 1 | Appearing Obstacle (6 months later),p-value (paired Wilcoxon),latest_manuscript_embedded_table,3.91 x 10^-3,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Appearing Obstacle (6 months later),p-value (paired Wilcoxon),figure3_annotations,3.91 x 10^-3,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Respawn,Monkey,previous_csv,Monkey 1,Monkey 1,none,
+Monkey 1 | Respawn,Monkey,latest_manuscript_embedded_table,Monkey 1,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,Monkey,figure3_annotations,Monkey 1,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Respawn,Task,previous_csv,Respawn,Respawn,none,
+Monkey 1 | Respawn,Task,latest_manuscript_embedded_table,Respawn,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,Task,figure3_annotations,Respawn,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Respawn,Number of sessions,previous_csv,9,9,none,
+Monkey 1 | Respawn,Number of sessions,latest_manuscript_embedded_table,9,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,Number of sessions,figure3_annotations,9,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Respawn,BCI-only (mean +/- SD),previous_csv,79 +/- 8,79 +/- 8,none,
+Monkey 1 | Respawn,BCI-only (mean +/- SD),latest_manuscript_embedded_table,79 +/- 8,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,BCI-only (mean +/- SD),figure3_annotations,79 +/- 8,80 +/- 8,manuscript_annotation_difference,Candidate table cell differs from copied Figure 3 annotation.
+Monkey 1 | Respawn,Shared-control (mean +/- SD),previous_csv,67 +/- 10,67 +/- 10,none,
+Monkey 1 | Respawn,Shared-control (mean +/- SD),latest_manuscript_embedded_table,67 +/- 10,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,Shared-control (mean +/- SD),figure3_annotations,67 +/- 10,67 +/- 10,none,
+Monkey 1 | Respawn,Legacy chance level,previous_csv,24,24,none,
+Monkey 1 | Respawn,Legacy chance level,latest_manuscript_embedded_table,24,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,Legacy chance level,figure3_annotations,24,24,none,
+Monkey 1 | Respawn,Shared-control Gain (pp),previous_csv,-12.6,-12.6,none,
+Monkey 1 | Respawn,Shared-control Gain (pp),latest_manuscript_embedded_table,-12.6,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,Shared-control Gain (pp),figure3_annotations,-12.6,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 1 | Respawn,p-value (paired Wilcoxon),previous_csv,1.17 x 10^-2,1.17 x 10^-2,none,
+Monkey 1 | Respawn,p-value (paired Wilcoxon),latest_manuscript_embedded_table,1.17 x 10^-2,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 1 | Respawn,p-value (paired Wilcoxon),figure3_annotations,1.17 x 10^-2,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Fixed Obstacle,Monkey,previous_csv,Monkey 2,Monkey 2,none,
+Monkey 2 | Fixed Obstacle,Monkey,latest_manuscript_embedded_table,Monkey 2,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,Monkey,figure3_annotations,Monkey 2,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Fixed Obstacle,Task,previous_csv,Fixed Obstacle,Fixed Obstacle,none,
+Monkey 2 | Fixed Obstacle,Task,latest_manuscript_embedded_table,Fixed Obstacle,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,Task,figure3_annotations,Fixed Obstacle,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Fixed Obstacle,Number of sessions,previous_csv,11,11,none,
+Monkey 2 | Fixed Obstacle,Number of sessions,latest_manuscript_embedded_table,11,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,Number of sessions,figure3_annotations,11,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Fixed Obstacle,BCI-only (mean +/- SD),previous_csv,34 +/- 8,34 +/- 8,none,
+Monkey 2 | Fixed Obstacle,BCI-only (mean +/- SD),latest_manuscript_embedded_table,34 +/- 8,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,BCI-only (mean +/- SD),figure3_annotations,34 +/- 8,34 +/- 8,none,
+Monkey 2 | Fixed Obstacle,Shared-control (mean +/- SD),previous_csv,61 +/- 9,61 +/- 9,none,
+Monkey 2 | Fixed Obstacle,Shared-control (mean +/- SD),latest_manuscript_embedded_table,61 +/- 9,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,Shared-control (mean +/- SD),figure3_annotations,61 +/- 9,61 +/- 9,none,
+Monkey 2 | Fixed Obstacle,Legacy chance level,previous_csv,18,18,none,
+Monkey 2 | Fixed Obstacle,Legacy chance level,latest_manuscript_embedded_table,18,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,Legacy chance level,figure3_annotations,18,18,none,
+Monkey 2 | Fixed Obstacle,Shared-control Gain (pp),previous_csv,27.1,27.1,none,
+Monkey 2 | Fixed Obstacle,Shared-control Gain (pp),latest_manuscript_embedded_table,27.1,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,Shared-control Gain (pp),figure3_annotations,27.1,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Fixed Obstacle,p-value (paired Wilcoxon),previous_csv,9.77 x 10^-4,9.77 x 10^-4,none,
+Monkey 2 | Fixed Obstacle,p-value (paired Wilcoxon),latest_manuscript_embedded_table,9.77 x 10^-4,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Fixed Obstacle,p-value (paired Wilcoxon),figure3_annotations,9.77 x 10^-4,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Appearing Obstacle,Monkey,previous_csv,Monkey 2,Monkey 2,none,
+Monkey 2 | Appearing Obstacle,Monkey,latest_manuscript_embedded_table,Monkey 2,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,Monkey,figure3_annotations,Monkey 2,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Appearing Obstacle,Task,previous_csv,Appearing Obstacle,Appearing Obstacle,none,
+Monkey 2 | Appearing Obstacle,Task,latest_manuscript_embedded_table,Appearing Obstacle,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,Task,figure3_annotations,Appearing Obstacle,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Appearing Obstacle,Number of sessions,previous_csv,9,9,none,
+Monkey 2 | Appearing Obstacle,Number of sessions,latest_manuscript_embedded_table,9,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,Number of sessions,figure3_annotations,9,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Appearing Obstacle,BCI-only (mean +/- SD),previous_csv,22 +/- 9,22 +/- 9,none,
+Monkey 2 | Appearing Obstacle,BCI-only (mean +/- SD),latest_manuscript_embedded_table,22 +/- 9,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,BCI-only (mean +/- SD),figure3_annotations,22 +/- 9,22 +/- 10,manuscript_annotation_difference,Candidate table cell differs from copied Figure 3 annotation.
+Monkey 2 | Appearing Obstacle,Shared-control (mean +/- SD),previous_csv,56 +/- 9,56 +/- 9,none,
+Monkey 2 | Appearing Obstacle,Shared-control (mean +/- SD),latest_manuscript_embedded_table,56 +/- 9,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,Shared-control (mean +/- SD),figure3_annotations,56 +/- 9,56 +/- 9,none,
+Monkey 2 | Appearing Obstacle,Legacy chance level,previous_csv,21,21,none,
+Monkey 2 | Appearing Obstacle,Legacy chance level,latest_manuscript_embedded_table,21,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,Legacy chance level,figure3_annotations,21,21,none,
+Monkey 2 | Appearing Obstacle,Shared-control Gain (pp),previous_csv,33.7,33.7,none,
+Monkey 2 | Appearing Obstacle,Shared-control Gain (pp),latest_manuscript_embedded_table,33.7,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,Shared-control Gain (pp),figure3_annotations,33.7,,not_applicable,Figure 3 annotations do not contain this table cell.
+Monkey 2 | Appearing Obstacle,p-value (paired Wilcoxon),previous_csv,3.91 x 10^-3,3.91 x 10^-3,none,
+Monkey 2 | Appearing Obstacle,p-value (paired Wilcoxon),latest_manuscript_embedded_table,3.91 x 10^-3,,unresolved_missing_reference,Latest manuscript embedded Extended Data Table 1 was not found in this repository.
+Monkey 2 | Appearing Obstacle,p-value (paired Wilcoxon),figure3_annotations,3.91 x 10^-3,,not_applicable,Figure 3 annotations do not contain this table cell.

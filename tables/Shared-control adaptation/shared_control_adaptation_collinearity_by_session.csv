@@ -1,0 +1,205 @@
+status,task_family,monkey,experiment,session_index,session_uid,exposure_variable,n_bci_only_trials,corr_trial_progress_exposure,vif_trial_progress_or_exposure,target_adjusted_design_condition_number
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,0,Monkey 1|AI Appearing Obstacle|0,previous_trial_shared,80,0.04701751047467948,1.0022155440755303,7.281476118088902
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,1,Monkey 1|AI Appearing Obstacle|1,previous_trial_shared,78,0.04170501649693072,1.0017423388656357,7.619630099833402
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,2,Monkey 1|AI Appearing Obstacle|2,previous_trial_shared,77,0.08269386031216516,1.0068853585050457,8.129807620536514
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,3,Monkey 1|AI Appearing Obstacle|3,previous_trial_shared,70,0.07743509621736697,1.0060323653599312,7.419847726019308
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,4,Monkey 1|AI Appearing Obstacle|4,previous_trial_shared,71,0.047768205960842795,1.002287020026446,7.265875964147977
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,5,Monkey 1|AI Appearing Obstacle|5,previous_trial_shared,71,0.1332585865715568,1.0180788931845681,6.981757283416667
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,6,Monkey 1|AI Appearing Obstacle|6,previous_trial_shared,76,0.022694262182426515,1.0005152949281124,6.877166139476828
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,7,Monkey 1|AI Appearing Obstacle|7,previous_trial_shared,55,-0.1872014008306007,1.0363170732235767,7.4647999800764095
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,8,Monkey 1|AI Appearing Obstacle|8,previous_trial_shared,57,0.06931963968791267,1.004828414001519,7.736763700929949
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,9,Monkey 1|AI Appearing Obstacle|9,previous_trial_shared,53,-0.023670482050749852,1.000560605823316,7.290142365166163
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,0,Monkey 2|AI Appearing Obstacle|0,previous_trial_shared,56,-0.07888656419933393,1.0062620593702922,7.053983516049004
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,1,Monkey 2|AI Appearing Obstacle|1,previous_trial_shared,53,0.1059751254570608,1.0113582890617285,7.733844933645873
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,2,Monkey 2|AI Appearing Obstacle|2,previous_trial_shared,53,0.08764325690603864,1.0077408002030537,7.176652588605937
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,3,Monkey 2|AI Appearing Obstacle|3,previous_trial_shared,53,0.025330536990260534,1.0006420480654343,7.2917214403648485
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,4,Monkey 2|AI Appearing Obstacle|4,previous_trial_shared,52,-0.1028573398198625,1.0106927578012146,7.6097995189209175
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,5,Monkey 2|AI Appearing Obstacle|5,previous_trial_shared,54,-0.1870778537901465,1.03626741483785,7.785763150919917
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,6,Monkey 2|AI Appearing Obstacle|6,previous_trial_shared,53,0.1756142884340434,1.0318217738458484,7.149621103142025
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,7,Monkey 2|AI Appearing Obstacle|7,previous_trial_shared,55,-0.037321550027494314,1.0013948409677835,7.36673925463121
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,8,Monkey 2|AI Appearing Obstacle|8,previous_trial_shared,59,0.11176654402851298,1.01264977836406,7.117828430261624
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,0,Monkey 1|AI Appearing Obstacle 2|0,previous_trial_shared,150,-0.031165071221343616,1.0009722059305817,6.996263985853286
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,1,Monkey 1|AI Appearing Obstacle 2|1,previous_trial_shared,138,0.011342200250568577,1.0001286620583196,7.277123569450227
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,2,Monkey 1|AI Appearing Obstacle 2|2,previous_trial_shared,210,0.02748656491726689,1.0007560824797712,7.097613288235953
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,3,Monkey 1|AI Appearing Obstacle 2|3,previous_trial_shared,145,-0.09812918405547184,1.009722962443095,7.078360808206689
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,4,Monkey 1|AI Appearing Obstacle 2|4,previous_trial_shared,139,0.092540610071126,1.0086377360497862,7.179677228917234
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,5,Monkey 1|AI Appearing Obstacle 2|5,previous_trial_shared,166,0.162480758596418,1.0271158554133009,6.246473116540678
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,6,Monkey 1|AI Appearing Obstacle 2|6,previous_trial_shared,165,0.03471190624686845,1.001206370010344,7.462609693109289
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,7,Monkey 1|AI Appearing Obstacle 2|7,previous_trial_shared,151,0.04868145000924834,1.0023755132648715,6.435627499585272
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,8,Monkey 1|AI Appearing Obstacle 2|8,previous_trial_shared,120,-0.012074988995071893,1.0001458266215342,7.064260577609799
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,0,Monkey 1|AI Obstacle|0,previous_trial_shared,61,-0.10260113097750187,1.0106389886268539,7.779281500837907
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,1,Monkey 1|AI Obstacle|1,previous_trial_shared,59,-0.043717109925302255,1.0019148453252247,7.412958574419181
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,2,Monkey 1|AI Obstacle|2,previous_trial_shared,50,-0.0031100570788295295,1.000009672548591,8.175162693061923
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,3,Monkey 1|AI Obstacle|3,previous_trial_shared,52,0.13391974558824124,1.018262018395529,7.454159653545716
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,4,Monkey 1|AI Obstacle|4,previous_trial_shared,50,0.08983778602227244,1.0081364960559251,7.634826472004466
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,5,Monkey 1|AI Obstacle|5,previous_trial_shared,50,0.036850519516421786,1.0013598073536967,9.234094795160882
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,6,Monkey 1|AI Obstacle|6,previous_trial_shared,51,-0.18451881973763737,1.0352472653481641,7.156369390178471
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,7,Monkey 1|AI Obstacle|7,previous_trial_shared,54,-0.016854162166524037,1.0002841434969278,7.2838048521653285
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,8,Monkey 1|AI Obstacle|8,previous_trial_shared,55,0.05127241540179367,1.0026357897047893,7.620670157112802
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,9,Monkey 1|AI Obstacle|9,previous_trial_shared,52,0.21425891045442044,1.0481157234874883,7.173563410986694
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,10,Monkey 1|AI Obstacle|10,previous_trial_shared,50,-0.19511746340169792,1.0395775754545404,6.99671327955409
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,11,Monkey 1|AI Obstacle|11,previous_trial_shared,57,0.041207342100366626,1.0017009333043425,7.59872529173945
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,0,Monkey 2|AI Obstacle|0,previous_trial_shared,58,0.12463171998172834,1.0157781486439408,7.291387572274544
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,1,Monkey 2|AI Obstacle|1,previous_trial_shared,54,-0.1174665560198192,1.013991451309947,7.29358520927722
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,2,Monkey 2|AI Obstacle|2,previous_trial_shared,51,0.013651875938584194,1.0001864084582797,7.854517119348288
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,3,Monkey 2|AI Obstacle|3,previous_trial_shared,52,-0.06808517339065186,1.0046571796147774,7.304809750950521
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,4,Monkey 2|AI Obstacle|4,previous_trial_shared,51,-0.0781147692360957,1.0061393791559103,7.917394733439644
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,5,Monkey 2|AI Obstacle|5,previous_trial_shared,52,-0.02772877462289662,1.0007694765810438,7.099679937168841
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,6,Monkey 2|AI Obstacle|6,previous_trial_shared,56,-0.10050772787641372,1.0102048911667858,7.0967102706681136
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,7,Monkey 2|AI Obstacle|7,previous_trial_shared,55,0.06855720586776667,1.0047222856461877,7.235601057484371
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,8,Monkey 2|AI Obstacle|8,previous_trial_shared,50,0.13017277333201482,1.0172370315708705,7.50001728886668
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,9,Monkey 2|AI Obstacle|9,previous_trial_shared,50,-0.023648202218836414,1.0005595503897262,7.376633689243044
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,10,Monkey 2|AI Obstacle|10,previous_trial_shared,50,-0.11227542726767717,1.0127667057444314,7.284077617181677
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,0,Monkey 1|AI Appearing Obstacle|0,preceding_3_shared_fraction,80,0.048188200403848844,1.0023275073692104,7.868209897368758
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,1,Monkey 1|AI Appearing Obstacle|1,preceding_3_shared_fraction,78,-0.017555297369961132,1.0003082834751589,7.520066607079303
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,2,Monkey 1|AI Appearing Obstacle|2,preceding_3_shared_fraction,77,-0.1471676496623247,1.022137784258656,8.561633827771114
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,3,Monkey 1|AI Appearing Obstacle|3,preceding_3_shared_fraction,70,0.12615590610433336,1.0161727063224428,7.295469225157296
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,4,Monkey 1|AI Appearing Obstacle|4,preceding_3_shared_fraction,71,0.019575301729214487,1.0003833393305224,7.27067647604044
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,5,Monkey 1|AI Appearing Obstacle|5,preceding_3_shared_fraction,71,0.08207451732151447,1.0067819108806324,6.827209738238384
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,6,Monkey 1|AI Appearing Obstacle|6,preceding_3_shared_fraction,76,-0.07016291048155622,1.0049471881935221,6.885368996211574
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,7,Monkey 1|AI Appearing Obstacle|7,preceding_3_shared_fraction,55,-0.11521659782326425,1.013453457234657,8.088808055166602
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,8,Monkey 1|AI Appearing Obstacle|8,preceding_3_shared_fraction,57,0.013137377089717593,1.0001726204694812,8.041290037689633
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,9,Monkey 1|AI Appearing Obstacle|9,preceding_3_shared_fraction,53,0.06781276999076835,1.0046198163308,7.591449568340641
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,0,Monkey 2|AI Appearing Obstacle|0,preceding_3_shared_fraction,56,0.07033383663194408,1.004971441543888,7.162075527490894
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,1,Monkey 2|AI Appearing Obstacle|1,preceding_3_shared_fraction,53,-0.07920600588332172,1.0063131977911557,8.028133377581266
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,2,Monkey 2|AI Appearing Obstacle|2,preceding_3_shared_fraction,53,0.05407995319409492,1.0029332199538044,7.379135688078804
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,3,Monkey 2|AI Appearing Obstacle|3,preceding_3_shared_fraction,53,0.06597112921092443,1.0043712142438006,8.847303539423297
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,4,Monkey 2|AI Appearing Obstacle|4,preceding_3_shared_fraction,52,0.0469836016145624,1.002212342475588,7.461834249357193
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,5,Monkey 2|AI Appearing Obstacle|5,preceding_3_shared_fraction,54,-0.04242313828476731,1.001802967503403,7.379002594436713
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,6,Monkey 2|AI Appearing Obstacle|6,preceding_3_shared_fraction,53,0.19150340408858565,1.0380697051568812,7.126952629932953
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,7,Monkey 2|AI Appearing Obstacle|7,preceding_3_shared_fraction,55,-0.08343834929551655,1.0070107667980903,7.316008844157752
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,8,Monkey 2|AI Appearing Obstacle|8,preceding_3_shared_fraction,59,0.045104331600977134,1.0020385479526122,7.037899514378883
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,0,Monkey 1|AI Appearing Obstacle 2|0,preceding_3_shared_fraction,150,0.08117053848546393,1.0066323546232117,6.9675482949450265
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,1,Monkey 1|AI Appearing Obstacle 2|1,preceding_3_shared_fraction,138,0.06938138948585176,1.0048370617445623,7.351551730606584
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,2,Monkey 1|AI Appearing Obstacle 2|2,preceding_3_shared_fraction,210,0.07827490282072465,1.0061647314773035,7.121645755205374
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,3,Monkey 1|AI Appearing Obstacle 2|3,preceding_3_shared_fraction,145,-0.03921560000855614,1.0015402319501963,7.171679745391248
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,4,Monkey 1|AI Appearing Obstacle 2|4,preceding_3_shared_fraction,139,0.0687791420838063,1.0047530550472328,7.430202560933929
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,5,Monkey 1|AI Appearing Obstacle 2|5,preceding_3_shared_fraction,166,0.172577803681619,1.0306973608397354,6.232567305572915
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,6,Monkey 1|AI Appearing Obstacle 2|6,preceding_3_shared_fraction,165,0.059933007580745504,1.0036049141244703,7.355183559927245
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,7,Monkey 1|AI Appearing Obstacle 2|7,preceding_3_shared_fraction,151,0.11444067667385295,1.013270467389512,6.4589685617992805
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,8,Monkey 1|AI Appearing Obstacle 2|8,preceding_3_shared_fraction,120,-0.021035005586525435,1.000442667327684,7.046655730165715
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,0,Monkey 1|AI Obstacle|0,preceding_3_shared_fraction,61,-0.043357670460154554,1.0018834282210665,7.706679089968251
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,1,Monkey 1|AI Obstacle|1,preceding_3_shared_fraction,59,-0.1234423195820827,1.015473796065171,7.416688685336416
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,2,Monkey 1|AI Obstacle|2,preceding_3_shared_fraction,50,-0.0011585316349465534,1.0000013421973506,9.324094690154595
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,3,Monkey 1|AI Obstacle|3,preceding_3_shared_fraction,52,0.08780757072442344,1.0077700780954866,9.490561756194316
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,4,Monkey 1|AI Obstacle|4,preceding_3_shared_fraction,50,-0.13339840850509238,1.0181175394593347,9.604931637836913
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,5,Monkey 1|AI Obstacle|5,preceding_3_shared_fraction,50,-0.011665549819685955,1.0001361035742575,9.765081757541543
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,6,Monkey 1|AI Obstacle|6,preceding_3_shared_fraction,51,-0.12600713781367368,1.0161339707206185,7.233750443718671
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,7,Monkey 1|AI Obstacle|7,preceding_3_shared_fraction,54,0.026674765425581445,1.0007120497646143,7.303068780310368
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,8,Monkey 1|AI Obstacle|8,preceding_3_shared_fraction,55,0.2001946478717967,1.0417511972198406,7.725819869706435
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,9,Monkey 1|AI Obstacle|9,preceding_3_shared_fraction,52,0.20019999982719147,1.0417535227915444,7.032355065835094
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,10,Monkey 1|AI Obstacle|10,preceding_3_shared_fraction,50,-0.10954037884814055,1.0121448214597681,6.949425907061895
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,11,Monkey 1|AI Obstacle|11,preceding_3_shared_fraction,57,-0.035432069705087624,1.0012570096531805,8.047942250838386
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,0,Monkey 2|AI Obstacle|0,preceding_3_shared_fraction,58,0.19682978683453775,1.040303397812158,7.220256356043261
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,1,Monkey 2|AI Obstacle|1,preceding_3_shared_fraction,54,-0.10825368073342279,1.0118578195118935,7.2998286994419175
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,2,Monkey 2|AI Obstacle|2,preceding_3_shared_fraction,51,0.009084102375041397,1.0000825277262237,7.690014524339451
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,3,Monkey 2|AI Obstacle|3,preceding_3_shared_fraction,52,-0.048315597626003175,1.0023398591340398,7.3215492968065305
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,4,Monkey 2|AI Obstacle|4,preceding_3_shared_fraction,51,0.06020850319218401,1.0036382527552075,8.776945660998166
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,5,Monkey 2|AI Obstacle|5,preceding_3_shared_fraction,52,0.06544163959889379,1.0043010278103321,7.058879767279441
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,6,Monkey 2|AI Obstacle|6,preceding_3_shared_fraction,56,-0.07827616066764922,1.0061649308299845,7.15412093608676
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,7,Monkey 2|AI Obstacle|7,preceding_3_shared_fraction,55,0.17398937625555091,1.0312173233217965,7.541387987659208
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,8,Monkey 2|AI Obstacle|8,preceding_3_shared_fraction,50,0.023875890658378696,1.000570383306386,7.269824261662139
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,9,Monkey 2|AI Obstacle|9,preceding_3_shared_fraction,50,0.05202556035744388,1.0027140048158785,7.406415295557347
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,10,Monkey 2|AI Obstacle|10,preceding_3_shared_fraction,50,-0.085133853917395,1.0073006868041334,8.361710761231022
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,0,Monkey 1|AI Appearing Obstacle|0,preceding_5_shared_fraction,80,0.005034578042914018,1.0000253476185557,9.781176301978276
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,1,Monkey 1|AI Appearing Obstacle|1,preceding_5_shared_fraction,78,-0.10854667040414791,1.0119228593108096,9.220293086341936
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,2,Monkey 1|AI Appearing Obstacle|2,preceding_5_shared_fraction,77,-0.1946613877538134,1.0393854925524812,9.52294690140269
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,3,Monkey 1|AI Appearing Obstacle|3,preceding_5_shared_fraction,70,0.05568659907244331,1.003110643413131,10.254582298291165
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,4,Monkey 1|AI Appearing Obstacle|4,preceding_5_shared_fraction,71,0.06844707690665573,1.0047070549002741,10.509836321388255
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,5,Monkey 1|AI Appearing Obstacle|5,preceding_5_shared_fraction,71,0.04570904519055877,1.0020936911964489,7.197310140171913
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,6,Monkey 1|AI Appearing Obstacle|6,preceding_5_shared_fraction,76,0.05956623840605958,1.0035607708598215,7.323195988340177
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,7,Monkey 1|AI Appearing Obstacle|7,preceding_5_shared_fraction,55,0.004220516765990591,1.0000178130790722,7.9894355990574795
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,8,Monkey 1|AI Appearing Obstacle|8,preceding_5_shared_fraction,57,-0.043634522499399524,1.0019076035766965,8.344652842688102
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,9,Monkey 1|AI Appearing Obstacle|9,preceding_5_shared_fraction,53,0.17227817860497113,1.0305876038971522,8.545608059541063
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,0,Monkey 2|AI Appearing Obstacle|0,preceding_5_shared_fraction,56,0.18605125621303722,1.0358562360573023,8.063045424324654
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,1,Monkey 2|AI Appearing Obstacle|1,preceding_5_shared_fraction,53,-0.1276638025423344,1.0165680737150529,8.855371990340275
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,2,Monkey 2|AI Appearing Obstacle|2,preceding_5_shared_fraction,53,0.1832649554848209,1.034753268717992,7.551864094097613
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,3,Monkey 2|AI Appearing Obstacle|3,preceding_5_shared_fraction,53,0.11806702427375103,1.0141368879252934,8.638751996339064
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,4,Monkey 2|AI Appearing Obstacle|4,preceding_5_shared_fraction,52,0.14051664083494558,1.0201426413209447,7.985857391922004
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,5,Monkey 2|AI Appearing Obstacle|5,preceding_5_shared_fraction,54,-0.08880293692360144,1.0079486443101084,8.321759671768145
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,6,Monkey 2|AI Appearing Obstacle|6,preceding_5_shared_fraction,53,0.20386776622451508,1.0433643793046519,8.450511154549467
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,7,Monkey 2|AI Appearing Obstacle|7,preceding_5_shared_fraction,55,-0.006492245128871401,1.0000421510234472,7.765184016470205
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,8,Monkey 2|AI Appearing Obstacle|8,preceding_5_shared_fraction,59,-2.966578846403878e-05,1.0000000008800591,7.440375755626212
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,0,Monkey 1|AI Appearing Obstacle 2|0,preceding_5_shared_fraction,150,0.13574568767831094,1.0187728163779954,7.799679830723773
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,1,Monkey 1|AI Appearing Obstacle 2|1,preceding_5_shared_fraction,138,0.05778540910917163,1.0033503408081699,7.408038633145392
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,2,Monkey 1|AI Appearing Obstacle 2|2,preceding_5_shared_fraction,210,0.067359587592205,1.0045579950957368,7.168275338119805
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,3,Monkey 1|AI Appearing Obstacle 2|3,preceding_5_shared_fraction,145,-0.08354286089341398,1.007028464136367,7.591604519209767
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,4,Monkey 1|AI Appearing Obstacle 2|4,preceding_5_shared_fraction,139,0.09912892294384348,1.0099240625954478,7.461974256633202
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,5,Monkey 1|AI Appearing Obstacle 2|5,preceding_5_shared_fraction,166,0.2109650404968063,1.046579319051731,6.3951665678753935
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,6,Monkey 1|AI Appearing Obstacle 2|6,preceding_5_shared_fraction,165,0.020496438225347274,1.0004202805414535,7.326955129165625
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,7,Monkey 1|AI Appearing Obstacle 2|7,preceding_5_shared_fraction,151,0.1005674126574399,1.0102171386311605,6.510869190267587
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,8,Monkey 1|AI Appearing Obstacle 2|8,preceding_5_shared_fraction,120,-0.1142581851613504,1.013227618548632,7.545527108911946
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,0,Monkey 1|AI Obstacle|0,preceding_5_shared_fraction,61,-0.03463946390839166,1.0012013339313868,12.602739387741716
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,1,Monkey 1|AI Obstacle|1,preceding_5_shared_fraction,59,0.07831138072542336,1.0061705140922883,11.04785869990918
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,2,Monkey 1|AI Obstacle|2,preceding_5_shared_fraction,50,-0.09973468280380068,1.010046943975566,12.689083883166887
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,3,Monkey 1|AI Obstacle|3,preceding_5_shared_fraction,52,0.15127891120720216,1.0234213129597447,11.540734419129157
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,4,Monkey 1|AI Obstacle|4,preceding_5_shared_fraction,50,-0.03125353234201666,1.0009777383223026,11.44472658544681
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,5,Monkey 1|AI Obstacle|5,preceding_5_shared_fraction,50,-0.06570806108850721,1.0043362713573398,12.319869363130458
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,6,Monkey 1|AI Obstacle|6,preceding_5_shared_fraction,51,-0.18250858423883926,1.034457129040202,9.341679946822453
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,7,Monkey 1|AI Obstacle|7,preceding_5_shared_fraction,54,-0.0017663912504594084,1.000003120147785,8.93306059954541
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,8,Monkey 1|AI Obstacle|8,preceding_5_shared_fraction,55,0.23535938726409777,1.058642485425498,8.765631011187459
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,9,Monkey 1|AI Obstacle|9,preceding_5_shared_fraction,52,0.18620136035319282,1.0359161950789426,7.080311331215179
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,10,Monkey 1|AI Obstacle|10,preceding_5_shared_fraction,50,0.047879540624328455,1.0022977178145436,7.40544919029684
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,11,Monkey 1|AI Obstacle|11,preceding_5_shared_fraction,57,-0.08748563207503743,1.0077127673029433,8.85980323773498
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,0,Monkey 2|AI Obstacle|0,preceding_5_shared_fraction,58,0.20228761946433768,1.042666193620199,7.580130634333157
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,1,Monkey 2|AI Obstacle|1,preceding_5_shared_fraction,54,-0.18056679009068238,1.0337032383929392,7.723216538606949
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,2,Monkey 2|AI Obstacle|2,preceding_5_shared_fraction,51,-0.06743574682532773,1.0045683549090783,8.794434738494388
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,3,Monkey 2|AI Obstacle|3,preceding_5_shared_fraction,52,-0.18677499416254623,1.0361458424888301,8.47857596015297
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,4,Monkey 2|AI Obstacle|4,preceding_5_shared_fraction,51,0.16653435964823618,1.0285247907308537,8.5440630718543
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,5,Monkey 2|AI Obstacle|5,preceding_5_shared_fraction,52,-0.03406159514861124,1.0011615398736438,7.535213559171675
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,6,Monkey 2|AI Obstacle|6,preceding_5_shared_fraction,56,-0.023363003277524254,1.0005461280151575,7.284084258946383
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,7,Monkey 2|AI Obstacle|7,preceding_5_shared_fraction,55,0.18261645891252187,1.034499279644548,8.10331956763201
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,8,Monkey 2|AI Obstacle|8,preceding_5_shared_fraction,50,-0.148607819905176,1.022583013831084,8.520803433363008
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,9,Monkey 2|AI Obstacle|9,preceding_5_shared_fraction,50,-0.036644758559395835,1.0013446439693385,8.823434602000527
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,10,Monkey 2|AI Obstacle|10,preceding_5_shared_fraction,50,-0.04476950378730511,1.0020083337897856,8.719415005262828
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,0,Monkey 1|AI Appearing Obstacle|0,preceding_shared_fraction,80,-0.2203807849595442,1.051046921455454,17.80399163124634
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,1,Monkey 1|AI Appearing Obstacle|1,preceding_shared_fraction,78,-0.3019837611630036,1.1003450805485735,17.98651333842669
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,2,Monkey 1|AI Appearing Obstacle|2,preceding_shared_fraction,77,-0.2787397351314191,1.0842410164735403,18.622449809899773
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,3,Monkey 1|AI Appearing Obstacle|3,preceding_shared_fraction,70,-0.13296796136658168,1.017998704461748,24.852033548172425
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,4,Monkey 1|AI Appearing Obstacle|4,preceding_shared_fraction,71,0.028582843901648076,1.0008176469658783,26.69191776555647
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,5,Monkey 1|AI Appearing Obstacle|5,preceding_shared_fraction,71,-0.5245494854281981,1.3795998946121673,14.592124943940412
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,6,Monkey 1|AI Appearing Obstacle|6,preceding_shared_fraction,76,0.30078333445709377,1.099469699064444,23.73393354929711
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,7,Monkey 1|AI Appearing Obstacle|7,preceding_shared_fraction,55,0.3411669480059268,1.131727266650822,15.643521453066901
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,8,Monkey 1|AI Appearing Obstacle|8,preceding_shared_fraction,57,-0.13434977610192753,1.0183816485647896,20.836432923385715
+ok,Appearing Obstacle,Monkey 1,AI Appearing Obstacle,9,Monkey 1|AI Appearing Obstacle|9,preceding_shared_fraction,53,0.3852469619121622,1.1742812053924947,18.82196969583448
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,0,Monkey 2|AI Appearing Obstacle|0,preceding_shared_fraction,56,0.4115041081689867,1.2038556574323194,14.248539294543447
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,1,Monkey 2|AI Appearing Obstacle|1,preceding_shared_fraction,53,-0.46809331613996513,1.2805923140881006,23.979374196305237
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,2,Monkey 2|AI Appearing Obstacle|2,preceding_shared_fraction,53,0.3304637467486512,1.1225943632443998,15.862755746077982
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,3,Monkey 2|AI Appearing Obstacle|3,preceding_shared_fraction,53,-0.07483376797720842,1.0056316304831547,18.7594818938339
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,4,Monkey 2|AI Appearing Obstacle|4,preceding_shared_fraction,52,0.2782590474044534,1.0839263554953984,20.150011241373655
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,5,Monkey 2|AI Appearing Obstacle|5,preceding_shared_fraction,54,-0.4554496320196793,1.2617251603529656,23.896977811036216
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,6,Monkey 2|AI Appearing Obstacle|6,preceding_shared_fraction,53,0.2351416400598013,1.0585276793948553,20.168398691554806
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,7,Monkey 2|AI Appearing Obstacle|7,preceding_shared_fraction,55,0.42708596473247284,1.2230955986380558,20.30300226999556
+ok,Appearing Obstacle,Monkey 2,AI Appearing Obstacle,8,Monkey 2|AI Appearing Obstacle|8,preceding_shared_fraction,59,-0.2561654849792561,1.0702292523026267,20.048334834062867
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,0,Monkey 1|AI Appearing Obstacle 2|0,preceding_shared_fraction,150,0.37732470677356694,1.166009336752707,39.374098895021056
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,1,Monkey 1|AI Appearing Obstacle 2|1,preceding_shared_fraction,138,-0.035478873023138395,1.0012603368805837,29.211326102791507
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,2,Monkey 1|AI Appearing Obstacle 2|2,preceding_shared_fraction,210,-0.42181795707054076,1.2164419977410783,19.012382038718005
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,3,Monkey 1|AI Appearing Obstacle 2|3,preceding_shared_fraction,145,-0.09758461503640821,1.0096143118481387,22.656246874148042
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,4,Monkey 1|AI Appearing Obstacle 2|4,preceding_shared_fraction,139,-0.14084702842812102,1.0202393921596045,33.34200046716171
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,5,Monkey 1|AI Appearing Obstacle 2|5,preceding_shared_fraction,166,0.2339154455558495,1.057883621099823,25.94579009097767
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,6,Monkey 1|AI Appearing Obstacle 2|6,preceding_shared_fraction,165,-0.16350642812912167,1.0274687102083253,20.315699310682348
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,7,Monkey 1|AI Appearing Obstacle 2|7,preceding_shared_fraction,151,0.04629356449960071,1.002147696830515,19.995177377590476
+ok,Appearing Obstacle follow-up,Monkey 1,AI Appearing Obstacle 2,8,Monkey 1|AI Appearing Obstacle 2|8,preceding_shared_fraction,120,-0.24270642965853897,1.0625935737805188,19.60990552154837
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,0,Monkey 1|AI Obstacle|0,preceding_shared_fraction,61,-0.35026929331402373,1.1398460965394215,25.02285360799385
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,1,Monkey 1|AI Obstacle|1,preceding_shared_fraction,59,-0.25281143193992534,1.0682774811098905,22.930141557809293
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,2,Monkey 1|AI Obstacle|2,preceding_shared_fraction,50,-0.42232603566494986,1.2170769731171625,23.44972743368365
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,3,Monkey 1|AI Obstacle|3,preceding_shared_fraction,52,-0.02097574330236849,1.0004401754762884,19.869926860641748
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,4,Monkey 1|AI Obstacle|4,preceding_shared_fraction,50,-0.2881913193921144,1.0905770437965243,22.703580275624052
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,5,Monkey 1|AI Obstacle|5,preceding_shared_fraction,50,-0.3091069926062801,1.1056408093239216,23.34697518480502
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,6,Monkey 1|AI Obstacle|6,preceding_shared_fraction,51,-0.6319976485814928,1.6650599609868815,26.222594501163645
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,7,Monkey 1|AI Obstacle|7,preceding_shared_fraction,54,-0.39524423081565807,1.1851402404436893,20.678152024377876
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,8,Monkey 1|AI Obstacle|8,preceding_shared_fraction,55,0.043420711952182264,1.0018889195163838,18.330650678548544
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,9,Monkey 1|AI Obstacle|9,preceding_shared_fraction,52,-0.4531372611109243,1.2583893315377144,18.85346969855883
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,10,Monkey 1|AI Obstacle|10,preceding_shared_fraction,50,-0.21036724396642537,1.046303510353085,22.42907489495177
+ok,Fixed Obstacle,Monkey 1,AI Obstacle,11,Monkey 1|AI Obstacle|11,preceding_shared_fraction,57,-0.2644117533707465,1.075168902013263,23.428538459524034
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,0,Monkey 2|AI Obstacle|0,preceding_shared_fraction,58,0.38608394686258296,1.1751721115701061,16.68218623554943
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,1,Monkey 2|AI Obstacle|1,preceding_shared_fraction,54,-0.3850786003947045,1.1741023939838047,21.906198698788284
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,2,Monkey 2|AI Obstacle|2,preceding_shared_fraction,51,0.04647868022157742,1.00216494457501,18.34894703723463
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,3,Monkey 2|AI Obstacle|3,preceding_shared_fraction,52,-0.5232140905554288,1.3769419752978758,24.204807959228578
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,4,Monkey 2|AI Obstacle|4,preceding_shared_fraction,51,0.43059245260008844,1.2276112257998997,14.204871985157075
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,5,Monkey 2|AI Obstacle|5,preceding_shared_fraction,52,0.284267847808207,1.0879122399861214,19.771958675638235
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,6,Monkey 2|AI Obstacle|6,preceding_shared_fraction,56,-0.3483195873900799,1.1380792066527428,21.88901256853898
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,7,Monkey 2|AI Obstacle|7,preceding_shared_fraction,55,-0.4982299054671169,1.3301994520657014,18.46075147620593
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,8,Monkey 2|AI Obstacle|8,preceding_shared_fraction,50,-0.138232256820634,1.01948039119572,19.634683494880164
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,9,Monkey 2|AI Obstacle|9,preceding_shared_fraction,50,-0.4782011922153073,1.2964726794003156,24.007502869136147
+ok,Fixed Obstacle,Monkey 2,AI Obstacle,10,Monkey 2|AI Obstacle|10,preceding_shared_fraction,50,-0.11961476983607668,1.0145153746901492,21.163599351476112

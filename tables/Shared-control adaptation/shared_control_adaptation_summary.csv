@@ -1,0 +1,103 @@
+analysis,task_family,metric,coefficient,n_sessions,mean_slope,median_slope,n_positive,n_negative,wilcoxon_two_sided_statistic,wilcoxon_two_sided_p,wilcoxon_two_sided_q_bh
+condition_by_trial_progress,Appearing Obstacle,angular_error_to_target_deg_mean,condition_x_trial_progress,19,3.7030769698615043,3.8738576159783458,12,7,79.0,0.5412178039550781,0.7643566131591797
+condition_by_trial_progress,Appearing Obstacle,command_heading_variability_deg,condition_x_trial_progress,19,1.5973153185386348,-0.04126437441309205,9,10,78.0,0.5152778625488281,0.7643566131591797
+condition_by_trial_progress,Appearing Obstacle,command_speed_sd,condition_x_trial_progress,19,0.01807013511433364,-1.3988811135633855e-05,9,10,84.0,0.6794281005859375,0.7643566131591797
+condition_by_trial_progress,Appearing Obstacle,decoded_speed_mean,condition_x_trial_progress,19,-0.035843518145171206,-0.04408359808583877,6,13,78.0,0.5152778625488281,0.7643566131591797
+condition_by_trial_progress,Appearing Obstacle,lateral_command_abs_mean,condition_x_trial_progress,19,0.09232065842881843,0.06972786600347661,13,6,64.0,0.22532272338867188,0.6759681701660156
+condition_by_trial_progress,Appearing Obstacle,neural_target_evidence,condition_x_trial_progress,19,0.0611029845248281,0.07522805019598887,13,6,60.0,0.168792724609375,0.6759681701660156
+condition_by_trial_progress,Appearing Obstacle follow-up,angular_error_to_target_deg_mean,condition_x_trial_progress,9,7.905334504097592,5.25680047657068,9,0,0.0,0.00390625,0.0703125
+condition_by_trial_progress,Appearing Obstacle follow-up,command_heading_variability_deg,condition_x_trial_progress,9,1.76536814098246,2.181359212138111,5,4,13.0,0.30078125,0.7643566131591797
+condition_by_trial_progress,Appearing Obstacle follow-up,command_speed_sd,condition_x_trial_progress,9,-0.002177888537411842,-0.023972673562146652,3,6,18.0,0.65234375,0.7643566131591797
+condition_by_trial_progress,Appearing Obstacle follow-up,decoded_speed_mean,condition_x_trial_progress,9,-0.07185209827383802,-0.08224450085958593,3,6,9.0,0.12890625,0.6759681701660156
+condition_by_trial_progress,Appearing Obstacle follow-up,lateral_command_abs_mean,condition_x_trial_progress,9,0.16490812561375912,0.1126603180172662,8,1,2.0,0.01171875,0.10546875
+condition_by_trial_progress,Appearing Obstacle follow-up,neural_target_evidence,condition_x_trial_progress,9,-0.01923595469156115,-0.04437445627659552,2,7,15.0,0.42578125,0.7643566131591797
+condition_by_trial_progress,Fixed Obstacle,angular_error_to_target_deg_mean,condition_x_trial_progress,23,1.6375858861658261,5.951141044933828,14,9,107.0,0.36039113998413086,0.7643566131591797
+condition_by_trial_progress,Fixed Obstacle,command_heading_variability_deg,condition_x_trial_progress,23,0.23089814073421688,1.68886825248161,14,9,118.0,0.5599584579467773,0.7643566131591797
+condition_by_trial_progress,Fixed Obstacle,command_speed_sd,condition_x_trial_progress,23,0.009448299730174178,-0.0036069271777081774,10,13,130.0,0.8229274749755859,0.8229274749755859
+condition_by_trial_progress,Fixed Obstacle,decoded_speed_mean,condition_x_trial_progress,23,0.030417466726766176,0.016469385882087573,12,11,127.0,0.7539846897125244,0.7983367302838493
+condition_by_trial_progress,Fixed Obstacle,lateral_command_abs_mean,condition_x_trial_progress,23,0.005849065337284373,0.06464081290138224,15,8,123.0,0.6649994850158691,0.7643566131591797
+condition_by_trial_progress,Fixed Obstacle,neural_target_evidence,condition_x_trial_progress,23,0.06749860672333821,0.03587237802851193,15,8,95.0,0.20015525817871094,0.6759681701660156
+bci_only_previous_trial_shared,Appearing Obstacle,angular_error_to_target_deg_mean,previous_trial_shared,19,1.9182024425697783,1.6302897984175755,10,9,59.0,0.156402587890625,0.5474090576171875
+bci_only_previous_trial_shared,Appearing Obstacle,command_heading_variability_deg,previous_trial_shared,19,1.288171545135731,1.0055360017085204,12,7,57.0,0.1336212158203125,0.5474090576171875
+bci_only_previous_trial_shared,Appearing Obstacle,command_speed_sd,previous_trial_shared,19,-0.01599313548993584,-0.017903540401697695,6,13,50.0,0.07283401489257812,0.5098381042480469
+bci_only_previous_trial_shared,Appearing Obstacle,decoded_speed_mean,previous_trial_shared,19,0.02073924977310574,0.014395264092068542,12,7,64.0,0.22532272338867188,0.5914721488952637
+bci_only_previous_trial_shared,Appearing Obstacle,lateral_command_abs_mean,previous_trial_shared,19,0.04858910963758031,0.03882595044946541,15,4,38.0,0.020412445068359375,0.4286613464355469
+bci_only_previous_trial_shared,Appearing Obstacle,neural_target_evidence,previous_trial_shared,19,-0.002641055592681676,0.023290663401873024,11,8,94.0,0.9843215942382812,1.0
+bci_only_previous_trial_shared,Appearing Obstacle,success,previous_trial_shared,19,-0.008758767800131028,-0.008766668736747252,9,10,86.0,0.7380905151367188,1.0
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,angular_error_to_target_deg_mean,previous_trial_shared,9,0.7978121275554264,1.2593867886147678,6,3,16.0,0.49609375,0.8681640625
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,command_heading_variability_deg,previous_trial_shared,9,-0.043101343063700316,-1.570793596602038,4,5,21.0,0.91015625,1.0
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,command_speed_sd,previous_trial_shared,9,-0.0025852793706671825,-0.009640281621830648,4,5,20.0,0.8203125,1.0
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,decoded_speed_mean,previous_trial_shared,9,-0.0042344874303842815,-0.004141320802590484,3,6,17.0,0.5703125,0.9212740384615384
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,lateral_command_abs_mean,previous_trial_shared,9,0.03092244700258668,0.05602588974054714,6,3,18.0,0.65234375,0.978515625
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,neural_target_evidence,previous_trial_shared,9,0.021293152698567432,0.012784551009921256,6,3,13.0,0.30078125,0.631640625
+bci_only_previous_trial_shared,Appearing Obstacle follow-up,success,previous_trial_shared,9,0.0008430126995778967,0.005967924980814346,5,4,22.0,1.0,1.0
+bci_only_previous_trial_shared,Fixed Obstacle,angular_error_to_target_deg_mean,previous_trial_shared,23,-1.826056410741324,-3.929846493659947,8,15,95.0,0.20015525817871094,0.5914721488952637
+bci_only_previous_trial_shared,Fixed Obstacle,command_heading_variability_deg,previous_trial_shared,23,-1.0387180500969517,-1.638323213489426,6,17,75.0,0.05625271797180176,0.5098381042480469
+bci_only_previous_trial_shared,Fixed Obstacle,command_speed_sd,previous_trial_shared,23,0.0001901255571489329,0.0114101754050933,14,9,137.0,0.988100528717041,1.0
+bci_only_previous_trial_shared,Fixed Obstacle,decoded_speed_mean,previous_trial_shared,23,0.016970584223502904,0.02199900146007877,14,9,103.0,0.30013346672058105,0.631640625
+bci_only_previous_trial_shared,Fixed Obstacle,lateral_command_abs_mean,previous_trial_shared,23,-0.018933708812689232,0.007356725295870503,12,11,114.0,0.481952428817749,0.8681640625
+bci_only_previous_trial_shared,Fixed Obstacle,neural_target_evidence,previous_trial_shared,23,-5.7040964665568186e-05,-0.01995971588252332,10,13,135.0,0.9405548572540283,1.0
+bci_only_previous_trial_shared,Fixed Obstacle,success,previous_trial_shared,23,0.03724556428534684,0.03251269619982523,16,7,88.0,0.13413381576538086,0.5474090576171875
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,angular_error_to_target_deg_mean,preceding_3_shared_fraction,19,0.362598204240499,-0.9315108103082904,6,13,79.0,0.5412178039550781,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,command_heading_variability_deg,preceding_3_shared_fraction,19,0.5229210542832234,-0.7922704675082528,9,10,88.0,0.7982521057128906,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,command_speed_sd,preceding_3_shared_fraction,19,-0.03474326573047228,-0.03271525568459072,7,12,59.0,0.156402587890625,0.656890869140625
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,decoded_speed_mean,preceding_3_shared_fraction,19,0.02189757657841426,0.01658419789489833,11,8,80.0,0.5677604675292969,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,lateral_command_abs_mean,preceding_3_shared_fraction,19,-0.02730561986905844,-0.0024386050011048765,8,11,76.0,0.4653167724609375,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,neural_target_evidence,preceding_3_shared_fraction,19,-0.04553513317522959,-0.017998743077011048,9,10,81.0,0.5948867797851562,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle,success,preceding_3_shared_fraction,19,0.013942843719240004,0.009146960213063049,10,9,87.0,0.76800537109375,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,angular_error_to_target_deg_mean,preceding_3_shared_fraction,9,3.539471413594752,2.886173395777646,7,2,11.0,0.203125,0.7109375
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,command_heading_variability_deg,preceding_3_shared_fraction,9,1.218557676142362,0.35998652037857903,5,4,16.0,0.49609375,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,command_speed_sd,preceding_3_shared_fraction,9,-0.024729711895788924,-0.025476328111751958,2,7,9.0,0.12890625,0.656890869140625
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,decoded_speed_mean,preceding_3_shared_fraction,9,-0.034361521002013076,-0.0490791977371491,4,5,18.0,0.65234375,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,lateral_command_abs_mean,preceding_3_shared_fraction,9,0.08649240878535626,0.12889113638679647,6,3,12.0,0.25,0.75
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,neural_target_evidence,preceding_3_shared_fraction,9,0.0009537108387461863,-0.03508639041451275,4,5,22.0,1.0,1.0
+bci_only_preceding_3_shared_fraction,Appearing Obstacle follow-up,success,preceding_3_shared_fraction,9,-0.06402676030668056,-0.04576020779042949,2,7,4.0,0.02734375,0.2686610221862793
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,angular_error_to_target_deg_mean,preceding_3_shared_fraction,23,-0.9460976010844628,-0.617159742814958,11,12,120.0,0.6010458469390869,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,command_heading_variability_deg,preceding_3_shared_fraction,23,-0.13635534389024184,1.0343704776101101,14,9,126.0,0.7313888072967529,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,command_speed_sd,preceding_3_shared_fraction,23,-0.014229000463786654,0.013661882298457918,13,10,134.0,0.9168474674224854,0.9626898407936096
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,decoded_speed_mean,preceding_3_shared_fraction,23,0.10124892188527335,0.07162884121321161,16,7,69.0,0.0354313850402832,0.2686610221862793
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,lateral_command_abs_mean,preceding_3_shared_fraction,23,0.09415700622441511,0.0371502804155022,15,8,70.0,0.03838014602661133,0.2686610221862793
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,neural_target_evidence,preceding_3_shared_fraction,23,-0.013324677258190316,-0.02125353292934988,11,12,126.0,0.7313888072967529,0.8822786431563528
+bci_only_preceding_3_shared_fraction,Fixed Obstacle,success,preceding_3_shared_fraction,23,0.021740173333781605,-0.005543890738706175,11,12,123.0,0.6649994850158691,0.8822786431563528
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,angular_error_to_target_deg_mean,preceding_5_shared_fraction,19,2.27736884001354,2.2691937787080043,13,6,64.0,0.22532272338867188,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,command_heading_variability_deg,preceding_5_shared_fraction,19,0.558822308399845,0.5239720971611574,11,8,84.0,0.6794281005859375,0.891749382019043
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,command_speed_sd,preceding_5_shared_fraction,19,-0.06384344951089803,-0.04708535287792917,6,13,38.0,0.020412445068359375,0.4286613464355469
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,decoded_speed_mean,preceding_5_shared_fraction,19,0.061848190337292545,0.07612529672471996,12,7,68.0,0.2934989929199219,0.6005121361125599
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,lateral_command_abs_mean,preceding_5_shared_fraction,19,0.062384534645973024,0.07675400803682458,13,6,65.0,0.24125289916992188,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,neural_target_evidence,preceding_5_shared_fraction,19,-0.056796619561623934,-0.06452215881962574,8,11,73.0,0.3954620361328125,0.6920585632324219
+bci_only_preceding_5_shared_fraction,Appearing Obstacle,success,preceding_5_shared_fraction,19,0.009928590202781914,-0.07253169500149653,8,11,94.0,0.9843215942382812,1.0
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,angular_error_to_target_deg_mean,preceding_5_shared_fraction,9,3.9395168044260753,4.395673770563955,5,4,12.0,0.25,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,command_heading_variability_deg,preceding_5_shared_fraction,9,0.1398642638143601,-0.4722310437105355,4,5,22.0,1.0,1.0
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,command_speed_sd,preceding_5_shared_fraction,9,-0.022678380241574574,-0.03464973034789784,3,6,9.0,0.12890625,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,decoded_speed_mean,preceding_5_shared_fraction,9,-0.029683171370179555,-0.028916390872746778,3,6,17.0,0.5703125,0.7984375
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,lateral_command_abs_mean,preceding_5_shared_fraction,9,0.10113016738637236,0.08389297597602301,5,4,16.0,0.49609375,0.7803457975387573
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,neural_target_evidence,preceding_5_shared_fraction,9,0.01686465494923118,-0.01753558399210576,4,5,20.0,0.8203125,0.9872703154881796
+bci_only_preceding_5_shared_fraction,Appearing Obstacle follow-up,success,preceding_5_shared_fraction,9,-0.06939963617100067,-0.08267304133475308,2,7,11.0,0.203125,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,angular_error_to_target_deg_mean,preceding_5_shared_fraction,23,-0.5557868231535512,-0.8189901906829178,11,12,135.0,0.9405548572540283,1.0
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,command_heading_variability_deg,preceding_5_shared_fraction,23,-1.4841041362210718,-2.1808736985385613,9,14,104.0,0.31455397605895996,0.6005121361125599
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,command_speed_sd,preceding_5_shared_fraction,23,0.0105009088520713,0.011667726773873066,14,9,116.0,0.5202305316925049,0.7803457975387573
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,decoded_speed_mean,preceding_5_shared_fraction,23,0.11377654527590812,0.015606411581149155,12,11,95.0,0.20015525817871094,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,lateral_command_abs_mean,preceding_5_shared_fraction,23,0.08193654878666563,0.015637083704551746,13,10,97.0,0.22261524200439453,0.5833333333333334
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,neural_target_evidence,preceding_5_shared_fraction,23,0.005464102333603751,-0.022478660194669417,11,12,131.0,0.8462316989898682,0.9872703154881796
+bci_only_preceding_5_shared_fraction,Fixed Obstacle,success,preceding_5_shared_fraction,23,0.08908346717547219,0.12733466164613547,14,9,97.0,0.22261524200439453,0.5833333333333334
+bci_only_preceding_shared_fraction,Appearing Obstacle,angular_error_to_target_deg_mean,preceding_shared_fraction,19,4.100505168441073,9.122815120505443,11,8,75.0,0.4413337707519531,0.6487334728240967
+bci_only_preceding_shared_fraction,Appearing Obstacle,command_heading_variability_deg,preceding_shared_fraction,19,4.470875024981157,0.6215257944998038,11,8,60.0,0.168792724609375,0.506378173828125
+bci_only_preceding_shared_fraction,Appearing Obstacle,command_speed_sd,preceding_shared_fraction,19,-0.23558833091774548,-0.14601225437198237,3,16,16.0,0.000644683837890625,0.013538360595703125
+bci_only_preceding_shared_fraction,Appearing Obstacle,decoded_speed_mean,preceding_shared_fraction,19,0.5598679833569813,0.49990083326001145,14,5,37.0,0.0180816650390625,0.18985748291015625
+bci_only_preceding_shared_fraction,Appearing Obstacle,lateral_command_abs_mean,preceding_shared_fraction,19,0.4010242741703422,0.4691124931008347,14,5,48.0,0.060207366943359375,0.31171875
+bci_only_preceding_shared_fraction,Appearing Obstacle,neural_target_evidence,preceding_shared_fraction,19,0.07974551170688286,0.02526232309448942,11,8,81.0,0.5948867797851562,0.7348601397346047
+bci_only_preceding_shared_fraction,Appearing Obstacle,success,preceding_shared_fraction,19,0.13569344316059923,0.2672457577589054,11,8,70.0,0.3320655822753906,0.5811147689819336
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,angular_error_to_target_deg_mean,preceding_shared_fraction,9,15.441161719550776,14.422136477655014,5,4,16.0,0.49609375,0.651123046875
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,command_heading_variability_deg,preceding_shared_fraction,9,8.470597855072674,9.385617763778638,5,4,13.0,0.30078125,0.5811147689819336
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,command_speed_sd,preceding_shared_fraction,9,-0.1754330688094081,-0.04694624926179787,4,5,15.0,0.42578125,0.6487334728240967
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,decoded_speed_mean,preceding_shared_fraction,9,-0.25909017985338767,-0.16843199824572347,2,7,6.0,0.0546875,0.31171875
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,lateral_command_abs_mean,preceding_shared_fraction,9,0.28893600158966365,-0.10895387720434441,4,5,18.0,0.65234375,0.7591822272852847
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,neural_target_evidence,preceding_shared_fraction,9,0.017410094201391824,-0.0896441349740964,4,5,20.0,0.8203125,0.861328125
+bci_only_preceding_shared_fraction,Appearing Obstacle follow-up,success,preceding_shared_fraction,9,-0.6845960627948006,-0.2985038857209758,2,7,7.0,0.07421875,0.31171875
+bci_only_preceding_shared_fraction,Fixed Obstacle,angular_error_to_target_deg_mean,preceding_shared_fraction,23,3.383653177230102,13.106943803019673,13,10,124.0,0.6868791580200195,0.7591822272852847
+bci_only_preceding_shared_fraction,Fixed Obstacle,command_heading_variability_deg,preceding_shared_fraction,23,2.691444126526662,5.536993225780335,12,11,113.0,0.4633810520172119,0.6487334728240967
+bci_only_preceding_shared_fraction,Fixed Obstacle,command_speed_sd,preceding_shared_fraction,23,0.16054512679817726,0.14059490481212925,12,11,90.0,0.15107226371765137,0.506378173828125
+bci_only_preceding_shared_fraction,Fixed Obstacle,decoded_speed_mean,preceding_shared_fraction,23,0.3068293214935675,0.1578363627657468,12,11,102.0,0.28614330291748047,0.5811147689819336
+bci_only_preceding_shared_fraction,Fixed Obstacle,lateral_command_abs_mean,preceding_shared_fraction,23,0.2373294118283475,0.30137494232222134,13,10,96.0,0.21117830276489258,0.554343044757843
+bci_only_preceding_shared_fraction,Fixed Obstacle,neural_target_evidence,preceding_shared_fraction,23,-0.16855908730107427,-0.23323477682888438,10,13,104.0,0.31455397605895996,0.5811147689819336
+bci_only_preceding_shared_fraction,Fixed Obstacle,success,preceding_shared_fraction,23,-0.006313928222138918,-0.04065978918121478,11,12,137.0,0.988100528717041,0.988100528717041

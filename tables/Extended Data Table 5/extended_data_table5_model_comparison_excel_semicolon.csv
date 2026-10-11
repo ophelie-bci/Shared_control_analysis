@@ -1,0 +1,5 @@
+﻿Model;Shape allowed to vary by;df;AIC;BIC;R²;LR test vs common;Mean CV MSE
+Common-shape;—;5;-16.25;4.99;0.195;—;0.05606
+Monkey-specific;Monkey;7;-20.29;8.04;0.220;p=0.018;0.05582
+Task-specific;Task;9;-18.45;16.96;0.227;p=0.037;0.05544
+Monkey × task-specific;Monkey × task;11;-18.76;23.73;0.240;p=0.024;0.05642

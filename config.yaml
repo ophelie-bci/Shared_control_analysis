@@ -1,1 +1,28 @@
 base_dir: ""
+figure3_chance_permutations: 1000
+figure3_chance_seed: 42
+gain_curve_pooling:
+  base_dir: ""
+  datasets:
+    - manuscript_monkey: "Monkey 1"
+      source_monkey_folder: "Monkey 1"
+      experiment: "AI Obstacle"
+      task_label: "Fixed Obstacle"
+    - manuscript_monkey: "Monkey 1"
+      source_monkey_folder: "Monkey 1"
+      experiment: "AI Appearing Obstacle"
+      task_label: "Appearing Obstacle"
+    - manuscript_monkey: "Monkey 1"
+      source_monkey_folder: "Monkey 1"
+      experiment: "AI Appearing Obstacle 2"
+      task_label: "Appearing Obstacle follow-up"
+    - manuscript_monkey: "Monkey 2"
+      source_monkey_folder: "Monkey 2"
+      experiment: "AI Obstacle"
+      task_label: "Fixed Obstacle"
+    - manuscript_monkey: "Monkey 2"
+      source_monkey_folder: "Monkey 2"
+      experiment: "AI Appearing Obstacle"
+      task_label: "Appearing Obstacle"
+gain_curve_extension:
+  figure_dir: "figures\\Extended Data Figure 2\\Gain curve extension"

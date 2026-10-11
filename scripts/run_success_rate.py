@@ -22,12 +22,10 @@ from src.success_rate_metrics import (
 )
 from src.plots import (
     plot_success_rate_per_session,
-    plot_gain_with_labels,
-    plot_summary_scatter,
 )
+from src.figure3_plots import plot_gain_with_labels, plot_summary_scatter
 from src.stats_tests import compute_chance_level, paired_success_test
 from src.tables import SuccessRateSummary
-from src.AI_metrics import compute_additive_vs_multiplicative_effect
 
 # Global summary table object used across all monkey × experiment analyses.
 summary_table = SuccessRateSummary()
@@ -194,13 +192,6 @@ def run_success_rate(monkeys, experiments, base_dir):
                 cumulative_correct_ai_off, cumulative_incorrect_ai_off
             )
 
-            # Quantify whether the AI effect behaves more like an additive or
-            # multiplicative improvement across sessions.
-            compute_additive_vs_multiplicative_effect(
-                success_rate_ai_on_all,
-                success_rate_ai_off_all
-            )
-
             # Collect pooled/summary points for the across-condition scatter plot.
             collect_summary_points(
                 summary_list=all_summary_points,
@@ -223,7 +214,7 @@ def run_success_rate(monkeys, experiments, base_dir):
                     label_pos="auto"                  # automatic label placement
                 )
 
-            # chance-level computation
+            # Random-target chance computation by target shuffling/permutation.
             chance_level, observed, null = compute_chance_level(correct_trials_all, incorrect_trials_all)
 
 

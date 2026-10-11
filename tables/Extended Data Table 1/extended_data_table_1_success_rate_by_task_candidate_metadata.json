@@ -1,0 +1,11 @@
+{
+  "previous_table": "tables\\Extended Data Table 1\\extended_data_table_1_success_rate_by_task_excel_semicolon.csv",
+  "session_summary": "analysis_results\\success_rate_verification\\success_rate_audit_session_summary.csv",
+  "figure3_comparison": "analysis_results\\success_rate_verification\\figure3_success_rate_comparison.csv",
+  "candidate_editable": "tables\\Extended Data Table 1\\extended_data_table_1_success_rate_by_task_candidate_editable_semicolon.csv",
+  "candidate_machine_readable": "tables\\Extended Data Table 1\\extended_data_table_1_success_rate_by_task_candidate_machine_readable.csv",
+  "legacy_chance_source": "previous Extended Data Table 1 CSV and legacy success-rate SVG annotations",
+  "legacy_chance_procedure": "target permutations using successful recorded trajectories with obstacles fixed in recorded-trial order",
+  "new_joint_pair_chance_estimates_used": false,
+  "latest_manuscript_embedded_table_source": "not found in repository"
+}

@@ -1,0 +1,4 @@
+metric,n_sessions,n_sessions_shared_higher,n_sessions_shared_lower,n_sessions_no_difference,bci_only_mean,shared_control_mean,shared_minus_bci_only_mean,shared_minus_bci_only_median,wilcoxon_statistic,wilcoxon_two_sided_p
+delta_radial_velocity_away_mps,7,7,0,0,-0.1347994841271698,0.31367964648246927,0.448479130609639,0.48625885493040133,0.0,0.015625
+min_post_clearance_m,7,7,0,0,0.2501816666669209,0.7841786118960064,0.5339969452290855,0.5562619679069154,0.0,0.015625
+post_collision_probability,7,0,7,0,0.186630855987191,0.0,-0.186630855987191,-0.1951219512195122,0.0,0.015625

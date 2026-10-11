@@ -1,0 +1,2 @@
+contrast,difference_in_mean_gain_pp,bootstrap_95ci_low_pp,bootstrap_95ci_high_pp,mannwhitney_u,mannwhitney_two_sided_p
+Hidden prior minus no hidden prior,4.395630412630844,-5.810452320057778,15.013371847730886,52.0,0.5956108994757296

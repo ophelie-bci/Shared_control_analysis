@@ -1,0 +1,4 @@
+dataset,n_showtarget_trials,n_show_obstacle_metadata,n_controller_obstacle0,n_obstacle_appeared_events,median_controller_to_show_xz_m,median_appeared_to_show_xz_m,median_appeared_to_controller_xz_m,max_show_to_target_midpoint_xz_m,max_controller_to_target_midpoint_xz_m,median_appeared_to_target_midpoint_xz_m
+Original Loki,1099,831,831,811,0.0,0.9050434979709261,0.9050434979709261,0.0,0.0,0.9050434979709261
+Original Maui,1122,776,776,769,0.0,0.8665520420724887,0.8665520420724887,0.0,0.0,0.8665520420724887
+Follow-up Maui,2071,1451,0,1427,,0.8157424047608975,,0.0,,0.8157424047608975

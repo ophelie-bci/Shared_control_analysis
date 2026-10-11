@@ -1,0 +1,20 @@
+phase,prior_condition,experiment,session_index,session_uid,session_number,global_session_number,n_bci_only,n_bci_only_success,bci_only_success_rate,s_bci_only_pct
+Original,Hidden prior,AI Appearing Obstacle,0,Monkey 1|AI Appearing Obstacle__session_00,1,1,40,9,0.225,22.5
+Original,Hidden prior,AI Appearing Obstacle,1,Monkey 1|AI Appearing Obstacle__session_01,2,2,34,7,0.20588235294117646,20.588235294117645
+Original,Hidden prior,AI Appearing Obstacle,2,Monkey 1|AI Appearing Obstacle__session_02,3,3,31,16,0.5161290322580645,51.61290322580645
+Original,Hidden prior,AI Appearing Obstacle,3,Monkey 1|AI Appearing Obstacle__session_03,4,4,35,13,0.37142857142857144,37.142857142857146
+Original,Hidden prior,AI Appearing Obstacle,4,Monkey 1|AI Appearing Obstacle__session_04,5,5,36,14,0.38888888888888895,38.88888888888889
+Original,Hidden prior,AI Appearing Obstacle,5,Monkey 1|AI Appearing Obstacle__session_05,6,6,32,6,0.1875,18.75
+Original,Hidden prior,AI Appearing Obstacle,6,Monkey 1|AI Appearing Obstacle__session_06,7,7,35,16,0.45714285714285724,45.71428571428572
+Original,Hidden prior,AI Appearing Obstacle,7,Monkey 1|AI Appearing Obstacle__session_07,8,8,24,15,0.625,62.5
+Original,Hidden prior,AI Appearing Obstacle,8,Monkey 1|AI Appearing Obstacle__session_08,9,9,24,12,0.5,50.0
+Original,Hidden prior,AI Appearing Obstacle,9,Monkey 1|AI Appearing Obstacle__session_09,10,10,24,11,0.45833333333333326,45.83333333333333
+Follow-up,No hidden prior,AI Appearing Obstacle 2,0,Monkey 1|AI Appearing Obstacle 2__session_00,1,11,56,29,0.5178571428571429,51.78571428571429
+Follow-up,No hidden prior,AI Appearing Obstacle 2,1,Monkey 1|AI Appearing Obstacle 2__session_01,2,12,41,28,0.6829268292682927,68.29268292682927
+Follow-up,No hidden prior,AI Appearing Obstacle 2,2,Monkey 1|AI Appearing Obstacle 2__session_02,3,13,35,13,0.37142857142857144,37.142857142857146
+Follow-up,No hidden prior,AI Appearing Obstacle 2,3,Monkey 1|AI Appearing Obstacle 2__session_03,4,14,50,28,0.56,56.00000000000001
+Follow-up,No hidden prior,AI Appearing Obstacle 2,4,Monkey 1|AI Appearing Obstacle 2__session_04,5,15,58,24,0.41379310344827586,41.37931034482759
+Follow-up,No hidden prior,AI Appearing Obstacle 2,5,Monkey 1|AI Appearing Obstacle 2__session_05,6,16,51,32,0.6274509803921567,62.74509803921568
+Follow-up,No hidden prior,AI Appearing Obstacle 2,6,Monkey 1|AI Appearing Obstacle 2__session_06,7,17,62,34,0.5483870967741935,54.83870967741935
+Follow-up,No hidden prior,AI Appearing Obstacle 2,7,Monkey 1|AI Appearing Obstacle 2__session_07,8,18,57,41,0.7192982456140351,71.9298245614035
+Follow-up,No hidden prior,AI Appearing Obstacle 2,8,Monkey 1|AI Appearing Obstacle 2__session_08,9,19,55,36,0.6545454545454545,65.45454545454545

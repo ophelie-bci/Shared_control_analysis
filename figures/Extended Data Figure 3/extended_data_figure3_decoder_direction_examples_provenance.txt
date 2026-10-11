@@ -1,0 +1,9 @@
+Representative decoder-direction error examples.
+Categories illustrate the decoded-choice states that contribute to Figure 4B's decoder-direction error bucket.
+Choice rule: each valid modelVelocity frame votes for the goal with maximal positive cosine similarity; a goal is chosen when its fraction is >= 0.60.
+Examples are selected from shared-control trials only.
+Adjacent decoded choice: ambiguous_choice trials where neighbor mass is >= 80% of non-true mass.
+Ambiguous decoded choice: no goal reaches the 0.60 choice threshold and votes are not locally concentrated on adjacent targets.
+Incorrect decoded choice: a non-true goal reaches the 0.60 choice threshold.
+Black arrows show decoded BCI velocity from the paired AI-log Input stream; teal arrows show executed velocity from the AI-log Output stream.
+Execution-like failures are excluded using the same geometric guards as the execution-example figure.

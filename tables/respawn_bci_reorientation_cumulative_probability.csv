@@ -1,0 +1,245 @@
+time_ms,condition,outcome,label,n_trials,cumulative_reorientation_probability
+0.0,Shared control,correct,Shared control correct,535,0.0
+50.0,Shared control,correct,Shared control correct,535,0.0
+100.0,Shared control,correct,Shared control correct,535,0.0
+150.0,Shared control,correct,Shared control correct,535,0.0
+200.0,Shared control,correct,Shared control correct,535,0.003738317757009346
+250.0,Shared control,correct,Shared control correct,535,0.2130841121495327
+300.0,Shared control,correct,Shared control correct,535,0.23738317757009345
+350.0,Shared control,correct,Shared control correct,535,0.2560747663551402
+400.0,Shared control,correct,Shared control correct,535,0.2803738317757009
+450.0,Shared control,correct,Shared control correct,535,0.31588785046728973
+500.0,Shared control,correct,Shared control correct,535,0.36822429906542054
+550.0,Shared control,correct,Shared control correct,535,0.44485981308411215
+600.0,Shared control,correct,Shared control correct,535,0.5214953271028038
+650.0,Shared control,correct,Shared control correct,535,0.6037383177570094
+700.0,Shared control,correct,Shared control correct,535,0.6897196261682244
+750.0,Shared control,correct,Shared control correct,535,0.7495327102803738
+800.0,Shared control,correct,Shared control correct,535,0.7981308411214953
+850.0,Shared control,correct,Shared control correct,535,0.8280373831775701
+900.0,Shared control,correct,Shared control correct,535,0.8710280373831776
+950.0,Shared control,correct,Shared control correct,535,0.8953271028037383
+1000.0,Shared control,correct,Shared control correct,535,0.9177570093457944
+1050.0,Shared control,correct,Shared control correct,535,0.9364485981308411
+1100.0,Shared control,correct,Shared control correct,535,0.9514018691588785
+1150.0,Shared control,correct,Shared control correct,535,0.9626168224299065
+1200.0,Shared control,correct,Shared control correct,535,0.9775700934579439
+1250.0,Shared control,correct,Shared control correct,535,0.9813084112149533
+1300.0,Shared control,correct,Shared control correct,535,0.9850467289719627
+1350.0,Shared control,correct,Shared control correct,535,0.9887850467289719
+1400.0,Shared control,correct,Shared control correct,535,0.9925233644859813
+1450.0,Shared control,correct,Shared control correct,535,0.994392523364486
+1500.0,Shared control,correct,Shared control correct,535,0.994392523364486
+1550.0,Shared control,correct,Shared control correct,535,0.9962616822429906
+1600.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1650.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1700.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1750.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1800.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1850.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1900.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+1950.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+2000.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+2050.0,Shared control,correct,Shared control correct,535,0.9981308411214953
+2100.0,Shared control,correct,Shared control correct,535,1.0
+2150.0,Shared control,correct,Shared control correct,535,1.0
+2200.0,Shared control,correct,Shared control correct,535,1.0
+2250.0,Shared control,correct,Shared control correct,535,1.0
+2300.0,Shared control,correct,Shared control correct,535,1.0
+2350.0,Shared control,correct,Shared control correct,535,1.0
+2400.0,Shared control,correct,Shared control correct,535,1.0
+2450.0,Shared control,correct,Shared control correct,535,1.0
+2500.0,Shared control,correct,Shared control correct,535,1.0
+2550.0,Shared control,correct,Shared control correct,535,1.0
+2600.0,Shared control,correct,Shared control correct,535,1.0
+2650.0,Shared control,correct,Shared control correct,535,1.0
+2700.0,Shared control,correct,Shared control correct,535,1.0
+2750.0,Shared control,correct,Shared control correct,535,1.0
+2800.0,Shared control,correct,Shared control correct,535,1.0
+2850.0,Shared control,correct,Shared control correct,535,1.0
+2900.0,Shared control,correct,Shared control correct,535,1.0
+2950.0,Shared control,correct,Shared control correct,535,1.0
+3000.0,Shared control,correct,Shared control correct,535,1.0
+0.0,Shared control,incorrect,Shared control incorrect,260,0.0
+50.0,Shared control,incorrect,Shared control incorrect,260,0.0
+100.0,Shared control,incorrect,Shared control incorrect,260,0.0
+150.0,Shared control,incorrect,Shared control incorrect,260,0.0
+200.0,Shared control,incorrect,Shared control incorrect,260,0.0038461538461538464
+250.0,Shared control,incorrect,Shared control incorrect,260,0.08846153846153847
+300.0,Shared control,incorrect,Shared control incorrect,260,0.08846153846153847
+350.0,Shared control,incorrect,Shared control incorrect,260,0.1
+400.0,Shared control,incorrect,Shared control incorrect,260,0.1
+450.0,Shared control,incorrect,Shared control incorrect,260,0.12307692307692308
+500.0,Shared control,incorrect,Shared control incorrect,260,0.13846153846153847
+550.0,Shared control,incorrect,Shared control incorrect,260,0.15384615384615385
+600.0,Shared control,incorrect,Shared control incorrect,260,0.16538461538461538
+650.0,Shared control,incorrect,Shared control incorrect,260,0.18846153846153846
+700.0,Shared control,incorrect,Shared control incorrect,260,0.22692307692307692
+750.0,Shared control,incorrect,Shared control incorrect,260,0.2692307692307692
+800.0,Shared control,incorrect,Shared control incorrect,260,0.3038461538461538
+850.0,Shared control,incorrect,Shared control incorrect,260,0.36538461538461536
+900.0,Shared control,incorrect,Shared control incorrect,260,0.4115384615384615
+950.0,Shared control,incorrect,Shared control incorrect,260,0.4461538461538462
+1000.0,Shared control,incorrect,Shared control incorrect,260,0.4807692307692308
+1050.0,Shared control,incorrect,Shared control incorrect,260,0.5307692307692308
+1100.0,Shared control,incorrect,Shared control incorrect,260,0.5653846153846154
+1150.0,Shared control,incorrect,Shared control incorrect,260,0.5884615384615385
+1200.0,Shared control,incorrect,Shared control incorrect,260,0.6076923076923076
+1250.0,Shared control,incorrect,Shared control incorrect,260,0.6230769230769231
+1300.0,Shared control,incorrect,Shared control incorrect,260,0.6346153846153846
+1350.0,Shared control,incorrect,Shared control incorrect,260,0.6538461538461539
+1400.0,Shared control,incorrect,Shared control incorrect,260,0.6576923076923077
+1450.0,Shared control,incorrect,Shared control incorrect,260,0.6692307692307692
+1500.0,Shared control,incorrect,Shared control incorrect,260,0.6807692307692308
+1550.0,Shared control,incorrect,Shared control incorrect,260,0.6961538461538461
+1600.0,Shared control,incorrect,Shared control incorrect,260,0.7
+1650.0,Shared control,incorrect,Shared control incorrect,260,0.7
+1700.0,Shared control,incorrect,Shared control incorrect,260,0.7038461538461539
+1750.0,Shared control,incorrect,Shared control incorrect,260,0.7038461538461539
+1800.0,Shared control,incorrect,Shared control incorrect,260,0.7076923076923077
+1850.0,Shared control,incorrect,Shared control incorrect,260,0.7307692307692307
+1900.0,Shared control,incorrect,Shared control incorrect,260,0.7423076923076923
+1950.0,Shared control,incorrect,Shared control incorrect,260,0.75
+2000.0,Shared control,incorrect,Shared control incorrect,260,0.7538461538461538
+2050.0,Shared control,incorrect,Shared control incorrect,260,0.7615384615384615
+2100.0,Shared control,incorrect,Shared control incorrect,260,0.7653846153846153
+2150.0,Shared control,incorrect,Shared control incorrect,260,0.7692307692307693
+2200.0,Shared control,incorrect,Shared control incorrect,260,0.7730769230769231
+2250.0,Shared control,incorrect,Shared control incorrect,260,0.7730769230769231
+2300.0,Shared control,incorrect,Shared control incorrect,260,0.7769230769230769
+2350.0,Shared control,incorrect,Shared control incorrect,260,0.7769230769230769
+2400.0,Shared control,incorrect,Shared control incorrect,260,0.7807692307692308
+2450.0,Shared control,incorrect,Shared control incorrect,260,0.7807692307692308
+2500.0,Shared control,incorrect,Shared control incorrect,260,0.7807692307692308
+2550.0,Shared control,incorrect,Shared control incorrect,260,0.7807692307692308
+2600.0,Shared control,incorrect,Shared control incorrect,260,0.7807692307692308
+2650.0,Shared control,incorrect,Shared control incorrect,260,0.7846153846153846
+2700.0,Shared control,incorrect,Shared control incorrect,260,0.7846153846153846
+2750.0,Shared control,incorrect,Shared control incorrect,260,0.7884615384615384
+2800.0,Shared control,incorrect,Shared control incorrect,260,0.7884615384615384
+2850.0,Shared control,incorrect,Shared control incorrect,260,0.7884615384615384
+2900.0,Shared control,incorrect,Shared control incorrect,260,0.7884615384615384
+2950.0,Shared control,incorrect,Shared control incorrect,260,0.7884615384615384
+3000.0,Shared control,incorrect,Shared control incorrect,260,0.7884615384615384
+0.0,BCI-only,correct,BCI-only correct,635,0.0
+50.0,BCI-only,correct,BCI-only correct,635,0.0
+100.0,BCI-only,correct,BCI-only correct,635,0.0
+150.0,BCI-only,correct,BCI-only correct,635,0.0
+200.0,BCI-only,correct,BCI-only correct,635,0.0031496062992125984
+250.0,BCI-only,correct,BCI-only correct,635,0.14330708661417324
+300.0,BCI-only,correct,BCI-only correct,635,0.16220472440944883
+350.0,BCI-only,correct,BCI-only correct,635,0.1858267716535433
+400.0,BCI-only,correct,BCI-only correct,635,0.1984251968503937
+450.0,BCI-only,correct,BCI-only correct,635,0.2409448818897638
+500.0,BCI-only,correct,BCI-only correct,635,0.30078740157480316
+550.0,BCI-only,correct,BCI-only correct,635,0.3606299212598425
+600.0,BCI-only,correct,BCI-only correct,635,0.4377952755905512
+650.0,BCI-only,correct,BCI-only correct,635,0.5070866141732283
+700.0,BCI-only,correct,BCI-only correct,635,0.5653543307086614
+750.0,BCI-only,correct,BCI-only correct,635,0.6346456692913386
+800.0,BCI-only,correct,BCI-only correct,635,0.7133858267716535
+850.0,BCI-only,correct,BCI-only correct,635,0.7653543307086614
+900.0,BCI-only,correct,BCI-only correct,635,0.8188976377952756
+950.0,BCI-only,correct,BCI-only correct,635,0.8582677165354331
+1000.0,BCI-only,correct,BCI-only correct,635,0.8866141732283465
+1050.0,BCI-only,correct,BCI-only correct,635,0.8992125984251969
+1100.0,BCI-only,correct,BCI-only correct,635,0.9165354330708662
+1150.0,BCI-only,correct,BCI-only correct,635,0.9322834645669291
+1200.0,BCI-only,correct,BCI-only correct,635,0.9464566929133859
+1250.0,BCI-only,correct,BCI-only correct,635,0.9653543307086614
+1300.0,BCI-only,correct,BCI-only correct,635,0.9732283464566929
+1350.0,BCI-only,correct,BCI-only correct,635,0.9779527559055118
+1400.0,BCI-only,correct,BCI-only correct,635,0.9826771653543307
+1450.0,BCI-only,correct,BCI-only correct,635,0.9858267716535433
+1500.0,BCI-only,correct,BCI-only correct,635,0.988976377952756
+1550.0,BCI-only,correct,BCI-only correct,635,0.9905511811023622
+1600.0,BCI-only,correct,BCI-only correct,635,0.9921259842519685
+1650.0,BCI-only,correct,BCI-only correct,635,0.9952755905511811
+1700.0,BCI-only,correct,BCI-only correct,635,0.9952755905511811
+1750.0,BCI-only,correct,BCI-only correct,635,0.9952755905511811
+1800.0,BCI-only,correct,BCI-only correct,635,0.9968503937007874
+1850.0,BCI-only,correct,BCI-only correct,635,0.9984251968503937
+1900.0,BCI-only,correct,BCI-only correct,635,0.9984251968503937
+1950.0,BCI-only,correct,BCI-only correct,635,0.9984251968503937
+2000.0,BCI-only,correct,BCI-only correct,635,1.0
+2050.0,BCI-only,correct,BCI-only correct,635,1.0
+2100.0,BCI-only,correct,BCI-only correct,635,1.0
+2150.0,BCI-only,correct,BCI-only correct,635,1.0
+2200.0,BCI-only,correct,BCI-only correct,635,1.0
+2250.0,BCI-only,correct,BCI-only correct,635,1.0
+2300.0,BCI-only,correct,BCI-only correct,635,1.0
+2350.0,BCI-only,correct,BCI-only correct,635,1.0
+2400.0,BCI-only,correct,BCI-only correct,635,1.0
+2450.0,BCI-only,correct,BCI-only correct,635,1.0
+2500.0,BCI-only,correct,BCI-only correct,635,1.0
+2550.0,BCI-only,correct,BCI-only correct,635,1.0
+2600.0,BCI-only,correct,BCI-only correct,635,1.0
+2650.0,BCI-only,correct,BCI-only correct,635,1.0
+2700.0,BCI-only,correct,BCI-only correct,635,1.0
+2750.0,BCI-only,correct,BCI-only correct,635,1.0
+2800.0,BCI-only,correct,BCI-only correct,635,1.0
+2850.0,BCI-only,correct,BCI-only correct,635,1.0
+2900.0,BCI-only,correct,BCI-only correct,635,1.0
+2950.0,BCI-only,correct,BCI-only correct,635,1.0
+3000.0,BCI-only,correct,BCI-only correct,635,1.0
+0.0,BCI-only,incorrect,BCI-only incorrect,165,0.0
+50.0,BCI-only,incorrect,BCI-only incorrect,165,0.0
+100.0,BCI-only,incorrect,BCI-only incorrect,165,0.0
+150.0,BCI-only,incorrect,BCI-only incorrect,165,0.0
+200.0,BCI-only,incorrect,BCI-only incorrect,165,0.0
+250.0,BCI-only,incorrect,BCI-only incorrect,165,0.12121212121212122
+300.0,BCI-only,incorrect,BCI-only incorrect,165,0.12121212121212122
+350.0,BCI-only,incorrect,BCI-only incorrect,165,0.13333333333333333
+400.0,BCI-only,incorrect,BCI-only incorrect,165,0.14545454545454545
+450.0,BCI-only,incorrect,BCI-only incorrect,165,0.18181818181818182
+500.0,BCI-only,incorrect,BCI-only incorrect,165,0.20606060606060606
+550.0,BCI-only,incorrect,BCI-only incorrect,165,0.24848484848484848
+600.0,BCI-only,incorrect,BCI-only incorrect,165,0.2727272727272727
+650.0,BCI-only,incorrect,BCI-only incorrect,165,0.3212121212121212
+700.0,BCI-only,incorrect,BCI-only incorrect,165,0.3515151515151515
+750.0,BCI-only,incorrect,BCI-only incorrect,165,0.37575757575757573
+800.0,BCI-only,incorrect,BCI-only incorrect,165,0.3939393939393939
+850.0,BCI-only,incorrect,BCI-only incorrect,165,0.41818181818181815
+900.0,BCI-only,incorrect,BCI-only incorrect,165,0.46060606060606063
+950.0,BCI-only,incorrect,BCI-only incorrect,165,0.509090909090909
+1000.0,BCI-only,incorrect,BCI-only incorrect,165,0.5151515151515151
+1050.0,BCI-only,incorrect,BCI-only incorrect,165,0.5393939393939394
+1100.0,BCI-only,incorrect,BCI-only incorrect,165,0.5575757575757576
+1150.0,BCI-only,incorrect,BCI-only incorrect,165,0.5757575757575758
+1200.0,BCI-only,incorrect,BCI-only incorrect,165,0.6060606060606061
+1250.0,BCI-only,incorrect,BCI-only incorrect,165,0.6242424242424243
+1300.0,BCI-only,incorrect,BCI-only incorrect,165,0.6363636363636364
+1350.0,BCI-only,incorrect,BCI-only incorrect,165,0.6424242424242425
+1400.0,BCI-only,incorrect,BCI-only incorrect,165,0.6545454545454545
+1450.0,BCI-only,incorrect,BCI-only incorrect,165,0.6606060606060606
+1500.0,BCI-only,incorrect,BCI-only incorrect,165,0.6727272727272727
+1550.0,BCI-only,incorrect,BCI-only incorrect,165,0.6787878787878788
+1600.0,BCI-only,incorrect,BCI-only incorrect,165,0.6848484848484848
+1650.0,BCI-only,incorrect,BCI-only incorrect,165,0.6909090909090909
+1700.0,BCI-only,incorrect,BCI-only incorrect,165,0.696969696969697
+1750.0,BCI-only,incorrect,BCI-only incorrect,165,0.7090909090909091
+1800.0,BCI-only,incorrect,BCI-only incorrect,165,0.7151515151515152
+1850.0,BCI-only,incorrect,BCI-only incorrect,165,0.7272727272727273
+1900.0,BCI-only,incorrect,BCI-only incorrect,165,0.7272727272727273
+1950.0,BCI-only,incorrect,BCI-only incorrect,165,0.7333333333333333
+2000.0,BCI-only,incorrect,BCI-only incorrect,165,0.7333333333333333
+2050.0,BCI-only,incorrect,BCI-only incorrect,165,0.7393939393939394
+2100.0,BCI-only,incorrect,BCI-only incorrect,165,0.7393939393939394
+2150.0,BCI-only,incorrect,BCI-only incorrect,165,0.7515151515151515
+2200.0,BCI-only,incorrect,BCI-only incorrect,165,0.7515151515151515
+2250.0,BCI-only,incorrect,BCI-only incorrect,165,0.7636363636363637
+2300.0,BCI-only,incorrect,BCI-only incorrect,165,0.7636363636363637
+2350.0,BCI-only,incorrect,BCI-only incorrect,165,0.7757575757575758
+2400.0,BCI-only,incorrect,BCI-only incorrect,165,0.7757575757575758
+2450.0,BCI-only,incorrect,BCI-only incorrect,165,0.7878787878787878
+2500.0,BCI-only,incorrect,BCI-only incorrect,165,0.7878787878787878
+2550.0,BCI-only,incorrect,BCI-only incorrect,165,0.8
+2600.0,BCI-only,incorrect,BCI-only incorrect,165,0.806060606060606
+2650.0,BCI-only,incorrect,BCI-only incorrect,165,0.8121212121212121
+2700.0,BCI-only,incorrect,BCI-only incorrect,165,0.8303030303030303
+2750.0,BCI-only,incorrect,BCI-only incorrect,165,0.8363636363636363
+2800.0,BCI-only,incorrect,BCI-only incorrect,165,0.8363636363636363
+2850.0,BCI-only,incorrect,BCI-only incorrect,165,0.8424242424242424
+2900.0,BCI-only,incorrect,BCI-only incorrect,165,0.8424242424242424
+2950.0,BCI-only,incorrect,BCI-only incorrect,165,0.8424242424242424
+3000.0,BCI-only,incorrect,BCI-only incorrect,165,0.8424242424242424

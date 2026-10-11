@@ -1,0 +1,13 @@
+panel,metric,trial_type,source_column,dataset_label,task_aggregate,monkey,experiment,n_paired_session_target_units,n_sessions,n_targets,monkey1_six_month_followup_contributes
+Extended Data Figure 1b,Time-to-target (s),Successful,time_to_target_s,Monkey 1 / AI Obstacle,Fixed Obstacle,Monkey 1,AI Obstacle,58,12,5,no
+Extended Data Figure 1b,Time-to-target (s),Successful,time_to_target_s,Monkey 2 / AI Obstacle,Fixed Obstacle,Monkey 2,AI Obstacle,51,11,5,no
+Extended Data Figure 1b,Obstacle clearance,Successful,obstacle_clearance_m,Monkey 1 / AI Obstacle,Fixed Obstacle,Monkey 1,AI Obstacle,58,12,5,no
+Extended Data Figure 1b,Obstacle clearance,Successful,obstacle_clearance_m,Monkey 2 / AI Obstacle,Fixed Obstacle,Monkey 2,AI Obstacle,51,11,5,no
+Extended Data Figure 1b,Obstacle clearance,Unsuccessful,obstacle_clearance_m,Monkey 1 / AI Obstacle,Fixed Obstacle,Monkey 1,AI Obstacle,41,12,5,no
+Extended Data Figure 1b,Obstacle clearance,Unsuccessful,obstacle_clearance_m,Monkey 2 / AI Obstacle,Fixed Obstacle,Monkey 2,AI Obstacle,47,11,5,no
+Extended Data Figure 1b,Collision rate,Successful,collision_rate_percent,Monkey 1 / AI Obstacle,Fixed Obstacle,Monkey 1,AI Obstacle,58,12,5,no
+Extended Data Figure 1b,Collision rate,Successful,collision_rate_percent,Monkey 2 / AI Obstacle,Fixed Obstacle,Monkey 2,AI Obstacle,51,11,5,no
+Extended Data Figure 1b,Collision rate,Unsuccessful,collision_rate_percent,Monkey 1 / AI Obstacle,Fixed Obstacle,Monkey 1,AI Obstacle,41,12,5,no
+Extended Data Figure 1b,Collision rate,Unsuccessful,collision_rate_percent,Monkey 2 / AI Obstacle,Fixed Obstacle,Monkey 2,AI Obstacle,47,11,5,no
+Extended Data Figure 1b,log(MSJ),Successful,log_msj,Monkey 1 / AI Obstacle,Fixed Obstacle,Monkey 1,AI Obstacle,58,12,5,no
+Extended Data Figure 1b,log(MSJ),Successful,log_msj,Monkey 2 / AI Obstacle,Fixed Obstacle,Monkey 2,AI Obstacle,51,11,5,no

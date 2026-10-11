@@ -1,0 +1,3 @@
+outcome,n_trials,bci_crossing_fraction,bci_noncrossing_fraction,bci_n_crossed,bci_n_noncrossing,exec_crossing_fraction,exec_noncrossing_fraction,exec_n_crossed,exec_n_noncrossing,prior_crossing_fraction,prior_noncrossing_fraction,prior_n_crossed,prior_n_noncrossing
+successful,534,0.7734082397003745,0.22659176029962547,413,121,0.7659176029962547,0.2340823970037453,409,125,0.0,1.0,0,534
+unsuccessful,252,0.5515873015873016,0.44841269841269843,139,113,0.28174603174603174,0.7182539682539683,71,181,0.0,1.0,0,252

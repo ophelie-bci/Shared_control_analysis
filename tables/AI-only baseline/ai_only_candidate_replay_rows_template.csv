@@ -1,0 +1,2 @@
+monkey,experiment,session,trial,condition,candidate_set_size,candidate_targets,true_target,reached_target,success,collision,failure
+Monkey 1,AI Respawn,session_id,1,ai_only,5,left|slight_left|straight|slight_right|right,straight,straight,True,False,False

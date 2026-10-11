@@ -1284,8 +1284,10 @@ def main():
             raise ValueError("base_dir must be specified via CLI or in config.yaml")
 
     if args.recompute:
-        assert_recompute_is_implemented()
-        grand_summary = analyze_trajectories(args.monkeys, args.experiments, args.base_dir)
+        from scripts.verify_figure5_failure_modes import recompute_grand_summary
+
+        experiments = [exp for exp in args.experiments if exp != "AI Respawn"]
+        grand_summary = recompute_grand_summary(args.base_dir, args.monkeys, experiments)
         save_grand_summary(grand_summary, args.experiments)
     else:
         grand_summary = load_grand_summary()

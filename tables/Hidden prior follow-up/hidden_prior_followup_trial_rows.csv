@@ -1,0 +1,1393 @@
+monkey,source_monkey_folder,experiment,prior_condition,followup,session_index,session_uid,trial_id,condition,shared_control,success,target
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,6,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,8,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,11,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,12,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,15,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,16,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,19,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,21,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,25,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,27,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,31,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,34,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,35,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,37,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,43,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,45,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,55,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,58,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,66,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,70,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,76,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,83,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,87,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,92,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,114,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,117,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,1,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,3,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,4,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,7,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,13,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,18,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,20,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,22,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,28,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,29,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,32,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,39,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,44,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,48,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,49,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,51,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,52,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,60,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,62,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,63,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,65,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,68,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,69,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,72,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,74,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,78,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,80,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,81,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,84,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,85,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,86,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,93,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,95,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,98,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,99,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,101,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,102,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,107,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,109,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,110,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,111,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,0,AI Appearing Obstacle__session_00,115,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,3,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,5,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,11,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,12,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,13,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,21,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,22,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,24,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,25,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,28,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,29,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,31,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,32,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,33,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,36,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,43,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,44,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,51,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,54,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,55,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,62,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,63,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,69,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,77,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,79,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,81,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,85,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,88,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,89,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,92,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,98,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,100,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,101,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,104,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,109,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,112,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,113,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,121,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,1,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,6,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,8,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,14,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,16,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,17,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,37,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,38,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,42,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,50,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,53,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,56,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,58,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,60,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,61,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,68,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,70,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,71,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,75,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,80,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,83,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,93,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,94,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,96,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,97,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,106,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,108,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,110,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,117,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,119,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,1,AI Appearing Obstacle__session_01,120,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,4,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,7,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,8,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,12,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,19,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,21,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,22,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,25,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,27,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,28,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,30,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,31,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,32,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,37,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,39,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,47,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,51,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,52,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,53,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,54,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,60,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,63,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,65,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,70,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,74,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,75,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,78,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,79,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,82,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,83,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,85,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,90,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,97,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,102,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,1,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,2,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,6,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,10,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,13,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,16,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,17,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,18,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,23,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,33,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,34,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,40,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,42,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,43,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,45,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,48,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,56,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,57,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,59,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,61,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,64,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,67,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,68,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,69,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,73,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,84,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,86,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,88,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,92,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,93,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,95,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,96,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,98,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,101,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,103,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,2,AI Appearing Obstacle__session_02,105,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,2,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,3,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,4,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,7,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,8,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,9,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,11,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,13,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,14,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,15,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,23,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,27,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,31,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,41,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,44,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,45,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,46,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,51,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,52,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,57,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,60,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,61,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,65,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,68,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,69,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,74,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,77,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,82,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,84,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,86,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,87,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,91,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,92,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,96,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,98,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,101,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,102,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,103,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,105,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,107,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,5,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,18,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,19,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,21,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,24,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,28,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,29,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,30,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,32,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,35,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,36,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,38,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,39,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,40,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,47,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,49,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,54,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,55,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,59,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,62,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,66,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,70,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,72,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,76,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,78,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,81,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,83,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,89,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,90,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,94,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,100,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,3,AI Appearing Obstacle__session_03,104,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,4,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,6,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,14,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,19,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,25,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,27,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,28,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,32,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,41,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,42,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,51,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,59,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,60,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,62,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,64,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,73,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,85,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,86,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,90,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,93,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,102,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,3,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,5,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,8,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,9,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,11,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,12,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,17,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,18,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,20,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,22,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,29,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,33,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,35,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,39,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,40,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,44,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,45,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,46,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,48,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,49,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,52,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,53,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,55,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,58,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,61,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,63,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,68,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,69,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,72,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,75,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,76,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,77,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,80,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,81,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,84,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,88,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,89,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,92,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,96,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,98,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,99,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,101,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,103,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,4,AI Appearing Obstacle__session_04,104,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,3,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,7,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,8,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,12,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,13,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,14,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,15,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,18,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,19,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,20,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,23,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,27,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,28,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,33,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,34,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,35,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,37,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,39,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,43,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,45,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,47,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,50,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,53,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,54,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,59,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,60,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,61,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,63,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,64,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,66,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,67,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,69,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,70,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,71,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,75,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,78,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,79,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,80,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,82,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,84,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,86,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,89,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,93,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,94,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,99,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,100,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,102,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,103,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,104,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,105,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,106,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,108,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,110,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,111,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,114,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,5,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,9,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,11,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,21,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,26,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,30,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,36,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,41,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,42,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,44,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,49,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,56,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,73,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,77,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,83,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,96,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,101,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,107,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,5,AI Appearing Obstacle__session_05,113,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,2,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,4,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,13,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,15,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,16,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,17,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,18,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,19,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,20,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,21,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,24,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,25,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,27,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,30,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,31,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,33,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,34,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,35,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,40,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,43,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,44,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,45,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,46,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,47,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,49,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,51,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,53,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,55,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,59,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,60,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,61,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,65,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,68,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,69,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,70,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,71,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,75,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,77,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,78,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,80,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,81,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,83,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,84,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,86,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,87,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,92,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,93,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,95,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,98,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,99,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,101,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,104,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,107,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,108,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,109,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,110,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,3,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,6,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,10,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,12,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,14,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,29,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,36,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,37,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,38,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,39,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,42,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,48,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,56,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,63,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,66,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,72,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,82,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,90,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,94,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,97,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,6,AI Appearing Obstacle__session_06,105,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,5,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,7,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,11,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,13,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,15,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,16,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,17,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,19,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,20,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,22,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,28,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,29,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,30,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,32,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,35,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,36,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,38,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,40,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,41,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,42,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,43,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,45,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,47,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,57,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,58,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,59,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,62,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,65,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,66,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,68,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,70,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,79,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,80,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,81,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,82,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,83,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,84,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,85,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,86,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,87,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,94,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,95,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,96,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,98,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,101,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,102,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,104,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,106,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,107,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,108,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,109,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,111,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,112,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,113,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,2,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,10,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,25,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,31,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,37,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,48,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,49,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,50,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,52,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,55,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,61,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,63,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,64,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,69,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,73,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,75,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,76,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,78,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,88,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,90,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,92,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,93,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,7,AI Appearing Obstacle__session_07,115,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,2,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,3,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,4,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,7,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,9,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,10,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,11,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,12,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,15,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,17,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,24,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,25,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,28,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,29,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,30,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,31,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,32,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,33,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,35,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,36,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,39,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,45,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,50,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,51,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,53,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,58,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,61,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,63,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,66,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,68,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,70,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,71,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,72,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,77,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,79,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,80,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,81,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,82,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,84,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,89,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,90,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,91,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,94,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,96,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,99,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,105,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,108,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,111,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,6,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,13,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,16,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,18,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,19,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,21,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,37,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,38,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,40,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,42,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,43,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,44,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,47,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,49,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,52,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,54,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,57,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,60,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,62,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,67,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,74,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,76,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,78,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,86,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,87,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,88,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,97,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,101,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,102,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,103,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,106,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,107,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle,Hidden prior,0,8,AI Appearing Obstacle__session_08,109,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,3,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,7,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,10,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,12,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,13,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,14,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,15,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,20,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,24,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,31,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,35,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,36,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,37,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,38,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,51,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,52,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,56,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,58,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,60,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,62,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,72,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,73,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,76,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,78,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,87,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,89,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,90,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,94,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,104,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,106,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,109,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,115,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,118,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,124,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,130,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,137,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,138,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,139,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,140,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,141,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,147,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,150,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,151,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,156,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,166,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,171,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,174,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,175,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,183,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,190,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,193,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,194,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,195,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,199,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,200,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,201,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,203,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,204,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,210,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,212,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,219,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,220,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,229,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,232,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,233,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,2,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,4,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,16,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,21,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,22,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,23,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,46,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,47,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,48,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,54,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,66,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,70,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,77,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,80,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,85,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,86,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,95,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,96,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,97,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,98,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,99,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,101,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,102,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,103,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,107,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,108,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,110,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,117,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,122,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,126,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,129,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,132,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,153,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,159,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,160,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,163,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,176,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,177,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,184,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,191,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,196,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,197,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,202,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,205,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,224,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,225,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,226,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,227,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,0,AI Appearing Obstacle 2__session_00,231,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,3,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,6,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,7,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,10,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,11,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,14,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,15,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,17,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,20,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,25,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,26,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,27,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,31,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,36,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,40,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,41,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,55,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,56,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,60,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,62,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,67,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,70,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,73,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,74,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,76,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,77,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,78,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,79,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,82,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,83,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,88,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,89,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,92,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,96,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,99,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,100,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,102,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,107,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,108,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,110,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,114,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,118,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,119,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,120,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,121,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,122,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,131,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,134,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,136,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,137,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,142,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,143,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,145,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,146,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,153,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,158,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,164,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,166,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,167,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,171,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,176,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,178,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,182,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,183,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,185,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,190,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,192,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,193,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,196,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,201,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,202,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,204,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,18,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,19,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,52,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,57,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,64,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,69,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,71,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,95,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,111,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,116,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,140,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,147,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,150,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,156,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,161,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,186,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,188,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,191,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,1,AI Appearing Obstacle 2__session_01,197,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,3,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,4,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,5,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,15,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,16,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,17,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,25,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,27,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,32,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,48,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,67,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,70,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,71,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,76,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,78,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,90,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,93,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,104,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,109,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,112,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,114,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,118,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,125,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,134,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,143,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,153,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,158,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,161,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,167,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,169,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,172,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,175,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,181,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,190,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,193,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,196,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,209,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,213,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,239,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,240,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,246,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,252,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,253,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,255,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,256,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,282,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,284,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,286,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,287,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,294,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,300,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,313,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,331,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,9,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,23,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,42,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,53,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,62,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,80,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,88,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,91,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,101,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,123,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,124,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,126,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,139,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,151,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,155,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,160,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,192,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,201,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,202,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,234,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,235,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,236,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,238,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,248,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,262,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,273,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,274,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,280,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,309,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,310,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,316,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,318,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,2,AI Appearing Obstacle 2__session_02,337,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,1,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,4,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,5,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,6,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,8,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,9,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,12,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,13,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,17,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,20,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,23,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,24,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,31,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,33,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,34,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,38,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,42,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,44,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,45,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,49,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,56,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,57,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,61,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,62,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,64,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,65,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,67,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,68,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,69,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,70,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,75,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,77,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,90,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,104,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,105,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,106,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,113,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,115,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,119,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,121,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,123,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,125,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,128,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,135,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,136,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,137,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,140,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,142,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,147,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,148,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,150,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,152,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,156,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,159,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,162,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,163,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,170,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,171,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,172,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,173,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,174,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,177,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,178,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,180,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,192,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,193,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,194,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,196,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,200,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,204,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,211,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,214,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,228,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,230,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,232,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,237,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,238,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,242,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,11,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,26,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,27,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,58,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,80,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,93,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,102,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,108,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,133,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,143,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,145,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,153,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,155,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,168,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,179,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,191,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,207,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,209,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,217,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,223,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,224,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,226,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,231,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,233,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,235,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,3,AI Appearing Obstacle 2__session_03,245,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,1,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,2,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,5,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,7,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,9,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,12,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,30,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,34,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,35,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,36,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,46,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,50,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,51,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,56,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,61,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,63,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,64,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,72,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,73,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,75,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,77,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,78,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,82,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,83,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,84,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,85,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,87,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,88,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,89,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,93,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,98,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,107,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,109,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,112,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,113,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,114,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,115,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,116,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,117,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,119,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,126,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,129,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,130,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,132,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,135,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,140,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,142,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,150,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,151,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,154,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,162,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,164,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,165,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,167,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,169,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,172,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,174,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,176,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,177,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,178,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,181,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,187,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,189,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,190,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,191,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,192,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,195,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,197,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,199,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,203,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,209,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,215,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,218,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,219,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,222,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,225,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,228,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,231,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,234,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,236,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,237,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,240,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,241,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,242,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,243,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,245,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,249,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,251,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,3,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,4,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,10,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,19,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,29,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,31,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,33,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,38,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,40,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,42,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,44,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,58,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,59,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,65,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,68,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,76,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,81,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,96,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,97,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,122,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,124,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,148,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,152,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,155,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,163,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,168,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,175,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,185,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,194,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,205,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,207,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,220,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,227,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,247,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,4,AI Appearing Obstacle 2__session_04,252,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,2,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,4,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,18,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,19,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,21,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,22,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,25,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,27,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,28,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,30,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,36,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,41,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,48,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,50,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,51,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,54,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,56,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,59,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,64,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,65,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,66,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,67,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,68,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,71,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,80,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,82,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,83,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,84,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,85,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,91,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,94,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,95,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,97,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,98,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,100,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,107,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,108,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,109,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,110,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,112,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,114,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,116,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,117,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,118,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,121,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,122,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,124,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,132,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,133,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,134,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,137,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,140,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,141,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,142,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,146,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,147,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,148,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,149,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,150,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,155,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,161,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,162,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,164,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,166,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,168,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,170,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,173,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,177,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,178,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,179,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,182,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,186,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,188,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,190,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,191,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,194,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,198,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,199,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,200,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,201,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,203,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,205,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,207,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,208,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,211,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,215,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,216,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,221,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,1,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,9,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,15,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,16,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,37,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,39,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,42,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,52,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,90,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,111,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,127,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,135,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,153,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,165,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,171,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,175,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,181,Shared-control,1,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,185,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,192,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,197,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,209,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,217,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,5,AI Appearing Obstacle 2__session_05,219,BCI-only,0,0,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,4,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,6,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,9,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,10,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,12,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,14,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,16,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,20,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,22,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,26,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,29,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,30,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,32,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,34,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,35,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,37,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,41,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,43,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,51,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,52,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,54,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,56,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,58,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,64,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,67,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,71,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,72,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,73,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,79,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,80,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,81,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,83,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,85,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,87,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,91,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,93,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,94,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,96,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,97,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,100,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,101,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,106,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,107,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,108,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,114,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,115,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,116,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,118,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,121,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,122,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,123,BCI-only,0,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,124,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,126,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,127,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,130,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,132,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,138,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,139,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,141,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,143,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,150,Shared-control,1,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,151,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,155,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,156,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,158,Shared-control,1,1,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,160,Shared-control,1,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,161,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,162,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,166,BCI-only,0,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,167,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,169,BCI-only,0,1,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,176,BCI-only,0,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,177,Shared-control,1,1,slight_right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,179,Shared-control,1,1,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,181,BCI-only,0,1,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,1,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,5,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,8,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,11,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,19,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,21,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,28,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,39,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,42,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,45,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,46,Shared-control,1,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,49,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,57,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,59,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,61,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,68,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,77,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,86,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,90,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,99,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,109,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,111,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,119,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,125,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,146,Shared-control,1,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,149,BCI-only,0,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,152,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,154,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,170,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,172,BCI-only,0,0,straight
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,174,BCI-only,0,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,178,BCI-only,0,0,left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,184,Shared-control,1,0,slight_left
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,185,Shared-control,1,0,right
+Monkey 1,Monkey 3,AI Appearing Obstacle 2,No hidden prior,1,6,AI Appearing Obstacle 2__session_06,187,Shared-control,1,0,slight_right

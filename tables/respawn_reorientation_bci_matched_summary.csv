@@ -1,0 +1,2 @@
+n_pairs,median_matching_distance_z,median_abs_t_bci_difference_ms,median_abs_e_bci_200_800_difference,median_abs_alpha_difference,median_lag_difference_unsuccessful_minus_successful_ms,wilcoxon_statistic,p_value
+69,0.2053325499956439,25.599999999743886,0.01754819656786922,0.01397972737347608,48.300000000570435,420.5,0.0012563549749514318

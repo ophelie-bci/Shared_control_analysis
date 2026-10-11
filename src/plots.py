@@ -33,6 +33,114 @@ def save_plot(fig, plot_name, subfolder):
     fig.savefig(fig_path, format='svg', bbox_inches='tight')
     print(f"Saved: {fig_path}")
 
+def _plot_paired_condition_points(
+    ax,
+    x,
+    vals_off,
+    vals_on,
+    color_off="#CC79A7",
+    color_on="#009E73",
+    label_off="BCI-only",
+    label_on="Shared-control",
+    summary="sem",
+):
+    """Plot paired BCI-only/shared-control unit values with mean +/- interval."""
+    x = np.asarray(x, dtype=float)
+    offset = 0.16
+    point_jitter = 0.035
+
+    def _finite_pair_arrays(off, on):
+        off = np.asarray(off, dtype=float)
+        on = np.asarray(on, dtype=float)
+        ok = np.isfinite(off) & np.isfinite(on)
+        return off[ok], on[ok]
+
+    def _summary_interval(values):
+        values = np.asarray(values, dtype=float)
+        values = values[np.isfinite(values)]
+        if values.size == 0:
+            return np.nan, np.nan
+        mean = float(np.mean(values))
+        if values.size < 2:
+            return mean, np.nan
+        sem = float(np.std(values, ddof=1) / np.sqrt(values.size))
+        if summary == "ci95":
+            try:
+                from scipy.stats import t
+                interval = sem * float(t.ppf(0.975, values.size - 1))
+            except Exception:
+                interval = sem * 1.96
+        else:
+            interval = sem
+        return mean, interval
+
+    rng = np.random.default_rng(0)
+    for i, xpos in enumerate(x):
+        off, on = _finite_pair_arrays(vals_off[i], vals_on[i])
+        if off.size == 0:
+            continue
+
+        jitter = np.linspace(-point_jitter, point_jitter, off.size)
+        if off.size > 1:
+            jitter = jitter[rng.permutation(off.size)]
+        x_off = np.full(off.size, xpos - offset) + jitter
+        x_on = np.full(on.size, xpos + offset) + jitter
+
+        for xo, yo, xn, yn in zip(x_off, off, x_on, on):
+            ax.plot([xo, xn], [yo, yn], color="0.45", linewidth=0.8, alpha=0.65, zorder=1)
+
+        ax.scatter(
+            x_off,
+            off,
+            s=28,
+            color=color_off,
+            edgecolor="black",
+            linewidth=0.4,
+            alpha=0.85,
+            label=label_off if i == 0 else None,
+            zorder=3,
+        )
+        ax.scatter(
+            x_on,
+            on,
+            s=28,
+            color=color_on,
+            edgecolor="black",
+            linewidth=0.4,
+            alpha=0.85,
+            label=label_on if i == 0 else None,
+            zorder=3,
+        )
+
+        for x_summary, values, color in (
+            (xpos - offset, off, color_off),
+            (xpos + offset, on, color_on),
+        ):
+            mean, interval = _summary_interval(values)
+            if not np.isfinite(mean):
+                continue
+            if np.isfinite(interval):
+                ax.errorbar(
+                    [x_summary],
+                    [mean],
+                    yerr=[interval],
+                    fmt="none",
+                    ecolor="black",
+                    elinewidth=1.1,
+                    capsize=4,
+                    capthick=1.1,
+                    zorder=5,
+                )
+            ax.scatter(
+                [x_summary],
+                [mean],
+                s=78,
+                color=color,
+                edgecolor="black",
+                linewidth=0.9,
+                zorder=6,
+            )
+
 # --- helpers reused by plots too ---
 def _resample_by_arclength(traj, K=100):
     if traj.shape[0] < 2:
@@ -559,50 +667,31 @@ def plot_failure_modes_global(
                         p = np.nan
             pvals.append(p)
 
+        vals_off_pct = [np.asarray(vals_off[c], dtype=float) * 100.0 for c in categories]
+        vals_on_pct = [np.asarray(vals_on[c], dtype=float) * 100.0 for c in categories]
+
         x = np.arange(len(categories), dtype=float)
-        width = 0.35
+        pair_offset = 0.16
 
         fig, ax = plt.subplots(figsize=(7, 4))
 
-        def draw_group(offset, means, sems, label, facecolor):
-            xs = x + offset
-            bars = ax.bar(
-                xs,
-                means,
-                width,
-                label=label,
-                color=facecolor,
-                edgecolor="black",
-                linewidth=0.5,
-                alpha=0.9,
-            )
-            means_a = np.asarray(means, float)
-            sems_a  = np.asarray(sems, float)
-            ok = np.isfinite(means_a) & np.isfinite(sems_a)
-            if np.any(ok):
-                ax.errorbar(
-                    xs[ok],
-                    means_a[ok],
-                    yerr=sems_a[ok],
-                    fmt="none",
-                    ecolor="black",
-                    elinewidth=1.0,
-                    capsize=4,
-                    capthick=1.0,
-                    zorder=5,
-                )
-            return bars
-
-        bars_off = draw_group(-width / 2, means_off, sems_off, "AI Off", "#e74c3c")
-        bars_on  = draw_group(+width / 2, means_on,  sems_on,  "AI On",  "#2ecc71")
+        _plot_paired_condition_points(
+            ax,
+            x,
+            vals_off_pct,
+            vals_on_pct,
+            label_off="BCI-only",
+            label_on="Shared-control",
+            summary="sem",
+        )
 
         ax.set_xticks(x)
         ax.set_xticklabels(
             [
-                "Stuck\nat\nobstacle",
-                "Overshoot",
-                "Not close\nenough",
-                "Not long\nenough",
+                "Blocked",
+                "Target\novershoot",
+                "Insufficient\nproximity",
+                "Insufficient\ndwell",
             ],
             rotation=0,
         )
@@ -610,20 +699,30 @@ def plot_failure_modes_global(
         ax.set_title(title)
         ax.legend(frameon=False)
 
-        finite_vals = [v for v in list(means_off) + list(means_on) if np.isfinite(v)]
+        finite_vals = [
+            float(v)
+            for arr in vals_off_pct + vals_on_pct
+            for v in np.asarray(arr, dtype=float)
+            if np.isfinite(v)
+        ]
         ymax = max(finite_vals) * 1.35 if finite_vals else 1.0
         ymax = max(1e-6, ymax)
         ax.set_ylim(0, ymax)
 
         # significance bars
         h = ymax * 0.03
-        for bar_off, bar_on, p in zip(bars_off, bars_on, pvals):
+        for i, p in enumerate(pvals):
             stars = p_to_stars(p)
             if not stars:
                 continue
-            x1 = bar_off.get_x() + bar_off.get_width() / 2.0
-            x2 = bar_on.get_x()  + bar_on.get_width()  / 2.0
-            y  = max(bar_off.get_height(), bar_on.get_height()) + h
+            x1 = x[i] - pair_offset
+            x2 = x[i] + pair_offset
+            y = max(
+                np.nanmax(vals_off_pct[i]) if np.any(np.isfinite(vals_off_pct[i])) else 0,
+                np.nanmax(vals_on_pct[i]) if np.any(np.isfinite(vals_on_pct[i])) else 0,
+                means_off[i] + (0 if np.isnan(sems_off[i]) else sems_off[i]),
+                means_on[i] + (0 if np.isnan(sems_on[i]) else sems_on[i]),
+            ) + h
             ax.plot([x1, x1, x2, x2], [y, y + h, y + h, y],
                     color="black", linewidth=1.0)
             ax.text((x1 + x2) / 2.0, y + h * 1.1, stars,
@@ -1451,7 +1550,7 @@ def plot_success_by_choice_state_global(
         yerr=sems_off,
         label="AI Off",
         capsize=4,
-        color="#e74c3c",
+        color="#CC79A7",
         edgecolor="black",
         linewidth=0.5,
         alpha=0.8,
@@ -1463,7 +1562,7 @@ def plot_success_by_choice_state_global(
         yerr=sems_on,
         label="AI On",
         capsize=4,
-        color="#2ecc71",
+        color="#009E73",
         edgecolor="black",
         linewidth=0.5,
         alpha=0.8,
@@ -1668,34 +1767,18 @@ def plot_success_by_choice_state_global_final(
         sems_on.append(se_on)
 
     x = np.arange(len(states))
-    width = 0.35
+    pair_offset = 0.16
 
     fig, ax = plt.subplots(figsize=(8, 5))
 
-    ax.bar(
-        x - width/2,
-        means_off,
-        width,
-        yerr=sems_off,
-        label="BCI-only",
-        capsize=4,
-        color="#e74c3c",
-        edgecolor="black",
-        linewidth=0.5,
-        alpha=0.8,
-    )
-
-    ax.bar(
-        x + width/2,
-        means_on,
-        width,
-        yerr=sems_on,
-        label="Shared-control",
-        capsize=4,
-        color="#2ecc71",
-        edgecolor="black",
-        linewidth=0.5,
-        alpha=0.8,
+    _plot_paired_condition_points(
+        ax,
+        x,
+        [vals_off[s] for s in states],
+        [vals_on[s] for s in states],
+        label_off="BCI-only",
+        label_on="Shared-control",
+        summary="sem",
     )
 
     ax.set_xticks(x)
@@ -1733,8 +1816,8 @@ def plot_success_by_choice_state_global_final(
         h = 0.02
         y = y_bar + gap
 
-        x1 = x[i] - width / 2.0
-        x2 = x[i] + width / 2.0
+        x1 = x[i] - pair_offset
+        x2 = x[i] + pair_offset
 
         ax.plot(
             [x1, x1, x2, x2],
@@ -9395,7 +9478,15 @@ def plot_summary_scatter(all_points, base_dir, title="Performance-dependent AI g
     # Map monkeys to colors, experiments to markers
     monkeys = sorted({p["monkey"] for p in all_points})
     exps = sorted({p["experiment"] for p in all_points})
-    color_map = {m: c for m, c in zip(monkeys, ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"])}
+    monkey_colors = {
+        "Monkey 1": "#E69F00",
+        "Monkey 2": "#0072B2",
+    }
+    fallback_colors = ["#009E73", "#CC79A7", "#56B4E9", "#D55E00"]
+    color_map = {
+        m: monkey_colors.get(m, fallback_colors[i % len(fallback_colors)])
+        for i, m in enumerate(monkeys)
+    }
     marker_map = {e: m for e, m in zip(exps, ["o", "s", "^", "D", "P", "X"])}
 
     fig, ax = plt.subplots(figsize=(6.8, 5.2))
@@ -9508,13 +9599,16 @@ def plot_gain_with_labels(per_target_gains, acc_ai_off, monkey, experiment,
 
     # --- AI gain (pp) + CI ---
     gain_mean_pp, gain_lo_pp, gain_hi_pp, ns = [], [], [], []
+    gain_points_pp = []
     for tgt in order:
-        m,(lo,hi) = ci95_t(per_target_gains.get(tgt, []))
+        vals = np.asarray(per_target_gains.get(tgt, []), dtype=float)
+        vals = vals[np.isfinite(vals)]
+        m,(lo,hi) = ci95_t(vals)
+        gain_points_pp.append(vals * 100.0)
         gain_mean_pp.append(m*100.0)
         gain_lo_pp.append(max(0, (m-lo)*100.0) if np.isfinite(lo) else 0.0)
         gain_hi_pp.append(max(0, (hi-m)*100.0) if np.isfinite(hi) else 0.0)
-        ns.append(np.isfinite(per_target_gains.get(tgt, [])).sum()
-                  if hasattr(per_target_gains.get(tgt, []), "__len__") else 0)
+        ns.append(vals.size)
 
     # --- No-AI baseline (mean %) for labels ---
     off_mean_pct = []
@@ -9528,12 +9622,51 @@ def plot_gain_with_labels(per_target_gains, acc_ai_off, monkey, experiment,
 
     # --- Plot ---
     fig, ax = plt.subplots(figsize=(7.2, 4.0))
-    bars = ax.bar(x, gain_mean_pp, yerr=[gain_lo_pp, gain_hi_pp], capsize=3, width=0.65,
-                  color="#4C78A8", edgecolor="none", alpha=0.95, label="AI gain (pp)")
+    monkey_colors = {
+        "Monkey 1": "#E69F00",
+        "Monkey 2": "#0072B2",
+    }
+    point_color = monkey_colors.get(monkey, "#4C78A8")
+    mean_color = "#1F2933"
+
+    for xi, vals_pp in zip(x, gain_points_pp):
+        if vals_pp.size == 0:
+            continue
+        offsets = np.array([0.0]) if vals_pp.size == 1 else np.linspace(-0.18, 0.18, vals_pp.size)
+        ax.scatter(
+            xi + offsets,
+            vals_pp,
+            s=26,
+            marker="o",
+            facecolors="white",
+            edgecolors=point_color,
+            linewidths=0.9,
+            alpha=0.95,
+            zorder=3,
+        )
+
+    ax.errorbar(
+        x,
+        gain_mean_pp,
+        yerr=[gain_lo_pp, gain_hi_pp],
+        fmt="D",
+        markersize=5,
+        color=mean_color,
+        markerfacecolor=point_color,
+        markeredgecolor=mean_color,
+        ecolor=mean_color,
+        elinewidth=1.1,
+        capsize=4,
+        capthick=1.1,
+        linestyle="none",
+        zorder=4,
+    )
     ax.axhline(0, color="0.25", lw=1)
     ax.set_xticks(x); ax.set_xticklabels(order, rotation=12, ha="right")
     ax.set_ylabel("AI gain (pp)")
     ax.set_title(f"{monkey} – {experiment}: per-target AI gain (bars) with No-AI baseline labels")
+
+    ax.set_title(f"{monkey} - {experiment}: per-target shared-control gain")
 
     # ---- SAFE y-limits that include the 95% CI whiskers ----
     import numpy as np
@@ -9544,6 +9677,7 @@ def plot_gain_with_labels(per_target_gains, acc_ai_off, monkey, experiment,
 
     lower = means - loerr
     upper = means + hierr
+    finite_points = np.concatenate([v[np.isfinite(v)] for v in gain_points_pp if v.size > 0]) if gain_points_pp else np.array([])
 
     finite_lower = lower[np.isfinite(lower)]
     finite_upper = upper[np.isfinite(upper)]
@@ -9551,28 +9685,31 @@ def plot_gain_with_labels(per_target_gains, acc_ai_off, monkey, experiment,
     if finite_lower.size and finite_upper.size:
         y_min_ci = float(finite_lower.min())
         y_max_ci = float(finite_upper.max())
+        if finite_points.size:
+            y_min_ci = min(y_min_ci, float(finite_points.min()))
+            y_max_ci = max(y_max_ci, float(finite_points.max()))
         y_range  = max(1.0, y_max_ci - y_min_ci)
-        pad = max(4.0, 0.08 * y_range)            # small proportional padding
+        pad = max(4.0, 0.12 * y_range)            # small proportional padding
         ymin = min(0.0, y_min_ci - pad)           # include zero if below
         ymax = max(10.0, y_max_ci + pad)
         ax.set_ylim(ymin, ymax)
 
-    # Overlay labels: 'AI off = XX%'
-    for xi, bar, base in zip(x, bars, off_mean_pct):
+    # Overlay labels: 'BCI-only= XX%'
+    ymin, ymax = ax.get_ylim()
+    yspan = ymax - ymin
+    for xi, mean, hierr, base in zip(x, gain_mean_pp, gain_hi_pp, off_mean_pct):
         if not np.isfinite(base): continue
-        txt = f"AI off = {label_fmt.format(base)}"
-        height = bar.get_height()
+        txt = f"BCI-only= {label_fmt.format(base)}"
         # position logic
-        if label_pos == "inside" or (label_pos == "auto" and height >= 18):
+        if label_pos == "inside" or (label_pos == "auto" and mean >= 18):
             # inside near top
-            y = height - 0.08*(ax.get_ylim()[1]-ax.get_ylim()[0])
+            y = mean - 0.06*yspan
             va, color = "top", "0.30"
-        elif label_pos == "above" or (label_pos == "auto" and height < 18):
+        elif label_pos == "above" or (label_pos == "auto" and mean < 18):
             # just above bar
-            y = height + 0.02*(ax.get_ylim()[1]-ax.get_ylim()[0])
+            y = mean + hierr + 0.025*yspan
             va, color = "bottom", "0.30"
-        ax.text(bar.get_x() + bar.get_width()/2, y, txt,
-                ha="center", va=va, fontsize=8, color=color)
+        ax.text(xi, y, txt, ha="center", va=va, fontsize=8, color=color)
 
     # (optional) show n per target below ticks (keeps bars clean)
     ymin, ymax = ax.get_ylim()
@@ -9580,7 +9717,14 @@ def plot_gain_with_labels(per_target_gains, acc_ai_off, monkey, experiment,
         ax.text(xi, ymin + 0.035*(ymax-ymin), f"n={int(n)}",
                 ha="center", va="bottom", fontsize=8, color="0.4")
 
-    ax.legend(loc="upper left", frameon=False)
+    from matplotlib.lines import Line2D
+    ax.legend(handles=[
+        Line2D([0], [0], marker="o", color="none", markerfacecolor="white",
+               markeredgecolor=point_color, markersize=5, label="Session"),
+        Line2D([0], [0], marker="D", color=mean_color, markerfacecolor=point_color,
+               markeredgecolor=mean_color, markersize=5, linestyle="none",
+               label="Mean +/- 95% CI"),
+    ], loc="upper left", frameon=False)
     fig.tight_layout()
     save_plot(fig, f"AI_gain_labels_{monkey}_{experiment}", "AI gain with baseline")  # if you have this helper
     plt.show(); plt.close(fig)
@@ -9665,7 +9809,7 @@ def plot_gain_with_ci(per_target_gains, acc_ai_off, monkey, experiment,
                  color="#E45756", lw=1.7, ms=4, capsize=3, alpha=0.9)
     ax2.set_ylabel("No-AI success (%)")
 
-    # optional chance line (right axis)
+    # Optional random-target chance line (right axis).
     if chance_level is not None:
         if isinstance(chance_level, dict):
             for xi,tgt in zip(x, order):
@@ -10043,16 +10187,34 @@ def plot_success_rate_per_session(success_rate_ai_on, success_rate_ai_off, monke
     x = np.arange(len(success_rate_ai_on))
     avg_ai_on = int(np.round(np.mean(success_rate_ai_on) * 100))
     avg_ai_off = int(np.round(np.mean(success_rate_ai_off) * 100))
+    shared_control_color = "#009E73"
+    bci_only_color = "#CC79A7"
 
     fig, ax = plt.subplots(figsize=(10, 6))
-    ax.plot(x, np.array(success_rate_ai_on) * 100, marker='o', color='green', label=f'AI On (avg = {avg_ai_on}%)')
-    ax.plot(x, np.array(success_rate_ai_off) * 100, marker='o', color='red', label=f'AI Off (avg = {avg_ai_off}%)')
+    ax.plot(
+        x,
+        np.array(success_rate_ai_on) * 100,
+        marker='o',
+        color=shared_control_color,
+        linewidth=3,
+        markersize=12,
+        label='Shared-control',
+    )
+    ax.plot(
+        x,
+        np.array(success_rate_ai_off) * 100,
+        marker='o',
+        color=bci_only_color,
+        linewidth=3,
+        markersize=12,
+        label='BCI-only',
+    )
 
-    ax.axhline(avg_ai_on, color='green', linestyle='--', alpha=0.5)
-    ax.axhline(avg_ai_off, color='red', linestyle='--', alpha=0.5)
+    ax.axhline(avg_ai_on, color=shared_control_color, linestyle='--', linewidth=3, alpha=0.5)
+    ax.axhline(avg_ai_off, color=bci_only_color, linestyle='--', linewidth=3, alpha=0.5)
 
     if chance_level is not None:
-        ax.axhline(chance_level * 100, color='gray', linestyle=':', linewidth=2, label=f'Chance level: {int(np.round(chance_level*100))}%')
+        ax.axhline(chance_level * 100, color='gray', linestyle=':', linewidth=2, label=f'Random-target chance: {int(np.round(chance_level*100))}%')
 
     ax.set_ylim(0, 100)
     ax.set_xlabel('Session')
@@ -10061,7 +10223,7 @@ def plot_success_rate_per_session(success_rate_ai_on, success_rate_ai_off, monke
     ax.set_xticks(x)
     ax.set_xticklabels([f'{i+1}' for i in x])
     ax.legend()
-    ax.grid(True)
+    ax.grid(False)
     fig.tight_layout()
 
     save_plot(fig, f"success_rate_per_session_{monkey}_{experiment}", subfolder="success_rate")
@@ -10754,26 +10916,22 @@ def plot_failure_modes_nonexec_incorrect(
             ok = np.isfinite(arr_off) & np.isfinite(arr_on)
             ns.append(int(np.sum(ok)))
 
+        vals_off_pct = [np.asarray(vals_off[c], dtype=float) * 100.0 for c in categories]
+        vals_on_pct = [np.asarray(vals_on[c], dtype=float) * 100.0 for c in categories]
+
         x = np.arange(len(categories), dtype=float)
-        width = 0.35
+        pair_offset = 0.16
         fig, ax = plt.subplots(figsize=(6.4, 4.0))
 
-        def draw_group(offset, means, sems, label, facecolor):
-            xs = x + offset
-            bars = ax.bar(xs, means, width, label=label,
-                          color=facecolor, edgecolor="black",
-                          linewidth=0.5, alpha=0.9)
-            means_a = np.asarray(means, float)
-            sems_a  = np.asarray(sems,  float)
-            ok = np.isfinite(means_a) & np.isfinite(sems_a)
-            if np.any(ok):
-                ax.errorbar(xs[ok], means_a[ok], yerr=sems_a[ok],
-                            fmt="none", ecolor="black",
-                            elinewidth=1.0, capsize=4, capthick=1.0, zorder=5)
-            return bars
-
-        bars_off = draw_group(-width/2, means_off, sems_off, "AI Off", "#e74c3c")
-        bars_on  = draw_group(+width/2, means_on,  sems_on,  "AI On",  "#2ecc71")
+        _plot_paired_condition_points(
+            ax,
+            x,
+            vals_off_pct,
+            vals_on_pct,
+            label_off="BCI-only",
+            label_on="Shared-control",
+            summary="sem",
+        )
 
         ax.set_xticks(x)
         ax.set_xticklabels([pretty[c] for c in categories], rotation=0)
@@ -10785,13 +10943,18 @@ def plot_failure_modes_nonexec_incorrect(
 
         # significance
         h = 2.5
-        for bar_off, bar_on, p in zip(bars_off, bars_on, pvals):
+        for i, p in enumerate(pvals):
             stars = p_to_stars(p)
             if not stars:
                 continue
-            x1 = bar_off.get_x() + bar_off.get_width()/2
-            x2 = bar_on.get_x()  + bar_on.get_width()/2
-            y  = max(bar_off.get_height(), bar_on.get_height()) + h
+            x1 = x[i] - pair_offset
+            x2 = x[i] + pair_offset
+            y = max(
+                np.nanmax(vals_off_pct[i]) if np.any(np.isfinite(vals_off_pct[i])) else 0,
+                np.nanmax(vals_on_pct[i]) if np.any(np.isfinite(vals_on_pct[i])) else 0,
+                means_off[i] + (0 if np.isnan(sems_off[i]) else sems_off[i]),
+                means_on[i] + (0 if np.isnan(sems_on[i]) else sems_on[i]),
+            ) + h
             ax.plot([x1, x1, x2, x2], [y, y+h, y+h, y], color="black", linewidth=1.0)
             ax.text((x1+x2)/2, y+h*1.05, stars, ha="center", va="bottom", fontsize=10)
 
@@ -10899,7 +11062,7 @@ def plot_failure_modes_all(
     # }
     pretty = {
         "execution_error": "Execution\nerrors",
-        "wrong_target": "Intent/\nchoice\nerrors",   # or "Decoder choice\nerrors"
+        "wrong_target": "Decoder-\ndirection\nerrors",
         "other": "Other",
     }
     alt_map = {
@@ -11055,40 +11218,23 @@ def plot_failure_modes_all(
             ns.append(int(np.sum(ok)))
 
         # ---- plot ----
+        vals_off_pct = [np.asarray(vals_off[c], dtype=float) * 100.0 for c in categories]
+        vals_on_pct = [np.asarray(vals_on[c], dtype=float) * 100.0 for c in categories]
+
         x = np.arange(len(categories), dtype=float)
-        width = 0.35
+        pair_offset = 0.16
 
         fig, ax = plt.subplots(figsize=(7, 4))
 
-        def draw_group(offset, means, sems, label, facecolor):
-            xs = x + offset
-            bars = ax.bar(
-                xs, means, width,
-                label=label,
-                color=facecolor,
-                edgecolor="black",
-                linewidth=0.5,
-                alpha=0.9,
-            )
-            means_a = np.asarray(means, float)
-            sems_a  = np.asarray(sems,  float)
-            ok = np.isfinite(means_a) & np.isfinite(sems_a)
-            if np.any(ok):
-                ax.errorbar(
-                    xs[ok],
-                    means_a[ok],
-                    yerr=sems_a[ok],
-                    fmt="none",
-                    ecolor="black",
-                    elinewidth=1.0,
-                    capsize=4,
-                    capthick=1.0,
-                    zorder=5,
-                )
-            return bars
-
-        bars_off = draw_group(-width/2, means_off, sems_off, "AI Off", "#e74c3c")
-        bars_on  = draw_group(+width/2, means_on,  sems_on,  "AI On",  "#2ecc71")
+        _plot_paired_condition_points(
+            ax,
+            x,
+            vals_off_pct,
+            vals_on_pct,
+            label_off="BCI-only",
+            label_on="Shared-control",
+            summary="sem",
+        )
 
         ax.set_xticks(x)
         ax.set_xticklabels([pretty[c] for c in categories], rotation=0)
@@ -11096,21 +11242,31 @@ def plot_failure_modes_all(
         ax.set_title(title)
         ax.legend(frameon=False)
 
-        finite_vals = [v for v in list(means_off) + list(means_on) if np.isfinite(v)]
+        finite_vals = [
+            float(v)
+            for arr in vals_off_pct + vals_on_pct
+            for v in np.asarray(arr, dtype=float)
+            if np.isfinite(v)
+        ]
         ymax = (max(finite_vals) * 1.35) if finite_vals else 1.0
         ymax = max(1e-6, ymax)
         ax.set_ylim(0, ymax)
 
         # ---- significance brackets + stars ----
         h = ymax * 0.03  # vertical height of bracket
-        for i, (bar_off, bar_on, p, n) in enumerate(zip(bars_off, bars_on, pvals, ns)):
+        for i, (p, n) in enumerate(zip(pvals, ns)):
             stars = p_to_stars(p)
             if not stars:
                 continue
 
-            x1 = bar_off.get_x() + bar_off.get_width() / 2.0
-            x2 = bar_on.get_x()  + bar_on.get_width()  / 2.0
-            y  = max(bar_off.get_height(), bar_on.get_height()) + h
+            x1 = x[i] - pair_offset
+            x2 = x[i] + pair_offset
+            y = max(
+                np.nanmax(vals_off_pct[i]) if np.any(np.isfinite(vals_off_pct[i])) else 0,
+                np.nanmax(vals_on_pct[i]) if np.any(np.isfinite(vals_on_pct[i])) else 0,
+                means_off[i] + (0 if np.isnan(sems_off[i]) else sems_off[i]),
+                means_on[i] + (0 if np.isnan(sems_on[i]) else sems_on[i]),
+            ) + h
 
             ax.plot([x1, x1, x2, x2],
                     [y,  y + h, y + h, y],

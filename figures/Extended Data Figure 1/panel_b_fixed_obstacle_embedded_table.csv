@@ -1,0 +1,7 @@
+Metric,Trial Type,Delta (Shared-control - BCI-only),Wilcoxon signed-rank p-value
+Time-to-target (s),Successful,+0.55 +/- 0.04 s,p = 2.52 x 10^-16
+Obstacle clearance,Successful,+0.51 +/- 0.03 m,p = 4.53 x 10^-19
+Obstacle clearance,Unsuccessful,+0.64 +/- 0.06 m,p = 9.19 x 10^-14
+Collision rate,Successful,-49.6 +/- 3.0 percentage points,p = 4.91 x 10^-17
+Collision rate,Unsuccessful,-54.2 +/- 3.3 percentage points,p = 4.92 x 10^-15
+log(MSJ),Successful,-0.155 +/- 0.024,p = 4.45 x 10^-9

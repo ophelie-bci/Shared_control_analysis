@@ -67,8 +67,9 @@ def run_failure_mode_plots(recompute: bool, monkeys: list[str], experiments: lis
     from src.trial_utils import load_grand_summary, save_grand_summary
 
     if recompute:
-        failure.assert_recompute_is_implemented()
-        grand_summary = failure.analyze_trajectories(monkeys, experiments, base_dir)
+        from scripts.verify_figure5_failure_modes import recompute_grand_summary
+
+        grand_summary = recompute_grand_summary(base_dir, monkeys, experiments)
         save_grand_summary(grand_summary, experiments)
     else:
         grand_summary = load_grand_summary()
@@ -84,9 +85,42 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--monkeys", nargs="+", default=DEFAULT_MONKEYS)
     parser.add_argument("--experiments", nargs="+", default=DEFAULT_EXPERIMENTS)
     parser.add_argument("--skip-success-rate", action="store_true")
+    parser.add_argument("--skip-decoder-electrode-summary", action="store_true")
+    parser.add_argument("--skip-collision-corrected-success", action="store_true")
     parser.add_argument("--skip-figure2", action="store_true")
     parser.add_argument("--skip-extended-data-figure1", action="store_true")
     parser.add_argument("--skip-temporal-prior-reset-example", action="store_true")
+    parser.add_argument("--skip-respawn-reorientation-lag", action="store_true")
+    parser.add_argument("--skip-respawn-bci-reorientation-by-outcome", action="store_true")
+    parser.add_argument("--skip-respawn-bci-reorientation-sensitivity", action="store_true")
+    parser.add_argument("--skip-obstacle-session-metrics", action="store_true")
+    parser.add_argument("--skip-obstacle-exclusion-audit", action="store_true")
+    parser.add_argument("--skip-same-alpha-assistance", action="store_true")
+    parser.add_argument("--skip-time-resolved-bci-influence", action="store_true")
+    parser.add_argument("--skip-decoded-command-comparison", action="store_true")
+    parser.add_argument("--skip-neural-target-generalization", action="store_true")
+    parser.add_argument("--skip-shared-control-adaptation", action="store_true")
+    parser.add_argument("--skip-hidden-prior-followup-gain", action="store_true")
+    parser.add_argument("--skip-bci-only-learning-followup", action="store_true")
+    parser.add_argument("--skip-followup-reactive-obstacle", action="store_true")
+    parser.add_argument(
+        "--hidden-prior-source-monkey",
+        default="Monkey 3",
+        help=(
+            "Raw-data monkey folder for the Monkey 1 hidden-prior follow-up "
+            "trial-level model. The session-level comparison uses the cached "
+            "manuscript Monkey 1 session table when available."
+        ),
+    )
+    parser.add_argument("--skip-ai-only-baseline", action="store_true")
+    parser.add_argument(
+        "--ai-only-replay-csv",
+        default=None,
+        help=(
+            "Optional CSV of strict AI-only/shared-control replay outcomes for "
+            "the K=1..5 candidate-set-size analysis."
+        ),
+    )
     parser.add_argument("--skip-prior-confidence", action="store_true")
     parser.add_argument("--skip-reset-prior", action="store_true")
     parser.add_argument("--skip-failure-modes", action="store_true")
@@ -128,6 +162,38 @@ def main() -> int:
             keep_going,
         )
 
+    if not args.skip_decoder_electrode_summary:
+        from scripts import run_decoder_electrode_summary
+
+        run_step(
+            "decoder electrode summary",
+            lambda: run_decoder_electrode_summary.run_decoder_electrode_summary(
+                base_dir,
+                args.monkeys,
+                args.experiments,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_collision_corrected_success:
+        from scripts import run_collision_corrected_success
+
+        obstacle_experiments = [
+            exp for exp in args.experiments
+            if exp in run_collision_corrected_success.EXPERIMENT_LABELS
+        ]
+        run_step(
+            "collision-corrected success counterfactual",
+            lambda: run_collision_corrected_success.run_collision_corrected_success(
+                args.monkeys,
+                obstacle_experiments,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
     if not args.skip_figure2:
         from scripts import make_figure2_fixed_obstacle_example
 
@@ -154,6 +220,208 @@ def main() -> int:
         run_step(
             "temporal prior reset example",
             lambda: make_temporal_prior_reset_example.main(["--base-dir", base_dir]),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_respawn_reorientation_lag:
+        from scripts import run_respawn_reorientation_lag
+
+        run_step(
+            "respawn reorientation-lag analysis",
+            lambda: run_respawn_reorientation_lag.run_respawn_reorientation_lag(
+                args.monkeys,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_respawn_bci_reorientation_by_outcome:
+        from scripts import run_respawn_bci_reorientation_by_outcome
+
+        run_step(
+            "respawn decoded BCI reorientation by outcome",
+            lambda: run_respawn_bci_reorientation_by_outcome.run_respawn_bci_reorientation_by_outcome(
+                args.monkeys,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_respawn_bci_reorientation_sensitivity:
+        from scripts import run_respawn_bci_reorientation_sensitivity
+
+        run_step(
+            "respawn decoded BCI reorientation cumulative and sensitivity analysis",
+            lambda: run_respawn_bci_reorientation_sensitivity.run(
+                args.monkeys,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_obstacle_session_metrics:
+        from scripts import run_obstacle_session_metrics
+
+        obstacle_experiments = [
+            exp for exp in args.experiments
+            if exp in run_obstacle_session_metrics.EXPERIMENT_LABELS
+        ]
+        run_step(
+            "obstacle session-level trajectory and override metrics",
+            lambda: run_obstacle_session_metrics.run_obstacle_session_metrics(
+                args.monkeys,
+                obstacle_experiments,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_obstacle_exclusion_audit:
+        from scripts import run_obstacle_exclusion_audit
+
+        obstacle_experiments = [
+            exp for exp in args.experiments
+            if exp in run_obstacle_exclusion_audit.DEFAULT_EXPERIMENTS
+        ]
+        run_step(
+            "near-obstacle decoded-choice exclusion audit",
+            lambda: run_obstacle_exclusion_audit.run_obstacle_exclusion_audit(
+                args.monkeys,
+                obstacle_experiments,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_same_alpha_assistance:
+        from scripts import run_same_alpha_assistance_analysis
+
+        run_step(
+            "same-alpha assistance magnitude analysis",
+            lambda: run_same_alpha_assistance_analysis.run_analysis(
+                base_dir,
+                args.monkeys,
+                args.experiments,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_time_resolved_bci_influence:
+        from scripts import run_time_resolved_bci_influence
+
+        obstacle_experiments = [
+            exp for exp in args.experiments
+            if exp in run_time_resolved_bci_influence.EXPERIMENT_LABELS
+        ]
+        run_step(
+            "time-resolved BCI influence on executed command",
+            lambda: run_time_resolved_bci_influence.run_time_resolved_bci_influence(
+                args.monkeys,
+                obstacle_experiments,
+                base_dir,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_decoded_command_comparison:
+        from scripts import run_decoded_command_condition_comparison
+
+        obstacle_experiments = [
+            exp for exp in args.experiments
+            if exp in run_decoded_command_condition_comparison.EXPERIMENT_LABELS
+        ]
+        run_step(
+            "decoded-command comparison between BCI-only and shared-control",
+            lambda: run_decoded_command_condition_comparison.run_analysis(
+                base_dir,
+                args.monkeys,
+                obstacle_experiments,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_neural_target_generalization:
+        from scripts import run_neural_target_cross_condition_generalization
+
+        obstacle_experiments = [
+            exp for exp in args.experiments
+            if exp in run_neural_target_cross_condition_generalization.EXPERIMENT_LABELS
+        ]
+        run_step(
+            "neural target cross-condition generalization",
+            lambda: run_neural_target_cross_condition_generalization.run_analysis(
+                base_dir,
+                args.monkeys,
+                obstacle_experiments,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_shared_control_adaptation:
+        from scripts import run_shared_control_adaptation_analysis
+
+        run_step(
+            "shared-control adaptation analysis",
+            lambda: run_shared_control_adaptation_analysis.run_analysis(),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_hidden_prior_followup_gain:
+        from scripts import run_hidden_prior_followup_gain
+
+        run_step(
+            "hidden-prior follow-up shared-control gain analysis",
+            lambda: run_hidden_prior_followup_gain.run_analysis(
+                base_dir,
+                args.hidden_prior_source_monkey,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_bci_only_learning_followup:
+        from scripts import run_bci_only_learning_followup
+
+        run_step(
+            "BCI-only learning across original and follow-up appearing-obstacle sessions",
+            lambda: run_bci_only_learning_followup.run_analysis(
+                base_dir,
+                "Monkey 1",
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_followup_reactive_obstacle:
+        from scripts import run_followup_reactive_obstacle_analysis
+
+        run_step(
+            "follow-up reactive obstacle analysis",
+            lambda: run_followup_reactive_obstacle_analysis.run_analysis(
+                base_dir,
+                args.hidden_prior_source_monkey,
+            ),
+            failures,
+            keep_going,
+        )
+
+    if not args.skip_ai_only_baseline:
+        from scripts import run_ai_only_baseline
+
+        run_step(
+            "AI-only baseline and candidate-set-size analysis",
+            lambda: run_ai_only_baseline.run_ai_only_baseline(args.ai_only_replay_csv),
             failures,
             keep_going,
         )

@@ -1,0 +1,3 @@
+shared_control_subset,n_trials,median_bci_to_executed_lag_ms,iqr_bci_to_executed_lag_ms,incorrect_minus_correct_median_ms,p_value
+"Correct, both reoriented",408,0.0,89.52500000002328,,
+"Incorrect, both reoriented",69,59.300000000046566,209.3000000002794,59.300000000046566,7.072298215327332e-05

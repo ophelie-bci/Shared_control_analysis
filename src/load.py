@@ -179,8 +179,14 @@ def load_files(experimentName, monkey, base_dir, nb_trials=None, strict_pairing=
     pkl_files = sorted([os.path.join(data_dir, f)
                         for f in os.listdir(data_dir)
                         if f.endswith("_trials.pkl")])
-    ai_data_dir = os.path.join(base_dir, monkey, experimentName, "AIFiles")
-    ai_candidates = glob.glob(os.path.join(ai_data_dir, "*_aitrials.pkl")) if os.path.isdir(ai_data_dir) else []
+    ai_data_dirs = [
+        os.path.join(base_dir, monkey, experimentName, "AIFiles"),
+        os.path.join(base_dir, monkey, experimentName, "aiLog"),
+    ]
+    ai_candidates = []
+    for ai_data_dir in ai_data_dirs:
+        if os.path.isdir(ai_data_dir):
+            ai_candidates.extend(glob.glob(os.path.join(ai_data_dir, "*_aitrials.pkl")))
     ai_map = {_root_name(fp): fp for fp in ai_candidates}
 
     ai_pkl_files_ordered = []
@@ -188,9 +194,11 @@ def load_files(experimentName, monkey, base_dir, nb_trials=None, strict_pairing=
         root = _root_name(base_fp)
         ai_fp = ai_map.get(root)
         if ai_fp is None:
-            guess = os.path.join(ai_data_dir, os.path.basename(base_fp).replace("_trials.pkl", "_aitrials.pkl"))
-            if os.path.isfile(guess):
-                ai_fp = guess
+            for ai_data_dir in ai_data_dirs:
+                guess = os.path.join(ai_data_dir, os.path.basename(base_fp).replace("_trials.pkl", "_aitrials.pkl"))
+                if os.path.isfile(guess):
+                    ai_fp = guess
+                    break
         if ai_fp is None:
             msg = f"[warn] No matching AI file for {os.path.basename(base_fp)}"
             if strict_pairing:
@@ -251,7 +259,14 @@ def load_files(experimentName, monkey, base_dir, nb_trials=None, strict_pairing=
     # --- training files (unchanged) ---
     training_files = [os.path.join(training_dir, f)
                       for f in os.listdir(training_dir)] if os.path.isdir(training_dir) else []
-    all_training = [load_data(f, take_answers=[1])[0] for f in training_files if f.endswith(".pkl")]
+    all_training = []
+    for f in training_files:
+        if not f.endswith(".pkl"):
+            continue
+        try:
+            all_training.append(load_data(f, take_answers=[1])[0])
+        except Exception as exc:
+            print(f"[warn] Skipping training file {os.path.basename(f)}: {exc}")
 
     # --- channel counts / areas (your original logic) ---
     ccf_files = [os.path.join(data_dir, f) for f in os.listdir(data_dir) if f.endswith('.ccf')]

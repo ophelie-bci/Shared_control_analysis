@@ -2,7 +2,9 @@ Data-driven Extended Data Figure 1.
 Base data directory: config.yaml base_dir
 Experiment: AI Obstacle
 Monkeys: Monkey 1, Monkey 2
-Metric table is embedded in the figure; no standalone Extended Data Figure 1 table files are written.
+Metric table is embedded in the figure and exported as panel_b_fixed_obstacle_embedded_table.csv.
+Panel b source rows are exported as panel_b_fixed_obstacle_source_rows.csv.
+Panel b contributing counts are exported as panel_b_metric_contribution_counts.csv.
 Metric pairing unit: session x target.
 Collision-rate definition: previous-script obstacle proximity proxy; min distance to obstacle <= 0.94 m
 Time-to-target definition: final trajectory time minus first nonzero modelVelocity vz bin.

@@ -1,0 +1,13 @@
+task_family,outcome,command_metric,n_sessions,mean_slope,median_slope,n_positive,n_negative,wilcoxon_two_sided_statistic,wilcoxon_two_sided_p,wilcoxon_two_sided_q_bh
+Appearing Obstacle,angular_error_to_target_deg_mean,command_speed_sd,19,-12.78208814611026,-12.920303077821812,5,14,36.0,0.015972137451171875,0.021296183268229168
+Appearing Obstacle,angular_error_to_target_deg_mean,decoded_speed_mean,19,-6.563817693195013,-4.342335905052906,5,14,32.0,0.00945281982421875,0.014179229736328125
+Appearing Obstacle,success,command_speed_sd,19,0.8991415836310711,0.9280452478374508,17,2,3.0,1.9073486328125e-05,5.7220458984375e-05
+Appearing Obstacle,success,decoded_speed_mean,19,0.38851561328803735,0.38709327493711765,18,1,2.0,1.1444091796875e-05,4.57763671875e-05
+Appearing Obstacle follow-up,angular_error_to_target_deg_mean,command_speed_sd,9,-32.1778974755628,-31.667752528467403,0,9,0.0,0.00390625,0.006696428571428571
+Appearing Obstacle follow-up,angular_error_to_target_deg_mean,decoded_speed_mean,9,-12.894084334131962,-13.311089312388521,2,7,3.0,0.01953125,0.0234375
+Appearing Obstacle follow-up,success,command_speed_sd,9,1.1198461537359146,1.0892089941483543,9,0,0.0,0.00390625,0.006696428571428571
+Appearing Obstacle follow-up,success,decoded_speed_mean,9,0.434897538669744,0.42370412964445914,9,0,0.0,0.00390625,0.006696428571428571
+Fixed Obstacle,angular_error_to_target_deg_mean,command_speed_sd,23,24.04105802191382,39.063849600343275,13,10,66.0,0.027674198150634766,0.03019003434614702
+Fixed Obstacle,angular_error_to_target_deg_mean,decoded_speed_mean,23,-24.981182171394213,-30.30406704301977,1,22,2.0,7.152557373046875e-07,8.58306884765625e-06
+Fixed Obstacle,success,command_speed_sd,23,0.00451375462475777,-0.3350464803942261,10,13,134.0,0.9168474674224854,0.9168474674224854
+Fixed Obstacle,success,decoded_speed_mean,23,0.3642001694348265,0.3975432760412101,20,3,9.0,7.867813110351562e-06,4.57763671875e-05

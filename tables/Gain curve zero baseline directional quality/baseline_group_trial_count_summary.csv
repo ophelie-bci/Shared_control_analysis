@@ -1,0 +1,5 @@
+baseline_group,n_target_session_rows,mean_n_bci_only_trials,median_n_bci_only_trials,min_n_bci_only_trials,max_n_bci_only_trials,median_success_step_pct
+exact_0,36,5.777777777777778,5.0,3,11,20.0
+gt0_to_10,11,10.545454545454545,10.0,10,12,10.0
+gt10_to_20,31,7.967741935483871,8.0,5,12,12.5
+gt20,177,8.915254237288135,10.0,4,15,10.0

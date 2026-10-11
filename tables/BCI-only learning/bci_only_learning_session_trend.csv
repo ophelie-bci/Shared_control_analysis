@@ -1,0 +1,2 @@
+analysis,n_sessions,spearman_rho,spearman_p,linear_slope_pp_per_session,linear_slope_p,first_session_pct,last_session_pct,mean_pct
+original_bci_only_session_trend,10,0.5151515151515151,0.12755286970323426,2.884201415985097,0.07042011781544844,22.5,45.83333333333333,39.353050359928915

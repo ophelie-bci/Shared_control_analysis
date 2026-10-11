@@ -91,7 +91,7 @@ def paired_t_test(ai_on_rates, ai_off_rates):
 
 def permutation_test_success_rate(trials, labels, n_permutations=10000, seed=42):
     """
-    Estimate chance level using permutation test.
+    Estimate a permutation/random-target chance level.
     Input:
     - trials: list of bool (True if correct, False if incorrect)
     - labels: list of group labels (same length as trials)
@@ -180,8 +180,8 @@ def calculate_success(states, targs, obstacles):
 
 def compute_chance_level(trials, experiment, num_permutations=1000):
     """
-    Estimate chance level by shuffling targets and checking success,
-    with obstacle collisions accounted for.
+    Estimate random-target chance by shuffling targets and checking success,
+    with obstacle collisions accounted for. This is not an AI-only baseline.
     """
     conc_trials = [item for sublist in trials for item in sublist]
     states_data = [list(zip(trial.avatarTrajectory['x'],

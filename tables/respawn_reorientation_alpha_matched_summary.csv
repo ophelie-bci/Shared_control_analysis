@@ -1,0 +1,2 @@
+n_pairs,median_abs_alpha_difference,median_lag_difference_unsuccessful_minus_successful_ms,wilcoxon_statistic,p_value
+69,0.0004365838815625356,41.40000000002328,524.0,0.006433479200811934

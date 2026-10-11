@@ -374,6 +374,45 @@ def _metric_delta_table(base_dir: str, source_path: Path | None = None) -> pd.Da
     return pd.DataFrame(rows)
 
 
+def _metric_contribution_counts(session_df: pd.DataFrame) -> pd.DataFrame:
+    rows = []
+    specs = [
+        ("Time-to-target (s)", "Successful", "time_to_target_s"),
+        ("Obstacle clearance", "Successful", "obstacle_clearance_m"),
+        ("Obstacle clearance", "Unsuccessful", "obstacle_clearance_m"),
+        ("Collision rate", "Successful", "collision_rate_percent"),
+        ("Collision rate", "Unsuccessful", "collision_rate_percent"),
+        ("log(MSJ)", "Successful", "log_msj"),
+    ]
+    for metric_label, trial_type, column in specs:
+        sub = session_df[session_df["trial_type"] == trial_type]
+        pivot = sub.pivot_table(index=["monkey", "session_index", "target_label"], columns="condition", values=column)
+        if {"Shared-control", "BCI-only"}.issubset(pivot.columns):
+            paired = pivot[["Shared-control", "BCI-only"]].replace([np.inf, -np.inf], np.nan).dropna()
+            paired_index = paired.index.to_frame(index=False)
+        else:
+            paired_index = pd.DataFrame(columns=["monkey", "session_index", "target_label"])
+        for monkey in DEFAULT_MONKEYS:
+            monkey_rows = paired_index[paired_index["monkey"] == monkey]
+            rows.append(
+                {
+                    "panel": "Extended Data Figure 1b",
+                    "metric": metric_label,
+                    "trial_type": trial_type,
+                    "source_column": column,
+                    "dataset_label": f"{monkey} / {DEFAULT_EXPERIMENT}",
+                    "task_aggregate": "Fixed Obstacle",
+                    "monkey": monkey,
+                    "experiment": DEFAULT_EXPERIMENT,
+                    "n_paired_session_target_units": int(len(monkey_rows)),
+                    "n_sessions": int(monkey_rows["session_index"].nunique()) if not monkey_rows.empty else 0,
+                    "n_targets": int(monkey_rows["target_label"].nunique()) if not monkey_rows.empty else 0,
+                    "monkey1_six_month_followup_contributes": "no",
+                }
+            )
+    return pd.DataFrame(rows)
+
+
 def _add_panel(fig, parent_spec, df: pd.DataFrame, monkey: str, label_x: float):
     inner = gridspec.GridSpecFromSubplotSpec(
         2,
@@ -402,7 +441,14 @@ def build_extended_data_figure1(base_dir: str, output_dir: Path = DEFAULT_OUTPUT
         raise RuntimeError("No trajectory rows were collected for Extended Data Figure 1.")
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    table_df = _metric_delta_table(base_dir)
+    panel_b_source_path = output_dir / "panel_b_fixed_obstacle_source_rows.csv"
+    table_df = _metric_delta_table(base_dir, source_path=panel_b_source_path)
+    table_df.to_csv(output_dir / "panel_b_fixed_obstacle_embedded_table.csv", index=False)
+    panel_b_source_df = pd.read_csv(panel_b_source_path, sep=";")
+    _metric_contribution_counts(panel_b_source_df).to_csv(
+        output_dir / "panel_b_metric_contribution_counts.csv",
+        index=False,
+    )
 
     fig = plt.figure(figsize=(14, 11))
     outer = fig.add_gridspec(2, 2, height_ratios=[1.0, 0.48], hspace=0.22, wspace=0.18)
@@ -457,7 +503,9 @@ def build_extended_data_figure1(base_dir: str, output_dir: Path = DEFAULT_OUTPUT
                 "Base data directory: config.yaml base_dir",
                 f"Experiment: {DEFAULT_EXPERIMENT}",
                 f"Monkeys: {', '.join(DEFAULT_MONKEYS)}",
-                "Metric table is embedded in the figure; no standalone Extended Data Figure 1 table files are written.",
+                "Metric table is embedded in the figure and exported as panel_b_fixed_obstacle_embedded_table.csv.",
+                "Panel b source rows are exported as panel_b_fixed_obstacle_source_rows.csv.",
+                "Panel b contributing counts are exported as panel_b_metric_contribution_counts.csv.",
                 "Metric pairing unit: session x target.",
                 f"Collision-rate definition: previous-script obstacle proximity proxy; min distance to obstacle <= {OBSTACLE_PROXIMITY_RADIUS} m",
                 "Time-to-target definition: final trajectory time minus first nonzero modelVelocity vz bin.",

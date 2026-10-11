@@ -1,0 +1,5 @@
+source,condition,subset,metric,n_correct,n_incorrect,correct_median,incorrect_median,incorrect_minus_correct_median,ols_interaction_coefficient_ms,p_value
+trial.modelVelocity,Shared control,BCI reoriented within 2 s,bci_reorientation_latency_ms,534,196,384.2999999999884,683.0000000000582,298.70000000006985,,1.947198275100675e-21
+trial.modelVelocity,BCI-only,BCI reoriented within 2 s,bci_reorientation_latency_ms,635,121,449.80000000004657,543.0,93.19999999995343,,0.0097457397576671
+trial.modelVelocity,Shared control vs BCI-only,BCI reoriented within 2 s,latency_penalty_interaction,1169,317,,,205.50000000011642,175.08554348713827,0.0010525111903892203
+aiVelocities Input/Output,Shared control,BCI and executed velocity reoriented within 2 s,bci_to_executed_lag_ms,408,69,0.0,59.300000000046566,59.300000000046566,,7.072298215327332e-05

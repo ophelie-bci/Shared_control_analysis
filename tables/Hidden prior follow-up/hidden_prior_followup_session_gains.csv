@@ -1,0 +1,20 @@
+prior_condition,experiment,session_index,session_uid,n_shared,n_shared_success,n_bci_only,n_bci_only_success,s_shared_pct,s_bci_only_pct,delta_sc,delta_sc_pp
+Hidden prior,AI Appearing Obstacle,0,AI Appearing Obstacle__session_00,40,22,40,9,55.00000000000001,22.5,0.32500000000000007,32.50000000000001
+Hidden prior,AI Appearing Obstacle,1,AI Appearing Obstacle__session_01,34,19,34,7,55.88235294117647,20.588235294117645,0.35294117647058826,35.294117647058826
+Hidden prior,AI Appearing Obstacle,2,AI Appearing Obstacle__session_02,38,22,31,16,57.89473684210527,51.61290322580645,0.06281833616298815,6.281833616298815
+Hidden prior,AI Appearing Obstacle,3,AI Appearing Obstacle__session_03,35,21,35,13,60.0,37.142857142857146,0.2285714285714285,22.85714285714285
+Hidden prior,AI Appearing Obstacle,4,AI Appearing Obstacle__session_04,36,26,36,14,72.22222222222221,38.88888888888889,0.33333333333333326,33.33333333333333
+Hidden prior,AI Appearing Obstacle,5,AI Appearing Obstacle__session_05,33,15,32,6,45.45454545454545,18.75,0.26704545454545453,26.704545454545453
+Hidden prior,AI Appearing Obstacle,6,AI Appearing Obstacle__session_06,39,39,35,16,100.0,45.71428571428572,0.5428571428571429,54.28571428571429
+Hidden prior,AI Appearing Obstacle,7,AI Appearing Obstacle__session_07,53,41,24,15,77.35849056603774,62.5,0.1485849056603774,14.85849056603774
+Hidden prior,AI Appearing Obstacle,8,AI Appearing Obstacle__session_08,53,42,24,12,79.24528301886792,50.0,0.2924528301886793,29.24528301886793
+Hidden prior,AI Appearing Obstacle,9,AI Appearing Obstacle__session_09,57,37,24,11,64.91228070175438,45.83333333333333,0.1907894736842105,19.07894736842105
+No hidden prior,AI Appearing Obstacle 2,0,AI Appearing Obstacle 2__session_00,58,36,56,29,62.06896551724138,51.78571428571429,0.10283251231527091,10.28325123152709
+No hidden prior,AI Appearing Obstacle 2,1,AI Appearing Obstacle 2__session_01,50,44,41,28,88.0,68.29268292682927,0.19707317073170727,19.707317073170728
+No hidden prior,AI Appearing Obstacle 2,2,AI Appearing Obstacle 2__session_02,51,40,35,13,78.43137254901961,37.142857142857146,0.4128851540616246,41.28851540616246
+No hidden prior,AI Appearing Obstacle 2,3,AI Appearing Obstacle 2__session_03,51,44,50,28,86.27450980392157,56.00000000000001,0.3027450980392157,30.274509803921568
+No hidden prior,AI Appearing Obstacle 2,4,AI Appearing Obstacle 2__session_04,58,40,58,24,68.96551724137932,41.37931034482759,0.2758620689655173,27.58620689655173
+No hidden prior,AI Appearing Obstacle 2,5,AI Appearing Obstacle 2__session_05,53,46,51,32,86.79245283018868,62.74509803921568,0.24047354790973,24.047354790973
+No hidden prior,AI Appearing Obstacle 2,6,AI Appearing Obstacle 2__session_06,61,54,62,34,88.52459016393442,54.83870967741935,0.33685880486515074,33.685880486515074
+No hidden prior,AI Appearing Obstacle 2,7,AI Appearing Obstacle 2__session_07,54,47,57,41,87.03703703703704,71.9298245614035,0.15107212475633525,15.107212475633524
+No hidden prior,AI Appearing Obstacle 2,8,AI Appearing Obstacle 2__session_08,55,39,55,36,70.9090909090909,65.45454545454545,0.05454545454545457,5.454545454545457

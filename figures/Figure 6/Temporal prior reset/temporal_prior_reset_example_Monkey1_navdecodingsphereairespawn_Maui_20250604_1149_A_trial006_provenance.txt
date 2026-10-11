@@ -1,0 +1,8 @@
+﻿Temporal prior reset example
+Original no-reset source: <base_dir>\Monkey 1\AI Respawn\navdecodingsphereairespawn_Maui_20250604_1149_A_trials.pkl
+Original AI entropy source: <base_dir>\Monkey 1\AI Respawn\AIFiles\navdecodingsphereairespawn_Maui_20250604_1149_A_aitrials.pkl
+Reset replay source: <base_dir>\Monkey 1\AI Respawn\resetPriorFiles\reset_prior_analyzes_navdecodingsphereairespawn_Maui_20250604_1149_A.pkl
+Trial: 6
+Trajectory sampling stride: 5
+Old target / new target transition: (-3.5, 8.5) -> (0.0, 9.2).
+Original no-reset panel is cropped at closest approach to the pre-respawn target.

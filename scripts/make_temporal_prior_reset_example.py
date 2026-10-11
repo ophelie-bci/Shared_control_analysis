@@ -24,7 +24,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MONKEY = "Monkey 1"
 DEFAULT_EXPERIMENT = "AI Respawn"
 DEFAULT_SESSION = "navdecodingsphereairespawn_Maui_20250604_1149_A"
-DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "figures" / "Figure 5" / "Temporal prior reset"
+DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "figures" / "Figure 6" / "Temporal prior reset"
 DEFAULT_TRIAL = 6
 DEFAULT_STRIDE = 5
 
@@ -54,6 +54,13 @@ def default_source_paths(base_dir: str | Path) -> tuple[Path, Path, Path]:
     original_ai_path = session_dir / "AIFiles" / f"{DEFAULT_SESSION}_aitrials.pkl"
     reset_path = session_dir / "resetPriorFiles" / f"reset_prior_analyzes_{DEFAULT_SESSION}.pkl"
     return original_path, original_ai_path, reset_path
+
+
+def public_source_path(path: Path) -> str:
+    parts = list(path.parts)
+    if DEFAULT_MONKEY in parts:
+        return str(Path("<base_dir>", *parts[parts.index(DEFAULT_MONKEY):]))
+    return path.name
 
 
 def _load_trial(path: Path, trial_id: int) -> dict:
@@ -378,9 +385,9 @@ def build_temporal_prior_reset_example(
             "\n".join(
                 [
                     "Temporal prior reset example",
-                    f"Original no-reset source: {original_path}",
-                    f"Original AI entropy source: {original_ai_path}",
-                    f"Reset replay source: {reset_path}",
+                    f"Original no-reset source: {public_source_path(original_path)}",
+                    f"Original AI entropy source: {public_source_path(original_ai_path)}",
+                    f"Reset replay source: {public_source_path(reset_path)}",
                     f"Trial: {trial_id}",
                     f"Trajectory sampling stride: {stride}",
                     "Old target / new target transition: (-3.5, 8.5) -> (0.0, 9.2).",

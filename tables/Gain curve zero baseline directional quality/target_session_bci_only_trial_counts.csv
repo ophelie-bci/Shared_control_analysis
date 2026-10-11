@@ -1,0 +1,256 @@
+baseline_group,monkey,experiment,task,session_index,session_file,target,n_bci_only_trials,bci_only_successes,bci_only_success,baseline_pct,success_step_pct,shared_control_gain,gain_pp
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Maui_20241101_1044_A_trials.pkl,left,7,4,0.5714285714285714,57.14285714285714,14.285714285714286,0.4285714285714286,42.85714285714286
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Maui_20241101_1044_A_trials.pkl,right,6,1,0.1666666666666666,16.666666666666664,16.666666666666668,0.6025641025641026,60.25641025641026
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Maui_20241101_1044_A_trials.pkl,slight_left,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.5454545454545454,54.54545454545454
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Maui_20241101_1044_A_trials.pkl,slight_right,10,8,0.8,80.0,10.0,0.1166666666666665,11.66666666666666
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Maui_20241101_1044_A_trials.pkl,straight,7,5,0.7142857142857143,71.42857142857143,14.285714285714286,0.2857142857142857,28.57142857142857
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Maui_20241108_1039_B_trials.pkl,left,9,1,0.1111111111111111,11.11111111111111,11.11111111111111,0.3434343434343434,34.34343434343434
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Maui_20241108_1039_B_trials.pkl,right,7,1,0.1428571428571428,14.285714285714285,14.285714285714286,0.6071428571428572,60.71428571428572
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Maui_20241108_1039_B_trials.pkl,slight_left,13,4,0.3076923076923077,30.76923076923077,7.6923076923076925,0.1923076923076923,19.23076923076923
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Maui_20241108_1039_B_trials.pkl,slight_right,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.5454545454545454,54.54545454545454
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Maui_20241108_1039_B_trials.pkl,straight,9,6,0.6666666666666666,66.66666666666666,11.11111111111111,0.1904761904761904,19.047619047619047
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Maui_20241112_1002_A_trials.pkl,left,9,2,0.2222222222222222,22.22222222222222,11.11111111111111,0.3232323232323232,32.32323232323232
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Maui_20241112_1002_A_trials.pkl,right,12,3,0.25,25.0,8.333333333333334,0.125,12.5
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Maui_20241112_1002_A_trials.pkl,slight_left,9,5,0.5555555555555556,55.55555555555556,11.11111111111111,0.3535353535353535,35.35353535353535
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Maui_20241112_1002_A_trials.pkl,slight_right,9,7,0.7777777777777778,77.77777777777779,11.11111111111111,0.2222222222222222,22.22222222222222
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Maui_20241112_1002_A_trials.pkl,straight,11,8,0.7272727272727273,72.72727272727273,9.090909090909092,0.2727272727272727,27.27272727272727
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Maui_20241113_1015_B_trials.pkl,left,13,3,0.2307692307692307,23.07692307692308,7.6923076923076925,0.5192307692307692,51.92307692307692
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Maui_20241113_1015_B_trials.pkl,right,9,4,0.4444444444444444,44.44444444444444,11.11111111111111,0.4646464646464646,46.464646464646464
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Maui_20241113_1015_B_trials.pkl,slight_left,8,2,0.25,25.0,12.5,0.3333333333333333,33.333333333333336
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Maui_20241113_1015_B_trials.pkl,slight_right,13,11,0.8461538461538461,84.61538461538461,7.6923076923076925,0.0109890109890109,1.098901098901095
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Maui_20241113_1015_B_trials.pkl,straight,7,5,0.7142857142857143,71.42857142857143,14.285714285714286,-0.0989010989010988,-9.890109890109889
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Maui_20241119_1019_A_trials.pkl,left,10,2,0.2,20.0,10.0,-0.1,-10.0
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Maui_20241119_1019_A_trials.pkl,right,10,5,0.5,50.0,10.0,0.5,50.0
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Maui_20241119_1019_A_trials.pkl,slight_left,11,7,0.6363636363636364,63.63636363636363,9.090909090909092,0.1414141414141414,14.141414141414144
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Maui_20241119_1019_A_trials.pkl,slight_right,12,9,0.75,75.0,8.333333333333334,0.125,12.5
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Maui_20241119_1019_A_trials.pkl,straight,7,4,0.5714285714285714,57.14285714285714,14.285714285714286,0.1978021978021978,19.780219780219788
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Maui_20241120_1130_C_trials.pkl,left,7,3,0.4285714285714285,42.85714285714285,14.285714285714286,0.3406593406593407,34.06593406593407
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Maui_20241120_1130_C_trials.pkl,right,9,3,0.3333333333333333,33.33333333333333,11.11111111111111,0.4166666666666667,41.66666666666667
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Maui_20241120_1130_C_trials.pkl,slight_left,13,7,0.5384615384615384,53.84615384615385,7.6923076923076925,0.4615384615384615,46.15384615384615
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Maui_20241120_1130_C_trials.pkl,slight_right,11,2,0.1818181818181818,18.181818181818183,9.090909090909092,0.6931818181818181,69.31818181818181
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Maui_20241120_1130_C_trials.pkl,straight,10,2,0.2,20.0,10.0,0.7,70.0
+exact_0,Monkey 1,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Maui_20241121_1005_B_trials.pkl,left,11,0,0.0,0.0,9.090909090909092,0.25,25.0
+gt0_to_10,Monkey 1,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Maui_20241121_1005_B_trials.pkl,right,10,1,0.1,10.0,10.0,0.5363636363636364,53.63636363636364
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Maui_20241121_1005_B_trials.pkl,slight_left,11,9,0.8181818181818182,81.81818181818183,9.090909090909092,-0.0181818181818181,-1.8181818181818188
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Maui_20241121_1005_B_trials.pkl,slight_right,10,4,0.4,40.0,10.0,0.6,60.0
+gt10_to_20,Monkey 1,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Maui_20241121_1005_B_trials.pkl,straight,9,1,0.1111111111111111,11.11111111111111,11.11111111111111,0.8888888888888888,88.88888888888889
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Maui_20241122_1031_B_trials.pkl,left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.4545454545454546,45.45454545454546
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Maui_20241122_1031_B_trials.pkl,right,11,4,0.3636363636363636,36.36363636363637,9.090909090909092,0.5454545454545454,54.54545454545454
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Maui_20241122_1031_B_trials.pkl,slight_left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.2323232323232323,23.23232323232324
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Maui_20241122_1031_B_trials.pkl,slight_right,10,7,0.7,70.0,10.0,0.3,30.000000000000004
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Maui_20241122_1031_B_trials.pkl,straight,11,10,0.9090909090909092,90.9090909090909,9.090909090909092,0.0909090909090909,9.090909090909092
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Maui_20241126_0955_B_trials.pkl,left,12,5,0.4166666666666667,41.66666666666667,8.333333333333334,0.3333333333333333,33.33333333333333
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Maui_20241126_0955_B_trials.pkl,right,8,5,0.625,62.5,12.5,0.0749999999999999,7.499999999999996
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Maui_20241126_0955_B_trials.pkl,slight_left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.4545454545454546,45.45454545454546
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Maui_20241126_0955_B_trials.pkl,slight_right,10,5,0.5,50.0,10.0,0.409090909090909,40.90909090909091
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Maui_20241126_0955_B_trials.pkl,straight,9,7,0.7777777777777778,77.77777777777779,11.11111111111111,0.1313131313131312,13.131313131313128
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Maui_20241127_1011_A_trials.pkl,left,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.2454545454545454,24.545454545454543
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Maui_20241127_1011_A_trials.pkl,right,8,4,0.5,50.0,12.5,0.3181818181818182,31.818181818181824
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Maui_20241127_1011_A_trials.pkl,slight_left,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.3636363636363637,36.36363636363637
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Maui_20241127_1011_A_trials.pkl,slight_right,8,6,0.75,75.0,12.5,0.25,25.0
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Maui_20241127_1011_A_trials.pkl,straight,10,6,0.6,60.0,10.0,0.4,40.0
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Maui_20241128_0951_A_trials.pkl,left,11,3,0.2727272727272727,27.27272727272727,9.090909090909092,0.4272727272727272,42.72727272727273
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Maui_20241128_0951_A_trials.pkl,right,7,3,0.4285714285714285,42.85714285714285,14.285714285714286,0.2714285714285714,27.142857142857142
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Maui_20241128_0951_A_trials.pkl,slight_left,10,7,0.7,70.0,10.0,0.1333333333333334,13.33333333333334
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Maui_20241128_0951_A_trials.pkl,slight_right,11,9,0.8181818181818182,81.81818181818183,9.090909090909092,-0.0181818181818181,-1.8181818181818188
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Maui_20241128_0951_A_trials.pkl,straight,9,5,0.5555555555555556,55.55555555555556,11.11111111111111,0.4444444444444444,44.44444444444444
+exact_0,Monkey 1,AI Obstacle,Fixed Obstacle,11,navdecodingsphereaiobstacle_Maui_20241129_1034_A_trials.pkl,left,10,0,0.0,0.0,10.0,0.5833333333333334,58.333333333333336
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,11,navdecodingsphereaiobstacle_Maui_20241129_1034_A_trials.pkl,right,8,2,0.25,25.0,12.5,-0.0833333333333333,-8.333333333333334
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,11,navdecodingsphereaiobstacle_Maui_20241129_1034_A_trials.pkl,slight_left,12,10,0.8333333333333334,83.33333333333334,8.333333333333334,0.1666666666666666,16.666666666666664
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,11,navdecodingsphereaiobstacle_Maui_20241129_1034_A_trials.pkl,slight_right,10,7,0.7,70.0,10.0,0.2090909090909091,20.90909090909091
+gt20,Monkey 1,AI Obstacle,Fixed Obstacle,11,navdecodingsphereaiobstacle_Maui_20241129_1034_A_trials.pkl,straight,12,9,0.75,75.0,8.333333333333334,0.25,25.0
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Maui_20241107_1019_A_trials.pkl,left,7,0,0.0,0.0,14.285714285714286,0.2222222222222222,22.22222222222222
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Maui_20241107_1019_A_trials.pkl,right,6,0,0.0,0.0,16.666666666666668,0.25,25.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Maui_20241107_1019_A_trials.pkl,slight_left,12,4,0.3333333333333333,33.33333333333333,8.333333333333334,0.238095238095238,23.809523809523807
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Maui_20241107_1019_A_trials.pkl,slight_right,6,3,0.5,50.0,16.666666666666668,0.3571428571428571,35.71428571428571
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Maui_20241107_1019_A_trials.pkl,straight,9,2,0.2222222222222222,22.22222222222222,11.11111111111111,0.6666666666666666,66.66666666666666
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Maui_20241108_1021_A_trials.pkl,left,3,0,0.0,0.0,33.333333333333336,0.2,20.0
+gt10_to_20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Maui_20241108_1021_A_trials.pkl,right,5,1,0.2,20.0,20.0,0.0857142857142856,8.57142857142857
+gt10_to_20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Maui_20241108_1021_A_trials.pkl,slight_left,9,1,0.1111111111111111,11.11111111111111,11.11111111111111,0.3888888888888889,38.88888888888889
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Maui_20241108_1021_A_trials.pkl,slight_right,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.5454545454545454,54.54545454545454
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Maui_20241108_1021_A_trials.pkl,straight,6,0,0.0,0.0,16.666666666666668,1.0,100.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Maui_20241113_1028_A_trials.pkl,left,4,1,0.25,25.0,25.0,0.1136363636363636,11.363636363636363
+gt10_to_20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Maui_20241113_1028_A_trials.pkl,right,7,1,0.1428571428571428,14.285714285714285,14.285714285714286,0.1904761904761904,19.047619047619047
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Maui_20241113_1028_A_trials.pkl,slight_left,6,4,0.6666666666666666,66.66666666666666,16.666666666666668,-0.0416666666666666,-4.166666666666663
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Maui_20241113_1028_A_trials.pkl,slight_right,9,6,0.6666666666666666,66.66666666666666,11.11111111111111,0.1333333333333334,13.33333333333334
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Maui_20241113_1028_A_trials.pkl,straight,5,4,0.8,80.0,20.0,0.0749999999999999,7.499999999999996
+gt10_to_20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Maui_20241119_1032_A_trials.pkl,left,7,1,0.1428571428571428,14.285714285714285,14.285714285714286,0.1571428571428571,15.714285714285714
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Maui_20241119_1032_A_trials.pkl,right,7,0,0.0,0.0,14.285714285714286,0.75,75.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Maui_20241119_1032_A_trials.pkl,slight_left,7,4,0.5714285714285714,57.14285714285714,14.285714285714286,-0.0714285714285714,-7.14285714285714
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Maui_20241119_1032_A_trials.pkl,slight_right,9,5,0.5555555555555556,55.55555555555556,11.11111111111111,0.4444444444444444,44.44444444444444
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Maui_20241119_1032_A_trials.pkl,straight,5,3,0.6,60.0,20.0,0.0666666666666666,6.666666666666665
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Maui_20241120_1143_A_trials.pkl,left,7,2,0.2857142857142857,28.57142857142857,14.285714285714286,0.4642857142857143,46.42857142857143
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Maui_20241120_1143_A_trials.pkl,right,9,3,0.3333333333333333,33.33333333333333,11.11111111111111,-0.1904761904761904,-19.047619047619047
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Maui_20241120_1143_A_trials.pkl,slight_left,7,3,0.4285714285714285,42.85714285714285,14.285714285714286,0.5714285714285714,57.14285714285714
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Maui_20241120_1143_A_trials.pkl,slight_right,5,0,0.0,0.0,20.0,0.8571428571428571,85.71428571428571
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Maui_20241120_1143_A_trials.pkl,straight,8,6,0.75,75.0,12.5,0.1071428571428571,10.71428571428571
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Maui_20241121_1018_A_trials.pkl,left,7,0,0.0,0.0,14.285714285714286,0.0,0.0
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Maui_20241121_1018_A_trials.pkl,right,6,0,0.0,0.0,16.666666666666668,0.0,0.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Maui_20241121_1018_A_trials.pkl,slight_left,6,2,0.3333333333333333,33.33333333333333,16.666666666666668,0.6666666666666667,66.66666666666667
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Maui_20241121_1018_A_trials.pkl,slight_right,6,0,0.0,0.0,16.666666666666668,0.2857142857142857,28.57142857142857
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Maui_20241121_1018_A_trials.pkl,straight,7,4,0.5714285714285714,57.14285714285714,14.285714285714286,0.4285714285714286,42.85714285714286
+gt10_to_20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Maui_20241122_1046_A_trials.pkl,left,8,1,0.125,12.5,12.5,0.875,87.5
+gt10_to_20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Maui_20241122_1046_A_trials.pkl,right,8,1,0.125,12.5,12.5,0.875,87.5
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Maui_20241122_1046_A_trials.pkl,slight_left,7,6,0.8571428571428571,85.71428571428571,14.285714285714286,0.1428571428571429,14.28571428571429
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Maui_20241122_1046_A_trials.pkl,slight_right,5,4,0.8,80.0,20.0,0.1999999999999999,20.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Maui_20241122_1046_A_trials.pkl,straight,7,4,0.5714285714285714,57.14285714285714,14.285714285714286,0.4285714285714286,42.85714285714286
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Maui_20241126_1008_B_trials.pkl,left,4,1,0.25,25.0,25.0,0.2045454545454545,20.454545454545453
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Maui_20241126_1008_B_trials.pkl,right,5,0,0.0,0.0,20.0,0.5,50.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Maui_20241126_1008_B_trials.pkl,slight_left,5,5,1.0,100.0,20.0,0.0,0.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Maui_20241126_1008_B_trials.pkl,slight_right,5,5,1.0,100.0,20.0,0.0,0.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Maui_20241126_1008_B_trials.pkl,straight,5,4,0.8,80.0,20.0,0.0333333333333333,3.3333333333333326
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Maui_20241127_1025_B_trials.pkl,left,5,2,0.4,40.0,20.0,0.5,50.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Maui_20241127_1025_B_trials.pkl,right,4,1,0.25,25.0,25.0,-0.0277777777777777,-2.777777777777779
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Maui_20241127_1025_B_trials.pkl,slight_left,4,1,0.25,25.0,25.0,0.5681818181818182,56.81818181818182
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Maui_20241127_1025_B_trials.pkl,slight_right,5,3,0.6,60.0,20.0,0.4,40.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Maui_20241127_1025_B_trials.pkl,straight,6,5,0.8333333333333334,83.33333333333334,16.666666666666668,0.0833333333333332,8.333333333333325
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,9,navdecodingsphereaiappearingobstacle_Maui_20241128_1005_A_trials.pkl,left,5,3,0.6,60.0,20.0,0.4,40.0
+exact_0,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,9,navdecodingsphereaiappearingobstacle_Maui_20241128_1005_A_trials.pkl,right,4,0,0.0,0.0,25.0,0.0,0.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,9,navdecodingsphereaiappearingobstacle_Maui_20241128_1005_A_trials.pkl,slight_left,6,3,0.5,50.0,16.666666666666668,0.5,50.0
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,9,navdecodingsphereaiappearingobstacle_Maui_20241128_1005_A_trials.pkl,slight_right,5,3,0.6,60.0,20.0,0.0363636363636363,3.6363636363636376
+gt20,Monkey 1,AI Appearing Obstacle,Appearing Obstacle,9,navdecodingsphereaiappearingobstacle_Maui_20241128_1005_A_trials.pkl,straight,4,2,0.5,50.0,25.0,0.1363636363636363,13.636363636363637
+gt0_to_10,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,0,navdecodingsphereaiappearingobstacle_Maui_20250522_1232_A_trials.pkl,left,11,1,0.0909090909090909,9.090909090909092,9.090909090909092,0.409090909090909,40.90909090909091
+gt10_to_20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,0,navdecodingsphereaiappearingobstacle_Maui_20250522_1232_A_trials.pkl,right,6,1,0.1666666666666666,16.666666666666664,16.666666666666668,0.6666666666666667,66.66666666666667
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,0,navdecodingsphereaiappearingobstacle_Maui_20250522_1232_A_trials.pkl,slight_left,14,8,0.5714285714285714,57.14285714285714,7.142857142857143,-0.2714285714285714,-27.142857142857142
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,0,navdecodingsphereaiappearingobstacle_Maui_20250522_1232_A_trials.pkl,slight_right,10,8,0.8,80.0,10.0,-0.1333333333333334,-13.33333333333334
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,0,navdecodingsphereaiappearingobstacle_Maui_20250522_1232_A_trials.pkl,straight,15,11,0.7333333333333333,73.33333333333333,6.666666666666667,-0.0410256410256409,-4.102564102564099
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,1,navdecodingsphereaiappearingobstacle_Maui_20250523_1154_B_trials.pkl,left,9,4,0.4444444444444444,44.44444444444444,11.11111111111111,0.4555555555555556,45.55555555555556
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,1,navdecodingsphereaiappearingobstacle_Maui_20250523_1154_B_trials.pkl,right,4,1,0.25,25.0,25.0,0.65,65.0
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,1,navdecodingsphereaiappearingobstacle_Maui_20250523_1154_B_trials.pkl,slight_left,10,9,0.9,90.0,10.0,0.0999999999999999,9.999999999999998
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,1,navdecodingsphereaiappearingobstacle_Maui_20250523_1154_B_trials.pkl,slight_right,9,7,0.7777777777777778,77.77777777777779,11.11111111111111,0.0222222222222222,2.222222222222225
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,1,navdecodingsphereaiappearingobstacle_Maui_20250523_1154_B_trials.pkl,straight,9,7,0.7777777777777778,77.77777777777779,11.11111111111111,0.0222222222222222,2.222222222222225
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,2,navdecodingsphereaiappearingobstacle_Maui_20250526_1147_B_trials.pkl,left,7,2,0.2857142857142857,28.57142857142857,14.285714285714286,0.4142857142857142,41.42857142857142
+gt10_to_20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,2,navdecodingsphereaiappearingobstacle_Maui_20250526_1147_B_trials.pkl,right,6,1,0.1666666666666666,16.666666666666664,16.666666666666668,0.3333333333333333,33.333333333333336
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,2,navdecodingsphereaiappearingobstacle_Maui_20250526_1147_B_trials.pkl,slight_left,10,4,0.4,40.0,10.0,0.2999999999999999,29.999999999999996
+exact_0,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,2,navdecodingsphereaiappearingobstacle_Maui_20250526_1147_B_trials.pkl,slight_right,3,0,0.0,0.0,33.333333333333336,1.0,100.0
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,2,navdecodingsphereaiappearingobstacle_Maui_20250526_1147_B_trials.pkl,straight,9,6,0.6666666666666666,66.66666666666666,11.11111111111111,0.3333333333333333,33.333333333333336
+gt0_to_10,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,3,navdecodingsphereaiappearingobstacle_Maui_20250603_1217_C_trials.pkl,left,10,1,0.1,10.0,10.0,0.9,90.0
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,3,navdecodingsphereaiappearingobstacle_Maui_20250603_1217_C_trials.pkl,right,10,5,0.5,50.0,10.0,0.3,30.000000000000004
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,3,navdecodingsphereaiappearingobstacle_Maui_20250603_1217_C_trials.pkl,slight_left,10,6,0.6,60.0,10.0,0.3,30.000000000000004
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,3,navdecodingsphereaiappearingobstacle_Maui_20250603_1217_C_trials.pkl,slight_right,10,7,0.7,70.0,10.0,0.1181818181818182,11.818181818181827
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,3,navdecodingsphereaiappearingobstacle_Maui_20250603_1217_C_trials.pkl,straight,10,9,0.9,90.0,10.0,-0.0999999999999999,-9.999999999999998
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,4,navdecodingsphereaiappearingobstacle_Maui_20250604_1219_A_trials.pkl,left,12,6,0.5,50.0,8.333333333333334,0.25,25.0
+gt0_to_10,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,4,navdecodingsphereaiappearingobstacle_Maui_20250604_1219_A_trials.pkl,right,12,1,0.0833333333333333,8.333333333333332,8.333333333333334,0.1666666666666666,16.666666666666668
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,4,navdecodingsphereaiappearingobstacle_Maui_20250604_1219_A_trials.pkl,slight_left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.2878787878787879,28.7878787878788
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,4,navdecodingsphereaiappearingobstacle_Maui_20250604_1219_A_trials.pkl,slight_right,12,5,0.4166666666666667,41.66666666666667,8.333333333333334,0.4924242424242424,49.24242424242424
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,4,navdecodingsphereaiappearingobstacle_Maui_20250604_1219_A_trials.pkl,straight,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.1818181818181818,18.181818181818187
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,5,navdecodingsphereaiappearingobstacle_Maui_20250605_1246_B_trials.pkl,left,10,5,0.5,50.0,10.0,0.1999999999999999,20.0
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,5,navdecodingsphereaiappearingobstacle_Maui_20250605_1246_B_trials.pkl,right,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.5454545454545454,54.54545454545454
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,5,navdecodingsphereaiappearingobstacle_Maui_20250605_1246_B_trials.pkl,slight_left,10,6,0.6,60.0,10.0,0.1272727272727273,12.727272727272732
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,5,navdecodingsphereaiappearingobstacle_Maui_20250605_1246_B_trials.pkl,slight_right,10,9,0.9,90.0,10.0,0.009090909090909,0.9090909090909038
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,5,navdecodingsphereaiappearingobstacle_Maui_20250605_1246_B_trials.pkl,straight,10,7,0.7,70.0,10.0,0.3,30.000000000000004
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,6,navdecodingsphereaiappearingobstacle_Maui_20250616_1127_B_trials.pkl,left,13,8,0.6153846153846154,61.53846153846154,7.6923076923076925,0.3012820512820512,30.12820512820512
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,6,navdecodingsphereaiappearingobstacle_Maui_20250616_1127_B_trials.pkl,right,12,3,0.25,25.0,8.333333333333334,0.5,50.0
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,6,navdecodingsphereaiappearingobstacle_Maui_20250616_1127_B_trials.pkl,slight_left,12,9,0.75,75.0,8.333333333333334,0.1666666666666666,16.666666666666664
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,6,navdecodingsphereaiappearingobstacle_Maui_20250616_1127_B_trials.pkl,slight_right,12,5,0.4166666666666667,41.66666666666667,8.333333333333334,0.5064102564102564,50.64102564102564
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,6,navdecodingsphereaiappearingobstacle_Maui_20250616_1127_B_trials.pkl,straight,13,9,0.6923076923076923,69.23076923076923,7.6923076923076925,0.2243589743589743,22.435897435897434
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,7,navdecodingsphereaiappearingobstacle_Maui_20250617_1127_A_trials.pkl,left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.1545454545454545,15.454545454545451
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,7,navdecodingsphereaiappearingobstacle_Maui_20250617_1127_A_trials.pkl,right,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.4545454545454546,45.45454545454546
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,7,navdecodingsphereaiappearingobstacle_Maui_20250617_1127_A_trials.pkl,slight_left,12,10,0.8333333333333334,83.33333333333334,8.333333333333334,0.1666666666666666,16.666666666666664
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,7,navdecodingsphereaiappearingobstacle_Maui_20250617_1127_A_trials.pkl,slight_right,11,8,0.7272727272727273,72.72727272727273,9.090909090909092,0.1818181818181817,18.181818181818176
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,7,navdecodingsphereaiappearingobstacle_Maui_20250617_1127_A_trials.pkl,straight,12,11,0.9166666666666666,91.66666666666666,8.333333333333334,-0.1893939393939393,-18.93939393939393
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,8,navdecodingsphereaiappearingobstacle_Maui_20250618_1203_A_trials.pkl,left,11,3,0.2727272727272727,27.27272727272727,9.090909090909092,0.1272727272727273,12.727272727272732
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,8,navdecodingsphereaiappearingobstacle_Maui_20250618_1203_A_trials.pkl,right,11,8,0.7272727272727273,72.72727272727273,9.090909090909092,0.0909090909090909,9.090909090909092
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,8,navdecodingsphereaiappearingobstacle_Maui_20250618_1203_A_trials.pkl,slight_left,11,7,0.6363636363636364,63.63636363636363,9.090909090909092,-0.0909090909090909,-9.090909090909092
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,8,navdecodingsphereaiappearingobstacle_Maui_20250618_1203_A_trials.pkl,slight_right,11,11,1.0,100.0,9.090909090909092,-0.0833333333333333,-8.333333333333337
+gt20,Monkey 1,AI Appearing Obstacle 2,Appearing Obstacle follow-up,8,navdecodingsphereaiappearingobstacle_Maui_20250618_1203_A_trials.pkl,straight,11,7,0.6363636363636364,63.63636363636363,9.090909090909092,0.1818181818181818,18.181818181818187
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Loki_20241126_1159_C_trials.pkl,left,9,3,0.3333333333333333,33.33333333333333,11.11111111111111,0.0,0.0
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Loki_20241126_1159_C_trials.pkl,right,11,1,0.0909090909090909,9.090909090909092,9.090909090909092,0.4924242424242424,49.24242424242424
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Loki_20241126_1159_C_trials.pkl,slight_left,11,3,0.2727272727272727,27.27272727272727,9.090909090909092,0.1717171717171717,17.17171717171717
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Loki_20241126_1159_C_trials.pkl,slight_right,9,3,0.3333333333333333,33.33333333333333,11.11111111111111,0.1666666666666666,16.666666666666668
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,0,navdecodingsphereaiobstacle_Loki_20241126_1159_C_trials.pkl,straight,8,1,0.125,12.5,12.5,0.275,27.500000000000004
+exact_0,Monkey 2,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Loki_20241129_1213_A_trials.pkl,left,8,0,0.0,0.0,12.5,0.0,0.0
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Loki_20241129_1213_A_trials.pkl,right,12,1,0.0833333333333333,8.333333333333332,8.333333333333334,0.4722222222222222,47.22222222222223
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Loki_20241129_1213_A_trials.pkl,slight_left,9,3,0.3333333333333333,33.33333333333333,11.11111111111111,0.1212121212121212,12.12121212121212
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Loki_20241129_1213_A_trials.pkl,slight_right,10,4,0.4,40.0,10.0,0.6,60.0
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,1,navdecodingsphereaiobstacle_Loki_20241129_1213_A_trials.pkl,straight,10,2,0.2,20.0,10.0,0.709090909090909,70.9090909090909
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Loki_20241209_0953_C_trials.pkl,left,9,1,0.1111111111111111,11.11111111111111,11.11111111111111,0.0,0.0
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Loki_20241209_0953_C_trials.pkl,right,11,2,0.1818181818181818,18.181818181818183,9.090909090909092,0.0909090909090908,9.090909090909088
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Loki_20241209_0953_C_trials.pkl,slight_left,10,3,0.3,30.0,10.0,0.3999999999999999,40.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Loki_20241209_0953_C_trials.pkl,slight_right,10,7,0.7,70.0,10.0,0.1,10.000000000000009
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,2,navdecodingsphereaiobstacle_Loki_20241209_0953_C_trials.pkl,straight,10,3,0.3,30.0,10.0,0.5,50.0
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Loki_20241210_1005_A_trials.pkl,left,10,1,0.1,10.0,10.0,0.4555555555555556,45.55555555555556
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Loki_20241210_1005_A_trials.pkl,right,9,3,0.3333333333333333,33.33333333333333,11.11111111111111,0.393939393939394,39.3939393939394
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Loki_20241210_1005_A_trials.pkl,slight_left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.2545454545454546,25.454545454545464
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Loki_20241210_1005_A_trials.pkl,slight_right,10,4,0.4,40.0,10.0,0.5,50.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,3,navdecodingsphereaiobstacle_Loki_20241210_1005_A_trials.pkl,straight,11,4,0.3636363636363636,36.36363636363637,9.090909090909092,0.4141414141414141,41.41414141414141
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Loki_20241211_1004_B_trials.pkl,left,8,1,0.125,12.5,12.5,-0.0249999999999999,-2.5
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Loki_20241211_1004_B_trials.pkl,right,10,2,0.2,20.0,10.0,-0.0181818181818181,-1.8181818181818188
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Loki_20241211_1004_B_trials.pkl,slight_left,10,5,0.5,50.0,10.0,0.2272727272727273,22.72727272727273
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Loki_20241211_1004_B_trials.pkl,slight_right,11,2,0.1818181818181818,18.181818181818183,9.090909090909092,0.6181818181818182,61.81818181818181
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,4,navdecodingsphereaiobstacle_Loki_20241211_1004_B_trials.pkl,straight,8,4,0.5,50.0,12.5,0.5,50.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Loki_20241216_1115_D_trials.pkl,left,9,2,0.2222222222222222,22.22222222222222,11.11111111111111,0.1111111111111111,11.11111111111111
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Loki_20241216_1115_D_trials.pkl,right,9,2,0.2222222222222222,22.22222222222222,11.11111111111111,-0.0555555555555555,-5.555555555555555
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Loki_20241216_1115_D_trials.pkl,slight_left,11,6,0.5454545454545454,54.54545454545454,9.090909090909092,0.0909090909090909,9.090909090909092
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Loki_20241216_1115_D_trials.pkl,slight_right,10,6,0.6,60.0,10.0,0.2,20.000000000000007
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,5,navdecodingsphereaiobstacle_Loki_20241216_1115_D_trials.pkl,straight,9,4,0.4444444444444444,44.44444444444444,11.11111111111111,0.4555555555555556,45.55555555555556
+exact_0,Monkey 2,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Loki_20241217_1055_D_trials.pkl,left,8,0,0.0,0.0,12.5,0.25,25.0
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Loki_20241217_1055_D_trials.pkl,right,10,2,0.2,20.0,10.0,0.0222222222222222,2.22222222222222
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Loki_20241217_1055_D_trials.pkl,slight_left,12,8,0.6666666666666666,66.66666666666666,8.333333333333334,0.3333333333333333,33.333333333333336
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Loki_20241217_1055_D_trials.pkl,slight_right,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.5454545454545454,54.54545454545454
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,6,navdecodingsphereaiobstacle_Loki_20241217_1055_D_trials.pkl,straight,11,5,0.4545454545454545,45.45454545454545,9.090909090909092,0.3636363636363637,36.36363636363637
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Loki_20241218_1008_C_trials.pkl,left,10,4,0.4,40.0,10.0,0.0444444444444444,4.444444444444439
+gt10_to_20,Monkey 2,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Loki_20241218_1008_C_trials.pkl,right,12,2,0.1666666666666666,16.666666666666664,8.333333333333334,-0.1666666666666666,-16.666666666666664
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Loki_20241218_1008_C_trials.pkl,slight_left,8,5,0.625,62.5,12.5,0.0749999999999999,7.499999999999996
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Loki_20241218_1008_C_trials.pkl,slight_right,11,4,0.3636363636363636,36.36363636363637,9.090909090909092,0.6363636363636364,63.63636363636363
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,7,navdecodingsphereaiobstacle_Loki_20241218_1008_C_trials.pkl,straight,10,5,0.5,50.0,10.0,0.3,30.000000000000004
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Loki_20241219_1457_A_trials.pkl,left,10,1,0.1,10.0,10.0,0.0,0.0
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Loki_20241219_1457_A_trials.pkl,right,10,1,0.1,10.0,10.0,0.5,50.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Loki_20241219_1457_A_trials.pkl,slight_left,10,4,0.4,40.0,10.0,0.2999999999999999,29.999999999999996
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Loki_20241219_1457_A_trials.pkl,slight_right,9,8,0.8888888888888888,88.88888888888889,11.11111111111111,0.1111111111111111,11.111111111111116
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,8,navdecodingsphereaiobstacle_Loki_20241219_1457_A_trials.pkl,straight,10,3,0.3,30.0,10.0,0.5181818181818183,51.81818181818183
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Loki_20241223_1106_E_trials.pkl,left,10,1,0.1,10.0,10.0,0.1999999999999999,20.0
+exact_0,Monkey 2,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Loki_20241223_1106_E_trials.pkl,right,10,0,0.0,0.0,10.0,0.5,50.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Loki_20241223_1106_E_trials.pkl,slight_left,10,9,0.9,90.0,10.0,0.009090909090909,0.9090909090909038
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Loki_20241223_1106_E_trials.pkl,slight_right,10,5,0.5,50.0,10.0,0.5,50.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,9,navdecodingsphereaiobstacle_Loki_20241223_1106_E_trials.pkl,straight,10,3,0.3,30.0,10.0,0.7,70.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Loki_20241224_1009_A_trials.pkl,left,10,3,0.3,30.0,10.0,0.1,10.000000000000004
+gt0_to_10,Monkey 2,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Loki_20241224_1009_A_trials.pkl,right,10,1,0.1,10.0,10.0,0.2636363636363636,26.363636363636367
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Loki_20241224_1009_A_trials.pkl,slight_left,10,5,0.5,50.0,10.0,0.4,40.0
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Loki_20241224_1009_A_trials.pkl,slight_right,10,5,0.5,50.0,10.0,0.3888888888888888,38.888888888888886
+gt20,Monkey 2,AI Obstacle,Fixed Obstacle,10,navdecodingsphereaiobstacle_Loki_20241224_1009_A_trials.pkl,straight,10,9,0.9,90.0,10.0,-0.2,-20.000000000000007
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Loki_20241209_1007_A_trials.pkl,left,5,0,0.0,0.0,20.0,0.0,0.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Loki_20241209_1007_A_trials.pkl,right,5,0,0.0,0.0,20.0,0.1818181818181818,18.181818181818183
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Loki_20241209_1007_A_trials.pkl,slight_left,5,0,0.0,0.0,20.0,0.4545454545454545,45.45454545454545
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Loki_20241209_1007_A_trials.pkl,slight_right,6,1,0.1666666666666666,16.666666666666664,16.666666666666668,0.5333333333333333,53.333333333333336
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,0,navdecodingsphereaiappearingobstacle_Loki_20241209_1007_A_trials.pkl,straight,3,0,0.0,0.0,33.333333333333336,0.9090909090909092,90.9090909090909
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Loki_20241210_1019_A_trials.pkl,left,5,0,0.0,0.0,20.0,0.4,40.0
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Loki_20241210_1019_A_trials.pkl,right,5,1,0.2,20.0,20.0,0.3,30.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Loki_20241210_1019_A_trials.pkl,slight_left,6,4,0.6666666666666666,66.66666666666666,16.666666666666668,0.2424242424242424,24.24242424242424
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Loki_20241210_1019_A_trials.pkl,slight_right,5,1,0.2,20.0,20.0,0.6000000000000001,60.00000000000001
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,1,navdecodingsphereaiappearingobstacle_Loki_20241210_1019_A_trials.pkl,straight,5,3,0.6,60.0,20.0,0.4,40.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Loki_20241211_1035_B_trials.pkl,left,6,0,0.0,0.0,16.666666666666668,0.0,0.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Loki_20241211_1035_B_trials.pkl,right,6,0,0.0,0.0,16.666666666666668,0.0,0.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Loki_20241211_1035_B_trials.pkl,slight_left,4,2,0.5,50.0,25.0,0.2272727272727273,22.72727272727273
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Loki_20241211_1035_B_trials.pkl,slight_right,4,1,0.25,25.0,25.0,0.6590909090909091,65.9090909090909
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,2,navdecodingsphereaiappearingobstacle_Loki_20241211_1035_B_trials.pkl,straight,6,2,0.3333333333333333,33.33333333333333,16.666666666666668,0.5757575757575757,57.57575757575757
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Loki_20241216_1129_A_trials.pkl,left,5,0,0.0,0.0,20.0,0.1818181818181818,18.181818181818183
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Loki_20241216_1129_A_trials.pkl,right,5,0,0.0,0.0,20.0,0.0,0.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Loki_20241216_1129_A_trials.pkl,slight_left,4,1,0.25,25.0,25.0,0.75,75.0
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Loki_20241216_1129_A_trials.pkl,slight_right,6,1,0.1666666666666666,16.666666666666664,16.666666666666668,0.6333333333333334,63.33333333333334
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,3,navdecodingsphereaiappearingobstacle_Loki_20241216_1129_A_trials.pkl,straight,5,1,0.2,20.0,20.0,0.7,70.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Loki_20241217_1110_A_trials.pkl,left,5,0,0.0,0.0,20.0,0.0,0.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Loki_20241217_1110_A_trials.pkl,right,4,1,0.25,25.0,25.0,-0.25,-25.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Loki_20241217_1110_A_trials.pkl,slight_left,4,2,0.5,50.0,25.0,0.5,50.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Loki_20241217_1110_A_trials.pkl,slight_right,5,2,0.4,40.0,20.0,-0.1272727272727273,-12.727272727272732
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,4,navdecodingsphereaiappearingobstacle_Loki_20241217_1110_A_trials.pkl,straight,5,2,0.4,40.0,20.0,0.6,60.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Loki_20241218_1022_A_trials.pkl,left,5,0,0.0,0.0,20.0,0.0,0.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Loki_20241218_1022_A_trials.pkl,right,6,0,0.0,0.0,16.666666666666668,0.0,0.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Loki_20241218_1022_A_trials.pkl,slight_left,5,2,0.4,40.0,20.0,0.4181818181818182,41.81818181818182
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Loki_20241218_1022_A_trials.pkl,slight_right,6,1,0.1666666666666666,16.666666666666664,16.666666666666668,0.5333333333333333,53.333333333333336
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,5,navdecodingsphereaiappearingobstacle_Loki_20241218_1022_A_trials.pkl,straight,5,3,0.6,60.0,20.0,0.3,30.000000000000004
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Loki_20241219_1511_A_trials.pkl,left,5,0,0.0,0.0,20.0,0.1,10.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Loki_20241219_1511_A_trials.pkl,right,5,0,0.0,0.0,20.0,0.1818181818181818,18.181818181818183
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Loki_20241219_1511_A_trials.pkl,slight_left,5,0,0.0,0.0,20.0,0.8181818181818182,81.81818181818183
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Loki_20241219_1511_A_trials.pkl,slight_right,5,2,0.4,40.0,20.0,0.6,60.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,6,navdecodingsphereaiappearingobstacle_Loki_20241219_1511_A_trials.pkl,straight,5,3,0.6,60.0,20.0,0.3090909090909091,30.909090909090907
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Loki_20241223_1119_A_trials.pkl,left,6,0,0.0,0.0,16.666666666666668,0.3,30.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Loki_20241223_1119_A_trials.pkl,right,6,0,0.0,0.0,16.666666666666668,0.0,0.0
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Loki_20241223_1119_A_trials.pkl,slight_left,4,0,0.0,0.0,25.0,0.8888888888888888,88.88888888888889
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Loki_20241223_1119_A_trials.pkl,slight_right,6,4,0.6666666666666666,66.66666666666666,16.666666666666668,0.2424242424242424,24.24242424242424
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,7,navdecodingsphereaiappearingobstacle_Loki_20241223_1119_A_trials.pkl,straight,5,3,0.6,60.0,20.0,0.4,40.0
+gt10_to_20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Loki_20241224_1022_A_trials.pkl,left,7,1,0.1428571428571428,14.285714285714285,14.285714285714286,0.0571428571428571,5.714285714285716
+exact_0,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Loki_20241224_1022_A_trials.pkl,right,4,0,0.0,0.0,25.0,0.1818181818181818,18.181818181818183
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Loki_20241224_1022_A_trials.pkl,slight_left,5,2,0.4,40.0,20.0,0.6,60.0
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Loki_20241224_1022_A_trials.pkl,slight_right,6,3,0.5,50.0,16.666666666666668,0.0555555555555555,5.555555555555558
+gt20,Monkey 2,AI Appearing Obstacle,Appearing Obstacle,8,navdecodingsphereaiappearingobstacle_Loki_20241224_1022_A_trials.pkl,straight,6,2,0.3333333333333333,33.33333333333333,16.666666666666668,0.6666666666666667,66.66666666666667

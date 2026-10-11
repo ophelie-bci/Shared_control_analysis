@@ -1,0 +1,3 @@
+condition,n_correct_crossed,n_incorrect_crossed,correct_median_ms,incorrect_median_ms,incorrect_minus_correct_median_ms,mannwhitney_u,p_value
+AI,534,196,384.29999999998836,683.0000000000582,298.70000000006985,28324.0,1.947198275100675e-21
+No AI,635,121,449.80000000004657,543.0,93.19999999995343,32726.5,0.009745739757667156

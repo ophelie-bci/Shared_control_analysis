@@ -1,0 +1,12 @@
+Data-driven representative trajectory examples for execution-failure intuition.
+Categories match canonical execution-failure fields: stuck_obstacle, overshoot, not_close_to_true_z, and not_long_enough.
+Correct target acquisition example: successful trial with at least 10 consecutive frames inside the true-target window.
+Blocked example: failed trial that enters the inflated obstacle square and does not pass the obstacle.
+Target overshoot rule: failed trial enters the true-target window, then later has z > target_z + 2.10 m before satisfying the 10-frame dwell criterion.
+Insufficient target proximity example: failed trial that does not enter the true-target window and does not pass the target z coordinate.
+Insufficient dwell time example: failed trial that enters the true-target window but stays there for fewer than 10 consecutive frames.
+Collision radius shown: 0.70 m.
+Obstacle-proximity selection radius: 0.94 m.
+Stuck selection inflated obstacle half-width: 0.90 m.
+Stuck selection minimum consecutive frames: 1.
+Wrong-target/timeout endpoint window half-width: 2.10 m.

@@ -1,0 +1,5 @@
+condition,outcome,n_trials,n_bci_reoriented,pct_bci_reoriented_within_2s,pct_bci_failed_reorientation_within_2s,median_bci_reorientation_latency_ms,iqr_bci_reorientation_latency_ms
+Shared control,correct,535,534,99.81308411214953,0.18691588785045998,384.2999999999884,400.70000000009895
+Shared control,incorrect,260,196,75.38461538461539,24.61538461538461,683.0000000000582,452.32499999995343
+BCI-only,correct,635,635,100.0,0.0,449.80000000004657,374.8500000000349
+BCI-only,incorrect,165,121,73.33333333333333,26.66666666666666,543.0,583.8000000000466

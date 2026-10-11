@@ -1,0 +1,5 @@
+prior_condition,condition,n_trials,n_success,success_rate,success_pct
+Hidden prior,BCI-only,275,110,0.4,40.0
+Hidden prior,Shared-control,378,262,0.6931216931216931,69.31216931216932
+No hidden prior,BCI-only,357,213,0.5966386554621849,59.66386554621849
+No hidden prior,Shared-control,382,306,0.8010471204188482,80.10471204188482

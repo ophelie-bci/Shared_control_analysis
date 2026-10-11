@@ -17,9 +17,9 @@ TABLES_DIR = PROJECT_ROOT / "tables"
 FIGURE_DIR_TARGETS = [
     ("Figure 2", "Figure 2"),
     ("Extended Data Figure 1", "Extended Data Figure 1"),
-    ("Failure modes (execution grouped) - all monkeys x all tasks", "Figure 4/Failure modes"),
-    ("Execution failure modes (all monkeys x all tasks)", "Figure 4/Failure modes"),
-    ("Success by choice state (global)", "Figure 4/Success by choice state"),
+    ("Failure modes (execution grouped) - all monkeys x all tasks", "Figure 5/Failure modes"),
+    ("Execution failure modes (all monkeys x all tasks)", "Figure 5/Failure modes"),
+    ("Success by choice state (global)", "Figure 5/Success by choice state"),
 ]
 
 FIGURE3_AI_GAIN_FILES = {
@@ -44,10 +44,47 @@ TABLE_TARGETS = [
         "extended_data_table_1_success_rate_by_task_excel_semicolon.csv",
         "Extended Data Table 1",
     ),
-    (
-        "extended_data_table_2_additive_multiplicative_aic_excel_semicolon.csv",
-        "Extended Data Table 2",
-    ),
+    ("ai_only_baseline_analysis_note.md", "AI-only baseline"),
+    ("ai_only_candidate_replay_rows_template.csv", "AI-only baseline"),
+    ("ai_only_replay_run_status.md", "AI-only baseline"),
+    ("example_aitrials_pickle_field_inspection.md", "AI-only baseline"),
+    ("example_ai_log_field_inspection.md", "AI-only baseline"),
+    ("ai_only_candidate_replay_rows.csv", "AI-only baseline"),
+    ("ai_only_candidate_replay_rows_normalized.csv", "AI-only baseline"),
+    ("ai_only_baseline_summary.csv", "AI-only baseline"),
+    ("ai_only_reached_target_distribution.csv", "AI-only baseline"),
+    ("ai_only_k5_critical_comparison.csv", "AI-only baseline"),
+    ("shared_minus_ai_only_by_k.csv", "AI-only baseline"),
+    ("hidden_prior_followup_trial_rows.csv", "Hidden prior follow-up"),
+    ("hidden_prior_followup_session_gains.csv", "Hidden prior follow-up"),
+    ("hidden_prior_followup_gain_summary.csv", "Hidden prior follow-up"),
+    ("hidden_prior_followup_gain_comparison.csv", "Hidden prior follow-up"),
+    ("hidden_prior_followup_trial_level_interaction.csv", "Hidden prior follow-up"),
+    ("hidden_prior_followup_trial_success_summary.csv", "Hidden prior follow-up"),
+    ("hidden_prior_followup_report.md", "Hidden prior follow-up"),
+    ("appearing_obstacle_log_coordinate_audit.csv", "Hidden prior follow-up"),
+    ("appearing_obstacle_log_coordinate_audit_summary.csv", "Hidden prior follow-up"),
+    ("appearing_obstacle_log_coordinate_audit.md", "Hidden prior follow-up"),
+    ("followup_reactive_obstacle_trial_metrics.csv", "Follow-up reactive obstacle"),
+    ("followup_reactive_obstacle_session_metrics.csv", "Follow-up reactive obstacle"),
+    ("followup_reactive_obstacle_summary.csv", "Follow-up reactive obstacle"),
+    ("followup_reactive_obstacle_trial_models.csv", "Follow-up reactive obstacle"),
+    ("followup_reactive_obstacle_report.md", "Follow-up reactive obstacle"),
+    ("gain_curve_target_session_rows.csv", "Gain curve pooling audit"),
+    ("gain_curve_baseline_bin_counts.csv", "Gain curve pooling audit"),
+    ("gain_curve_baseline_distribution.csv", "Gain curve pooling audit"),
+    ("gain_curve_nested_model_comparisons.csv", "Gain curve pooling audit"),
+    ("gain_curve_cross_validated_mse.csv", "Gain curve pooling audit"),
+    ("gain_curve_binomial_logit_robustness.csv", "Gain curve pooling audit"),
+    ("gain_curve_separate_quadratic_fits.csv", "Gain curve pooling audit"),
+    ("gain_curve_pooling_audit_report.md", "Gain curve pooling audit"),
+    ("figure3c_original_session_target_audit.csv", "Figure 3C original session audit"),
+    ("figure3c_original_plotted_target_points.csv", "Figure 3C original session audit"),
+    ("figure3c_original_experiment_summary.csv", "Figure 3C original session audit"),
+    ("figure3c_original_session_audit_report.md", "Figure 3C original session audit"),
+    ("figure3c_stratified_points.csv", "Figure 3C stratified"),
+    ("figure3c_stratified_quadratic_fits.csv", "Figure 3C stratified"),
+    ("figure3c_stratified_plot_report.md", "Figure 3C stratified"),
 ]
 ALLOWED_TABLE_FOLDERS = {folder for _, folder in TABLE_TARGETS}
 ALLOWED_TABLE_FILES = {filename for filename, _ in TABLE_TARGETS}
@@ -100,15 +137,15 @@ def _figure_file_target(path: Path) -> Path | None:
     if name.startswith("figure2_fixed_obstacle_"):
         return FIGURES_DIR / "Figure 2" / name
     if name in FIGURE3_AI_GAIN_FILES:
-        return FIGURES_DIR / "Figure 3" / "AI gain with baseline" / name
+        return FIGURES_DIR / "Figure 4" / "AI gain with baseline" / name
     if name in {"execution_failure_modes__global.svg", "failure_modes_rebinned__global.svg"}:
-        return FIGURES_DIR / "Figure 4" / "Failure modes" / name
+        return FIGURES_DIR / "Figure 5" / "Failure modes" / name
     if name == "global_success_by_state_success_by_state.svg":
-        return FIGURES_DIR / "Figure 4" / "Success by choice state" / name
+        return FIGURES_DIR / "Figure 5" / "Success by choice state" / name
     if name in FIGURE5_PRIOR_CONFIDENCE_FILES:
-        return FIGURES_DIR / "Figure 5" / "Prior confidence index" / name
+        return FIGURES_DIR / "Figure 6" / "Prior confidence index" / name
     if name.startswith("temporal_prior_reset_example_"):
-        return FIGURES_DIR / "Figure 5" / "Temporal prior reset" / name
+        return FIGURES_DIR / "Figure 6" / "Temporal prior reset" / name
     if name in EXTENDED_DATA_FIGURE2_FILES:
         return FIGURES_DIR / "Extended Data Figure 2" / "Prior confidence index" / name
     return None

@@ -1,0 +1,10 @@
+Data-driven representative trajectory examples for failure-mode intuition.
+Collision/stuck example: failed trial that remains inside the inflated obstacle square for consecutive frames and does not pass the obstacle.
+Wrong-target example: failed trial ending inside a non-target window, outside the true-target window, and not colliding by the stricter collision radius.
+Timeout/failure-to-complete example: failed trial that neither collided nor ended in another target window, selected for longest duration.
+Shared-control rescue example: successful AI-on trial with the smallest non-colliding obstacle clearance.
+Collision radius shown: 0.70 m.
+Obstacle-proximity selection radius: 0.94 m.
+Stuck selection inflated obstacle half-width: 0.90 m.
+Stuck selection minimum consecutive frames: 1.
+Wrong-target/timeout endpoint window half-width: 2.10 m.

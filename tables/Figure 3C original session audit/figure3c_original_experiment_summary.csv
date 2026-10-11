@@ -1,0 +1,8 @@
+audit,monkey,source_monkey_folder,experiment,source_experiment_folder,n_plotted_target_points,n_available_session_files,min_sessions_with_both_conditions,median_sessions_with_both_conditions,max_sessions_with_both_conditions
+default_run_success_rate_paths,Monkey 1,Monkey 1,AI Appearing Obstacle,AI Appearing Obstacle,5,9,9,9.0,9
+default_run_success_rate_paths,Monkey 1,Monkey 1,AI Obstacle,AI Obstacle,5,11,11,11.0,11
+mapped_manuscript_source_paths,Monkey 1,Monkey 3,AI Appearing Obstacle,AI Appearing Obstacle,5,9,9,9.0,9
+mapped_manuscript_source_paths,Monkey 1,Monkey 3,AI Appearing Obstacle 2,AI Appearing Obstacle 2,5,7,7,7.0,7
+mapped_manuscript_source_paths,Monkey 1,Monkey 3,AI Obstacle,AI Obstacle,5,12,12,12.0,12
+mapped_manuscript_source_paths,Monkey 2,Monkey 1,AI Appearing Obstacle,AI Appearing Obstacle,5,9,9,9.0,9
+mapped_manuscript_source_paths,Monkey 2,Monkey 1,AI Obstacle,AI Obstacle,5,11,11,11.0,11

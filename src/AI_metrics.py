@@ -1204,31 +1204,6 @@ def window_input_to_target_mean(trial, center="target", window=(-0.05,+0.05), vm
     keep = (t_rel >= window[0]) & (t_rel <= window[1])
     return float(np.nanmean(c[keep])) if np.any(keep) else np.nan
 
-def compute_additive_vs_multiplicative_effect(success_rate_ai_on_all, success_rate_ai_off_all):
-    # Convert to numpy arrays
-    sr_on  = np.array(success_rate_ai_on_all)
-    sr_off = np.array(success_rate_ai_off_all)
-
-    # Drop NaNs if any
-    mask = ~np.isnan(sr_on) & ~np.isnan(sr_off)
-    sr_on, sr_off = sr_on[mask], sr_off[mask]
-
-    if len(sr_on) > 2:
-        # --- Additive model: SR_on = intercept + 1*SR_off
-        X_add = sm.add_constant(sr_off)   # adds intercept
-        model_add = sm.OLS(sr_on, X_add).fit()
-
-        # --- Multiplicative model: SR_on = slope*SR_off (no intercept)
-        model_mult = sm.OLS(sr_on, sr_off).fit()
-
-        print("\n[Additive model]")
-        print(model_add.summary())
-        print("\n[Multiplicative model]")
-        print(model_mult.summary())
-
-        # --- Compare AIC
-        print(f"\nModel comparison: AIC additive={model_add.aic:.2f}, multiplicative={model_mult.aic:.2f}")
-
 def summarize_input_alignment_windows(overshoot_trials, correct_trials, vmin=0.05):
     W = {
         "Apex ±50ms":    ("obstacle", (-0.05, +0.05)),
